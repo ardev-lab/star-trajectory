@@ -68,7 +68,11 @@ def main(argv=None):
     args = ap.parse_args(argv)
 
     status = {"mode": args.mode, "steps": [], "errors": []}
-    before = (file_hash(LEDGER), file_hash(CALIB))
+    # Change is detected on predictions.json only: calibration.json carries a
+    # generated_utc that bumps every run (which would force an empty commit each
+    # cycle), while predictions.json changes exactly when a prediction is added
+    # or scored — the real signal.
+    before = file_hash(LEDGER)
 
     def step(label, script, *a):
         r = run_step(script, *a)
@@ -77,18 +81,20 @@ def main(argv=None):
             status["errors"].append("%s: %s" % (label, (r.stderr or r.stdout).strip()[:300]))
         return r
 
-    # 1. Always grade matured predictions first (idempotent).
-    step("score", "score.py")
-    # 2. Predict mode: add new predictions for today's young repos.
+    # 1. Predict mode: add new predictions first, so scoring then recomputes
+    #    calibration over the full ledger (including the just-added open ones).
     if args.mode == "predict":
         step("predict", "predict.py", "--limit", str(args.limit))
-    # 3. Rerender the public track record from the ledger.
-    step("render", "render.py")
+    # 2. Grade matured predictions + recompute calibration (always, runs last).
+    step("score", "score.py")
 
-    after = (file_hash(LEDGER), file_hash(CALIB))
+    after = file_hash(LEDGER)
     changed = before != after
     status["ledger_changed"] = changed
 
+    # 3. Rerender + commit only when the ledger actually changed.
+    if changed:
+        step("render", "render.py")
     if changed and not args.no_git:
         git("add", *TRACKED)
         staged = git("diff", "--cached", "--quiet")

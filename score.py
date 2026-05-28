@@ -117,6 +117,19 @@ def compute_calibration(rows):
     }
 
 
+def _calibration_changed(new, path):
+    """True if the calibration stats differ from what's on disk, ignoring the
+    generated_utc timestamp — so a no-op run doesn't churn the file/git tree."""
+    if not os.path.exists(path):
+        return True
+    try:
+        old = json.load(open(path, encoding="utf-8"))
+    except (ValueError, OSError):
+        return True
+    strip = lambda d: {k: v for k, v in d.items() if k != "generated_utc"}
+    return strip(new) != strip(old)
+
+
 def main(argv=None):
     pr = argparse.ArgumentParser(description="Grade matured predictions and recompute calibration.")
     pr.add_argument("--timeout", type=int, default=10)
@@ -159,8 +172,9 @@ def main(argv=None):
 
     if graded:
         save_ledger(rows)
-    with open(CALIB, "w", encoding="utf-8") as f:
-        json.dump(calib, f, indent=2, ensure_ascii=False)
+    if _calibration_changed(calib, CALIB):
+        with open(CALIB, "w", encoding="utf-8") as f:
+            json.dump(calib, f, indent=2, ensure_ascii=False)
     acc = calib["direction_accuracy"]
     print("calibration: %s/%s directional correct (%s) -> %s" % (
         acc["n_correct"], acc["n_directional_calls"], acc["accuracy"], CALIB))
