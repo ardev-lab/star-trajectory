@@ -1,0 +1,62 @@
+{
+  "generated_utc": "2026-05-28T10:02:58Z",
+  "totals": {
+    "predictions": 5,
+    "open": 5,
+    "scored": 0,
+    "graded": 0,
+    "repo_gone": 0
+  },
+  "direction_accuracy": {
+    "n_directional_calls": 0,
+    "n_correct": 0,
+    "accuracy": null,
+    "note": "directional calls = HIT_lean + MISS_lean only; BORDERLINE / LOW_CONFIDENCE make no directional claim and are excluded."
+  },
+  "base_rate_hit": null,
+  "by_lean": {
+    "HIT_lean": {
+      "n": 0,
+      "actual_hit": 0,
+      "actual_miss": 0
+    },
+    "BORDERLINE": {
+      "n": 0,
+      "actual_hit": 0,
+      "actual_miss": 0
+    },
+    "MISS_lean": {
+      "n": 0,
+      "actual_hit": 0,
+      "actual_miss": 0
+    },
+    "LOW_CONFIDENCE": {
+      "n": 0,
+      "actual_hit": 0,
+      "actual_miss": 0
+    }
+  },
+  "by_phase": {
+    "1": {
+      "n_directional": 0,
+      "n_correct": 0,
+      "accuracy": null
+    },
+    "2": {
+      "n_directional": 0,
+      "n_correct": 0,
+      "accuracy": null
+    },
+    "3": {
+      "n_directional": 0,
+      "n_correct": 0,
+      "accuracy": null
+    },
+    "4": {
+      "n_directional": 0,
+      "n_correct": 0,
+      "accuracy": null
+    }
+  },
+  "scoring_note": "scored at/after each deadline; star count is the deadline count plus small post-deadline drift (slightly favorable to HIT)."
+}

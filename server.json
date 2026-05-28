@@ -1,0 +1,22 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.ardev-lab/star-trajectory",
+  "description": "Transparent rule-based GitHub star-trajectory classifier — growth phase + a calibrated 100-star/48h projection with per-rule evidence.",
+  "version": "0.1.0",
+  "repository": {
+    "url": "https://github.com/ardev-lab/star-trajectory",
+    "source": "github"
+  },
+  "packages": [
+    {
+      "registryType": "pypi",
+      "registryBaseUrl": "https://pypi.org",
+      "identifier": "star-trajectory",
+      "version": "0.1.0",
+      "runtimeHint": "uvx",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "star-trajectory"
+version = "0.1.0"
+description = "Transparent, dependency-free GitHub star-trajectory classifier — growth phase + a calibrated 100-star/48h projection with per-rule evidence."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "ardev", email = "hello@armadalab.dev" }]
+keywords = ["github", "stars", "trending", "forecast", "trajectory", "prediction", "mcp"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Environment :: Console",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Software Development :: Quality Assurance",
+    "Topic :: Utilities",
+]
+
+# The PyPI distribution bundles the optional MCP server, so `uvx star-trajectory`
+# launches the stdio MCP server out of the box. The pure-stdlib CLI (classify.py)
+# still has zero runtime dependencies when run as a single file.
+dependencies = ["mcp>=1.0"]
+
+[project.urls]
+Homepage = "https://github.com/ardev-lab/star-trajectory"
+Repository = "https://github.com/ardev-lab/star-trajectory"
+Issues = "https://github.com/ardev-lab/star-trajectory/issues"
+
+[project.scripts]
+# Default console script = MCP server (stdio), so `uvx star-trajectory` works for
+# MCP clients with no extra arguments. The CLI gets its own explicit name.
+star-trajectory = "mcp_server:main"
+star-trajectory-cli = "classify:main"
+
+[tool.setuptools]
+py-modules = ["classify", "mcp_server"]

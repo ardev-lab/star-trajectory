@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+*.swp
+.idea/
+.vscode/
+
+# Local outputs / scratch
+outputs/
+*.log
+*.local
+*.tmp
+
+# Engine operational state (local; the public health signal is the commit cadence)
+status.json
+
+# Vendored MCP registry CLI (downloaded per-machine, not source)
+mcp-publisher
+mcp-publisher_*.tar.gz
+
+# NOTE: predictions.json, calibration.json, and PREDICTIONS.md are the public
+# track record — they are committed intentionally, not ignored.

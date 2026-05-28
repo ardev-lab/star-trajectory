@@ -1,0 +1,9 @@
+# star-trajectory dependencies
+#
+# CORE (classify.py): NONE. Python 3.10+ standard library only.
+#   Run it with no install:  python3 classify.py --repo owner/name
+#
+# OPTIONAL (mcp_server.py): only if you want to expose the classifier as an MCP
+# tool for Claude Desktop / Cursor / other MCP clients. Install with:
+#   pip install -r requirements.txt
+mcp>=1.0

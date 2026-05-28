@@ -1,0 +1,31 @@
+# star-trajectory engine — crontab template (mechanism-first, no LLM, no metered API)
+#
+# This is how the public prediction track record stays alive: a daily pass adds
+# new predictions, an hourly pass scores matured ones and pushes the rerendered
+# PREDICTIONS.md, and a watchdog alerts if the engine goes stale or errors.
+#
+# Install: edit paths/python below, then `crontab -e` (or drop into /etc/cron.d).
+# Times are UTC. Replace /path/to/star-trajectory with the absolute repo path.
+#
+# --- one-time setup ---
+# 1) `git push` auth: point origin at an authenticated URL or configure a
+#    credential helper / SSH deploy key with push rights to ardev-lab/star-trajectory.
+#    Test by hand first:
+#        cd /path/to/star-trajectory && python3 run.py --mode score
+# 2) Watchdog webhook (optional, recommended): write the Discord webhook URL to a
+#    file readable only by this user (chmod 600) and export its path:
+#        export STAR_TRAJECTORY_WEBHOOK_FILE=/path/to/.secrets/star_trajectory_webhook
+#
+# --- crontab lines ---
+# Daily 08:10 UTC: add new predictions (audit-filtered), limit 8.
+10 8 * * *  cd /path/to/star-trajectory && /usr/bin/python3 run.py --mode predict --limit 8 >> engine.log 2>&1
+
+# Hourly :20 : score matured predictions, rerender, push only if the ledger changed.
+20 * * * *  cd /path/to/star-trajectory && /usr/bin/python3 run.py --mode score >> engine.log 2>&1
+
+# Hourly :30 : watchdog — alert if the engine is stale or the last cycle errored.
+30 * * * *  cd /path/to/star-trajectory && STAR_TRAJECTORY_WEBHOOK_FILE=/path/to/.secrets/star_trajectory_webhook /usr/bin/python3 watchdog.py >> engine.log 2>&1
+
+# Rate-limit note: the engine uses the anonymous GitHub API (60 req/h). A predict
+# cycle with the fake-star-audit filter costs ~6-7 calls per predicted repo, so
+# keep --limit at 6-8. Scoring costs ~1 call per matured prediction.
