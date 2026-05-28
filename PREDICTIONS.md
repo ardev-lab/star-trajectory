@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-05-28 10:02 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-05-28 11:02 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -12,13 +12,15 @@ _Last updated: 2026-05-28 10:02 UTC · regenerated from the ledger, not hand-edi
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 5 | 0 | 0 | 0 |
+| count | 7 | 0 | 0 | 0 |
 
 ## Open predictions (not yet decided)
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
 | [sverrejb/slint-kindle-backend](https://github.com/sverrejb/slint-kindle-backend) | 37★ | 100★ | ⛔ MISS_lean | accel | 2026-05-28T14:32:03Z |
+| [jasonengcc/KeyShot-Studio-Materials](https://github.com/jasonengcc/KeyShot-Studio-Materials) | 57★ | 100★ | ⛔ MISS_lean | accel | 2026-05-28T21:38:18Z |
+| [fazalyazdankhan12345-dotcom/Houdini-Pro-Workflows](https://github.com/fazalyazdankhan12345-dotcom/Houdini-Pro-Workflows) | 54★ | 100★ | ✅ HIT_lean | accel | 2026-05-28T21:44:24Z |
 | [aniraiden/ZMeshMend](https://github.com/aniraiden/ZMeshMend) | 24★ | 100★ | ⛔ MISS_lean | accel | 2026-05-29T03:08:05Z |
 | [yb2460/cli-anything-wps](https://github.com/yb2460/cli-anything-wps) | 45★ | 100★ | ➖ BORDERLINE | accel | 2026-05-29T08:26:06Z |
 | [kyrtstn/syv](https://github.com/kyrtstn/syv) | 28★ | 100★ | ⛔ MISS_lean | launch | 2026-05-29T10:50:01Z |
