@@ -52,8 +52,22 @@ except ImportError:
         audit = None
 
 LEDGER = os.path.join(os.path.dirname(os.path.abspath(__file__)), "predictions.json")
+SCAN_LOG = os.path.join(os.path.dirname(os.path.abspath(__file__)), "scan_audit.jsonl")
 SEARCH = "https://api.github.com/search/repositories"
 MIN_HOURS_LEFT = 2.0  # need a meaningful window between prediction and deadline
+
+
+def log_scan(repo, verdict, decision):
+    """Append one authenticity-screening result to a local, gitignored log. Feeds
+    the aggregate fake-star base-rate stat — repo names stay local; only aggregates
+    are ever published (same 'aggregate-only, anonymous' rule as work_01's FINDINGS)."""
+    rec = {"scanned_at_utc": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+           "repo": repo, "authenticity": verdict, "decision": decision}
+    try:
+        with open(SCAN_LOG, "a", encoding="utf-8") as f:
+            f.write(json.dumps(rec) + "\n")
+    except OSError:
+        pass
 
 
 def load_ledger(path=LEDGER):
@@ -180,6 +194,8 @@ def main(argv=None):
             continue
         # Dogfood fake-star-audit: a HIT_lean built on purchased stars is noise.
         verdict = None if args.no_audit else authenticity_verdict(repo, args.timeout)
+        if not args.no_audit and not args.dry_run:
+            log_scan(repo, verdict, "excluded_high" if verdict == "HIGH" else "predicted")
         if verdict == "HIGH":
             print("  exclude %-46s (fake-star risk: HIGH)" % repo, file=sys.stderr)
             continue

@@ -25,6 +25,8 @@ outputs/
 
 # Engine operational state (local; the public health signal is the commit cadence)
 status.json
+# Authenticity-screening log feeding the aggregate fake-star base-rate (names stay local)
+scan_audit.jsonl
 
 # Vendored MCP registry CLI (downloaded per-machine, not source)
 mcp-publisher
