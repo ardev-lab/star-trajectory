@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-05-28 15:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-05-28 22:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,25 +8,23 @@ _Last updated: 2026-05-28 15:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 1/1 = 100%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+**Direction accuracy: 2/3 = 67%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
 Base rate (share of scored repos that actually reached the target): 0%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 6 | 1 | 1 | 0 |
+| count | 4 | 3 | 3 | 0 |
 
 Accuracy by phase at prediction time:
 
 | phase | directional calls | correct | accuracy |
 |---|---|---|---|
-| 2 accel | 1 | 1 | 100% |
+| 2 accel | 3 | 2 | 67% |
 
 ## Open predictions (not yet decided)
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [jasonengcc/KeyShot-Studio-Materials](https://github.com/jasonengcc/KeyShot-Studio-Materials) | 57★ | 100★ | ⛔ MISS_lean | accel | 2026-05-28T21:38:18Z |
-| [fazalyazdankhan12345-dotcom/Houdini-Pro-Workflows](https://github.com/fazalyazdankhan12345-dotcom/Houdini-Pro-Workflows) | 54★ | 100★ | ✅ HIT_lean | accel | 2026-05-28T21:44:24Z |
 | [aniraiden/ZMeshMend](https://github.com/aniraiden/ZMeshMend) | 24★ | 100★ | ⛔ MISS_lean | accel | 2026-05-29T03:08:05Z |
 | [yb2460/cli-anything-wps](https://github.com/yb2460/cli-anything-wps) | 45★ | 100★ | ➖ BORDERLINE | accel | 2026-05-29T08:26:06Z |
 | [kyrtstn/syv](https://github.com/kyrtstn/syv) | 28★ | 100★ | ⛔ MISS_lean | launch | 2026-05-29T10:50:01Z |
@@ -36,6 +34,8 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [jasonengcc/KeyShot-Studio-Materials](https://github.com/jasonengcc/KeyShot-Studio-Materials) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 57★ → 57★ |
+| [fazalyazdankhan12345-dotcom/Houdini-Pro-Workflows](https://github.com/fazalyazdankhan12345-dotcom/Houdini-Pro-Workflows) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 54★ → 54★ |
 | [sverrejb/slint-kindle-backend](https://github.com/sverrejb/slint-kindle-backend) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 37★ → 44★ |
 
 ## Verify it yourself / 自分で検証
