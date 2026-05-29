@@ -200,11 +200,11 @@
     "arrival_archetype": "steady_organic",
     "authenticity": "LOW",
     "tool_version": "0.1.0",
-    "status": "open",
-    "outcome": null,
-    "actual_stars_at_deadline": null,
-    "direction_correct": null,
-    "scored_at_utc": null
+    "status": "scored",
+    "outcome": "MISS",
+    "actual_stars_at_deadline": 27,
+    "direction_correct": true,
+    "scored_at_utc": "2026-05-29T14:20:02Z"
   },
   {
     "repo": "bozhouDev/14days-build-claude-code-cli",
@@ -292,11 +292,11 @@
     "arrival_archetype": "steady_organic",
     "authenticity": "LOW",
     "tool_version": "0.1.0",
-    "status": "open",
-    "outcome": null,
-    "actual_stars_at_deadline": null,
-    "direction_correct": null,
-    "scored_at_utc": null
+    "status": "scored",
+    "outcome": "MISS",
+    "actual_stars_at_deadline": 49,
+    "direction_correct": true,
+    "scored_at_utc": "2026-05-29T14:20:03Z"
   },
   {
     "repo": "illusionyy/ps5-fw-spoof",
