@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-05-29 06:10 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-05-29 09:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,25 +8,24 @@ _Last updated: 2026-05-29 06:10 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 3/4 = 75%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+**Direction accuracy: 4/5 = 80%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
 Base rate (share of scored repos that actually reached the target): 0%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 11 | 4 | 4 | 0 |
+| count | 9 | 6 | 6 | 0 |
 
 Accuracy by phase at prediction time:
 
 | phase | directional calls | correct | accuracy |
 |---|---|---|---|
 | 2 accel | 4 | 3 | 75% |
+| 3 trajectory | 1 | 1 | 100% |
 
 ## Open predictions (not yet decided)
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [yb2460/cli-anything-wps](https://github.com/yb2460/cli-anything-wps) | 45★ | 100★ | ➖ BORDERLINE | accel | 2026-05-29T08:26:06Z |
-| [illusionyy/ps5-fw-spoof](https://github.com/illusionyy/ps5-fw-spoof) | 32★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-05-29T08:58:09Z |
 | [kyrtstn/syv](https://github.com/kyrtstn/syv) | 28★ | 100★ | ⛔ MISS_lean | launch | 2026-05-29T10:50:01Z |
 | [zhlmi/narrative-to-screen-reader](https://github.com/zhlmi/narrative-to-screen-reader) | 22★ | 100★ | ⛔ MISS_lean | accel | 2026-05-29T13:28:05Z |
 | [starlight36/vibecoding-signal-light](https://github.com/starlight36/vibecoding-signal-light) | 48★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-05-29T13:58:08Z |
@@ -41,6 +40,8 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [illusionyy/ps5-fw-spoof](https://github.com/illusionyy/ps5-fw-spoof) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 32★ → 32★ |
+| [yb2460/cli-anything-wps](https://github.com/yb2460/cli-anything-wps) | ➖ BORDERLINE | ⛔ MISS | – no-call | 45★ → 78★ |
 | [aniraiden/ZMeshMend](https://github.com/aniraiden/ZMeshMend) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 24★ → 24★ |
 | [jasonengcc/KeyShot-Studio-Materials](https://github.com/jasonengcc/KeyShot-Studio-Materials) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 57★ → 57★ |
 | [fazalyazdankhan12345-dotcom/Houdini-Pro-Workflows](https://github.com/fazalyazdankhan12345-dotcom/Houdini-Pro-Workflows) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 54★ → 54★ |

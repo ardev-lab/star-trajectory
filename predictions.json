@@ -85,11 +85,11 @@
     "arrival_archetype": "steady_organic",
     "authenticity": "LOW",
     "tool_version": "0.1.0",
-    "status": "open",
-    "outcome": null,
-    "actual_stars_at_deadline": null,
+    "status": "scored",
+    "outcome": "MISS",
+    "actual_stars_at_deadline": 78,
     "direction_correct": null,
-    "scored_at_utc": null
+    "scored_at_utc": "2026-05-29T09:20:02Z"
   },
   {
     "repo": "stagas/hallucinate",
@@ -315,11 +315,11 @@
     "arrival_archetype": "steady_organic",
     "authenticity": "LOW",
     "tool_version": "0.1.0",
-    "status": "open",
-    "outcome": null,
-    "actual_stars_at_deadline": null,
-    "direction_correct": null,
-    "scored_at_utc": null
+    "status": "scored",
+    "outcome": "MISS",
+    "actual_stars_at_deadline": 32,
+    "direction_correct": true,
+    "scored_at_utc": "2026-05-29T09:20:03Z"
   },
   {
     "repo": "stepfun-ai/Step-3.7-Flash",
