@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-05-29 14:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-05-30 03:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,18 +8,18 @@ _Last updated: 2026-05-29 14:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 7/8 = 88%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
-Base rate (share of scored repos that actually reached the target): 0%.
+**Direction accuracy: 8/9 = 89%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+Base rate (share of scored repos that actually reached the target): 10%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 6 | 9 | 9 | 0 |
+| count | 5 | 10 | 10 | 0 |
 
 Accuracy by phase at prediction time:
 
 | phase | directional calls | correct | accuracy |
 |---|---|---|---|
-| 1 launch | 1 | 1 | 100% |
+| 1 launch | 2 | 2 | 100% |
 | 2 accel | 5 | 4 | 80% |
 | 3 trajectory | 2 | 2 | 100% |
 
@@ -27,7 +27,6 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [stagas/hallucinate](https://github.com/stagas/hallucinate) | 46★ | 100★ | ✅ HIT_lean | launch | 2026-05-30T02:56:06Z |
 | [sir1st/hermes-desktop](https://github.com/sir1st/hermes-desktop) | 27★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-05-30T03:52:07Z |
 | [laoshan-song/Awesome-LLM-Interview](https://github.com/laoshan-song/Awesome-LLM-Interview) | 24★ | 100★ | ⛔ MISS_lean | accel | 2026-05-30T04:34:08Z |
 | [Sophomoresty/bpc-fetch](https://github.com/Sophomoresty/bpc-fetch) | 62★ | 100★ | ➖ BORDERLINE | launch | 2026-05-30T08:34:04Z |
@@ -38,6 +37,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [stagas/hallucinate](https://github.com/stagas/hallucinate) | ✅ HIT_lean | ✅ HIT | ✔ correct | 46★ → 131★ |
 | [starlight36/vibecoding-signal-light](https://github.com/starlight36/vibecoding-signal-light) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 48★ → 49★ |
 | [zhlmi/narrative-to-screen-reader](https://github.com/zhlmi/narrative-to-screen-reader) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 22★ → 27★ |
 | [kyrtstn/syv](https://github.com/kyrtstn/syv) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 28★ → 41★ |
