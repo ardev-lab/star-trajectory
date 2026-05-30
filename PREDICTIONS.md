@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-05-30 05:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-05-30 06:10 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -13,7 +13,7 @@ Base rate (share of scored repos that actually reached the target): 8%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 3 | 12 | 12 | 0 |
+| count | 11 | 12 | 12 | 0 |
 
 Accuracy by phase at prediction time:
 
@@ -28,8 +28,16 @@ Accuracy by phase at prediction time:
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
 | [Sophomoresty/bpc-fetch](https://github.com/Sophomoresty/bpc-fetch) | 62★ | 100★ | ➖ BORDERLINE | launch | 2026-05-30T08:34:04Z |
+| [tamm2904/MTFLASH_UBL_SNAPDRAGON](https://github.com/tamm2904/MTFLASH_UBL_SNAPDRAGON) | 34★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-05-30T13:52:04Z |
 | [bozhouDev/14days-build-claude-code-cli](https://github.com/bozhouDev/14days-build-claude-code-cli) | 26★ | 100★ | ✅ HIT_lean | accel | 2026-05-30T14:22:06Z |
 | [stepfun-ai/Step-3.7-Flash](https://github.com/stepfun-ai/Step-3.7-Flash) | 36★ | 100★ | ✅ HIT_lean | accel | 2026-05-30T23:58:10Z |
+| [liangjie1999/ClipGStream](https://github.com/liangjie1999/ClipGStream) | 36★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-05-31T03:46:05Z |
+| [StarTrail-org/PixelRAG](https://github.com/StarTrail-org/PixelRAG) | 29★ | 100★ | ⛔ MISS_lean | launch | 2026-05-31T07:28:04Z |
+| [hrostami/SNI-balancer](https://github.com/hrostami/SNI-balancer) | 22★ | 100★ | ➖ BORDERLINE | accel | 2026-05-31T08:58:07Z |
+| [Shellishack/agent-arena-online](https://github.com/Shellishack/agent-arena-online) | 22★ | 100★ | ⛔ MISS_lean | launch | 2026-05-31T12:22:06Z |
+| [one880808/gemini-web2api](https://github.com/one880808/gemini-web2api) | 33★ | 100★ | ⛔ MISS_lean | launch | 2026-05-31T12:34:07Z |
+| [steeliron550-ui/search-bibtex](https://github.com/steeliron550-ui/search-bibtex) | 75★ | 100★ | ✅ HIT_lean | accel | 2026-05-31T12:58:03Z |
+| [shipfastlabs/parsel](https://github.com/shipfastlabs/parsel) | 63★ | 100★ | ✅ HIT_lean | launch | 2026-05-31T14:46:06Z |
 
 ## Recently scored
 
