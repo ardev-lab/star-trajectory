@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-05-30 09:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-05-30 14:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,12 +8,12 @@ _Last updated: 2026-05-30 09:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 10/11 = 91%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
-Base rate (share of scored repos that actually reached the target): 8%.
+**Direction accuracy: 11/12 = 92%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+Base rate (share of scored repos that actually reached the target): 7%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 10 | 13 | 13 | 0 |
+| count | 9 | 14 | 14 | 0 |
 
 Accuracy by phase at prediction time:
 
@@ -21,13 +21,12 @@ Accuracy by phase at prediction time:
 |---|---|---|---|
 | 1 launch | 2 | 2 | 100% |
 | 2 accel | 6 | 5 | 83% |
-| 3 trajectory | 3 | 3 | 100% |
+| 3 trajectory | 4 | 4 | 100% |
 
 ## Open predictions (not yet decided)
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [tamm2904/MTFLASH_UBL_SNAPDRAGON](https://github.com/tamm2904/MTFLASH_UBL_SNAPDRAGON) | 34★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-05-30T13:52:04Z |
 | [bozhouDev/14days-build-claude-code-cli](https://github.com/bozhouDev/14days-build-claude-code-cli) | 26★ | 100★ | ✅ HIT_lean | accel | 2026-05-30T14:22:06Z |
 | [stepfun-ai/Step-3.7-Flash](https://github.com/stepfun-ai/Step-3.7-Flash) | 36★ | 100★ | ✅ HIT_lean | accel | 2026-05-30T23:58:10Z |
 | [liangjie1999/ClipGStream](https://github.com/liangjie1999/ClipGStream) | 36★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-05-31T03:46:05Z |
@@ -42,6 +41,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [tamm2904/MTFLASH_UBL_SNAPDRAGON](https://github.com/tamm2904/MTFLASH_UBL_SNAPDRAGON) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 34★ → 38★ |
 | [Sophomoresty/bpc-fetch](https://github.com/Sophomoresty/bpc-fetch) | ➖ BORDERLINE | ⛔ MISS | – no-call | 62★ → 98★ |
 | [laoshan-song/Awesome-LLM-Interview](https://github.com/laoshan-song/Awesome-LLM-Interview) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 24★ → 52★ |
 | [sir1st/hermes-desktop](https://github.com/sir1st/hermes-desktop) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 27★ → 37★ |
