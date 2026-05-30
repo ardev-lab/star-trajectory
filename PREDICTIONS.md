@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-05-30 04:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-05-30 05:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,26 +8,25 @@ _Last updated: 2026-05-30 04:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 9/10 = 90%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
-Base rate (share of scored repos that actually reached the target): 9%.
+**Direction accuracy: 10/11 = 91%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+Base rate (share of scored repos that actually reached the target): 8%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 4 | 11 | 11 | 0 |
+| count | 3 | 12 | 12 | 0 |
 
 Accuracy by phase at prediction time:
 
 | phase | directional calls | correct | accuracy |
 |---|---|---|---|
 | 1 launch | 2 | 2 | 100% |
-| 2 accel | 5 | 4 | 80% |
+| 2 accel | 6 | 5 | 83% |
 | 3 trajectory | 3 | 3 | 100% |
 
 ## Open predictions (not yet decided)
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [laoshan-song/Awesome-LLM-Interview](https://github.com/laoshan-song/Awesome-LLM-Interview) | 24★ | 100★ | ⛔ MISS_lean | accel | 2026-05-30T04:34:08Z |
 | [Sophomoresty/bpc-fetch](https://github.com/Sophomoresty/bpc-fetch) | 62★ | 100★ | ➖ BORDERLINE | launch | 2026-05-30T08:34:04Z |
 | [bozhouDev/14days-build-claude-code-cli](https://github.com/bozhouDev/14days-build-claude-code-cli) | 26★ | 100★ | ✅ HIT_lean | accel | 2026-05-30T14:22:06Z |
 | [stepfun-ai/Step-3.7-Flash](https://github.com/stepfun-ai/Step-3.7-Flash) | 36★ | 100★ | ✅ HIT_lean | accel | 2026-05-30T23:58:10Z |
@@ -36,6 +35,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [laoshan-song/Awesome-LLM-Interview](https://github.com/laoshan-song/Awesome-LLM-Interview) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 24★ → 52★ |
 | [sir1st/hermes-desktop](https://github.com/sir1st/hermes-desktop) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 27★ → 37★ |
 | [stagas/hallucinate](https://github.com/stagas/hallucinate) | ✅ HIT_lean | ✅ HIT | ✔ correct | 46★ → 131★ |
 | [starlight36/vibecoding-signal-light](https://github.com/starlight36/vibecoding-signal-light) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 48★ → 49★ |
