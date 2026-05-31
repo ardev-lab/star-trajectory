@@ -591,11 +591,11 @@
     "arrival_archetype": "steady_organic",
     "authenticity": "LOW",
     "tool_version": "0.1.0",
-    "status": "open",
-    "outcome": null,
-    "actual_stars_at_deadline": null,
+    "status": "scored",
+    "outcome": "MISS",
+    "actual_stars_at_deadline": 95,
     "direction_correct": null,
-    "scored_at_utc": null
+    "scored_at_utc": "2026-05-31T17:20:01Z"
   },
   {
     "repo": "kitlangton/cellshot",

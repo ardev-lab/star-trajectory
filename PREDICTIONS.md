@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-05-31 15:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-05-31 17:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -9,11 +9,11 @@ _Last updated: 2026-05-31 15:20 UTC · regenerated from the ledger, not hand-edi
 ## Calibration (how good is the track record?)
 
 **Direction accuracy: 19/20 = 95%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
-Base rate (share of scored repos that actually reached the target): 22%.
+Base rate (share of scored repos that actually reached the target): 21%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 8 | 23 | 23 | 0 |
+| count | 7 | 24 | 24 | 0 |
 
 Accuracy by phase at prediction time:
 
@@ -27,7 +27,6 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [AITabby/opencodex](https://github.com/AITabby/opencodex) | 92★ | 100★ | ➖ BORDERLINE | maturity (decelerating) | 2026-05-31T17:04:04Z |
 | [Pomran/steam-friend-finder](https://github.com/Pomran/steam-friend-finder) | 24★ | 100★ | ⛔ MISS_lean | accel | 2026-05-31T17:28:03Z |
 | [evilmore91/MyIPTV](https://github.com/evilmore91/MyIPTV) | 57★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-05-31T17:52:06Z |
 | [JustasMasiulis/ida_buddy](https://github.com/JustasMasiulis/ida_buddy) | 23★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-01T00:46:03Z |
@@ -40,6 +39,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [AITabby/opencodex](https://github.com/AITabby/opencodex) | ➖ BORDERLINE | ⛔ MISS | – no-call | 92★ → 95★ |
 | [shipfastlabs/parsel](https://github.com/shipfastlabs/parsel) | ✅ HIT_lean | ✅ HIT | ✔ correct | 63★ → 149★ |
 | [steeliron550-ui/search-bibtex](https://github.com/steeliron550-ui/search-bibtex) | ✅ HIT_lean | ✅ HIT | ✔ correct | 75★ → 143★ |
 | [Shellishack/agent-arena-online](https://github.com/Shellishack/agent-arena-online) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 22★ → 30★ |
