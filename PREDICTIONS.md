@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-05-31 09:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-05-31 13:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,28 +8,25 @@ _Last updated: 2026-05-31 09:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 15/16 = 94%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
-Base rate (share of scored repos that actually reached the target): 16%.
+**Direction accuracy: 18/19 = 95%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+Base rate (share of scored repos that actually reached the target): 18%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 12 | 19 | 19 | 0 |
+| count | 9 | 22 | 22 | 0 |
 
 Accuracy by phase at prediction time:
 
 | phase | directional calls | correct | accuracy |
 |---|---|---|---|
-| 1 launch | 3 | 3 | 100% |
-| 2 accel | 8 | 7 | 88% |
+| 1 launch | 5 | 5 | 100% |
+| 2 accel | 9 | 8 | 89% |
 | 3 trajectory | 5 | 5 | 100% |
 
 ## Open predictions (not yet decided)
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [Shellishack/agent-arena-online](https://github.com/Shellishack/agent-arena-online) | 22★ | 100★ | ⛔ MISS_lean | launch | 2026-05-31T12:22:06Z |
-| [one880808/gemini-web2api](https://github.com/one880808/gemini-web2api) | 33★ | 100★ | ⛔ MISS_lean | launch | 2026-05-31T12:34:07Z |
-| [steeliron550-ui/search-bibtex](https://github.com/steeliron550-ui/search-bibtex) | 75★ | 100★ | ✅ HIT_lean | accel | 2026-05-31T12:58:03Z |
 | [shipfastlabs/parsel](https://github.com/shipfastlabs/parsel) | 63★ | 100★ | ✅ HIT_lean | launch | 2026-05-31T14:46:06Z |
 | [AITabby/opencodex](https://github.com/AITabby/opencodex) | 92★ | 100★ | ➖ BORDERLINE | maturity (decelerating) | 2026-05-31T17:04:04Z |
 | [Pomran/steam-friend-finder](https://github.com/Pomran/steam-friend-finder) | 24★ | 100★ | ⛔ MISS_lean | accel | 2026-05-31T17:28:03Z |
@@ -44,6 +41,9 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [steeliron550-ui/search-bibtex](https://github.com/steeliron550-ui/search-bibtex) | ✅ HIT_lean | ✅ HIT | ✔ correct | 75★ → 143★ |
+| [Shellishack/agent-arena-online](https://github.com/Shellishack/agent-arena-online) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 22★ → 30★ |
+| [one880808/gemini-web2api](https://github.com/one880808/gemini-web2api) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 33★ → 52★ |
 | [hrostami/SNI-balancer](https://github.com/hrostami/SNI-balancer) | ➖ BORDERLINE | ⛔ MISS | – no-call | 22★ → 44★ |
 | [StarTrail-org/PixelRAG](https://github.com/StarTrail-org/PixelRAG) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 29★ → 33★ |
 | [liangjie1999/ClipGStream](https://github.com/liangjie1999/ClipGStream) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 36★ → 51★ |
