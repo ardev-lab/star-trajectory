@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-05-31 00:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-05-31 04:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,12 +8,12 @@ _Last updated: 2026-05-31 00:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 13/14 = 93%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
-Base rate (share of scored repos that actually reached the target): 19%.
+**Direction accuracy: 14/15 = 93%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+Base rate (share of scored repos that actually reached the target): 18%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 7 | 16 | 16 | 0 |
+| count | 6 | 17 | 17 | 0 |
 
 Accuracy by phase at prediction time:
 
@@ -21,13 +21,12 @@ Accuracy by phase at prediction time:
 |---|---|---|---|
 | 1 launch | 2 | 2 | 100% |
 | 2 accel | 8 | 7 | 88% |
-| 3 trajectory | 4 | 4 | 100% |
+| 3 trajectory | 5 | 5 | 100% |
 
 ## Open predictions (not yet decided)
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [liangjie1999/ClipGStream](https://github.com/liangjie1999/ClipGStream) | 36★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-05-31T03:46:05Z |
 | [StarTrail-org/PixelRAG](https://github.com/StarTrail-org/PixelRAG) | 29★ | 100★ | ⛔ MISS_lean | launch | 2026-05-31T07:28:04Z |
 | [hrostami/SNI-balancer](https://github.com/hrostami/SNI-balancer) | 22★ | 100★ | ➖ BORDERLINE | accel | 2026-05-31T08:58:07Z |
 | [Shellishack/agent-arena-online](https://github.com/Shellishack/agent-arena-online) | 22★ | 100★ | ⛔ MISS_lean | launch | 2026-05-31T12:22:06Z |
@@ -39,6 +38,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [liangjie1999/ClipGStream](https://github.com/liangjie1999/ClipGStream) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 36★ → 51★ |
 | [stepfun-ai/Step-3.7-Flash](https://github.com/stepfun-ai/Step-3.7-Flash) | ✅ HIT_lean | ✅ HIT | ✔ correct | 36★ → 109★ |
 | [bozhouDev/14days-build-claude-code-cli](https://github.com/bozhouDev/14days-build-claude-code-cli) | ✅ HIT_lean | ✅ HIT | ✔ correct | 26★ → 166★ |
 | [tamm2904/MTFLASH_UBL_SNAPDRAGON](https://github.com/tamm2904/MTFLASH_UBL_SNAPDRAGON) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 34★ → 38★ |

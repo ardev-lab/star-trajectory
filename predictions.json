@@ -430,11 +430,11 @@
     "arrival_archetype": "steady_organic",
     "authenticity": "LOW",
     "tool_version": "0.1.0",
-    "status": "open",
-    "outcome": null,
-    "actual_stars_at_deadline": null,
-    "direction_correct": null,
-    "scored_at_utc": null
+    "status": "scored",
+    "outcome": "MISS",
+    "actual_stars_at_deadline": 51,
+    "direction_correct": true,
+    "scored_at_utc": "2026-05-31T04:20:02Z"
   },
   {
     "repo": "shipfastlabs/parsel",
