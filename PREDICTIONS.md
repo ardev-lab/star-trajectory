@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-05-31 04:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-05-31 06:10 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -13,7 +13,7 @@ Base rate (share of scored repos that actually reached the target): 18%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 6 | 17 | 17 | 0 |
+| count | 14 | 17 | 17 | 0 |
 
 Accuracy by phase at prediction time:
 
@@ -33,6 +33,14 @@ Accuracy by phase at prediction time:
 | [one880808/gemini-web2api](https://github.com/one880808/gemini-web2api) | 33★ | 100★ | ⛔ MISS_lean | launch | 2026-05-31T12:34:07Z |
 | [steeliron550-ui/search-bibtex](https://github.com/steeliron550-ui/search-bibtex) | 75★ | 100★ | ✅ HIT_lean | accel | 2026-05-31T12:58:03Z |
 | [shipfastlabs/parsel](https://github.com/shipfastlabs/parsel) | 63★ | 100★ | ✅ HIT_lean | launch | 2026-05-31T14:46:06Z |
+| [AITabby/opencodex](https://github.com/AITabby/opencodex) | 92★ | 100★ | ➖ BORDERLINE | maturity (decelerating) | 2026-05-31T17:04:04Z |
+| [Pomran/steam-friend-finder](https://github.com/Pomran/steam-friend-finder) | 24★ | 100★ | ⛔ MISS_lean | accel | 2026-05-31T17:28:03Z |
+| [evilmore91/MyIPTV](https://github.com/evilmore91/MyIPTV) | 57★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-05-31T17:52:06Z |
+| [JustasMasiulis/ida_buddy](https://github.com/JustasMasiulis/ida_buddy) | 23★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-01T00:46:03Z |
+| [kitlangton/cellshot](https://github.com/kitlangton/cellshot) | 72★ | 100★ | ➖ BORDERLINE | trajectory (sustain) | 2026-06-01T03:10:05Z |
+| [zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide) | 58★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-01T04:28:08Z |
+| [lb08111/nexora-ai-platform](https://github.com/lb08111/nexora-ai-platform) | 33★ | 100★ | ✅ HIT_lean | accel | 2026-06-01T04:46:07Z |
+| [veryyoldman/metamask-openclaw](https://github.com/veryyoldman/metamask-openclaw) | 80★ | 100★ | ✅ HIT_lean | launch | 2026-06-02T03:04:06Z |
 
 ## Recently scored
 
