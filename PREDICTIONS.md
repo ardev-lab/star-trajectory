@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-01 06:10 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-01 16:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,12 +8,12 @@ _Last updated: 2026-06-01 06:10 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 22/25 = 88%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
-Base rate (share of scored repos that actually reached the target): 20%.
+**Direction accuracy: 23/26 = 88%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+Base rate (share of scored repos that actually reached the target): 19%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 9 | 30 | 30 | 0 |
+| count | 8 | 31 | 31 | 0 |
 
 Accuracy by phase at prediction time:
 
@@ -21,13 +21,12 @@ Accuracy by phase at prediction time:
 |---|---|---|---|
 | 1 launch | 6 | 6 | 100% |
 | 2 accel | 11 | 9 | 82% |
-| 3 trajectory | 8 | 7 | 88% |
+| 3 trajectory | 9 | 8 | 89% |
 
 ## Open predictions (not yet decided)
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [margetrp-hub/gpt-account-manager](https://github.com/margetrp-hub/gpt-account-manager) | 52★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-01T15:52:10Z |
 | [veryyoldman/metamask-openclaw](https://github.com/veryyoldman/metamask-openclaw) | 80★ | 100★ | ✅ HIT_lean | launch | 2026-06-02T03:04:06Z |
 | [Banneracrosswind/Peacock-Premium-cracked](https://github.com/Banneracrosswind/Peacock-Premium-cracked) | 48★ | 100★ | ✅ HIT_lean | accel | 2026-06-02T13:34:07Z |
 | [Fiberzyatreasure/Pi-hole-Pro-cracked](https://github.com/Fiberzyatreasure/Pi-hole-Pro-cracked) | 47★ | 100★ | ✅ HIT_lean | accel | 2026-06-02T13:40:05Z |
@@ -41,6 +40,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [margetrp-hub/gpt-account-manager](https://github.com/margetrp-hub/gpt-account-manager) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 52★ → 63★ |
 | [lb08111/nexora-ai-platform](https://github.com/lb08111/nexora-ai-platform) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 33★ → 34★ |
 | [zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide) | ⛔ MISS_lean | ✅ HIT | ✗ WRONG | 58★ → 143★ |
 | [kitlangton/cellshot](https://github.com/kitlangton/cellshot) | ➖ BORDERLINE | ⛔ MISS | – no-call | 72★ → 81★ |
@@ -65,7 +65,6 @@ Accuracy by phase at prediction time:
 | [starlight36/vibecoding-signal-light](https://github.com/starlight36/vibecoding-signal-light) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 48★ → 49★ |
 | [zhlmi/narrative-to-screen-reader](https://github.com/zhlmi/narrative-to-screen-reader) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 22★ → 27★ |
 | [kyrtstn/syv](https://github.com/kyrtstn/syv) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 28★ → 41★ |
-| [illusionyy/ps5-fw-spoof](https://github.com/illusionyy/ps5-fw-spoof) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 32★ → 32★ |
 
 ## Verify it yourself / 自分で検証
 
