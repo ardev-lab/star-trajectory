@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-01 03:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-01 05:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,33 +8,33 @@ _Last updated: 2026-06-01 03:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 22/23 = 96%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
-Base rate (share of scored repos that actually reached the target): 18%.
+**Direction accuracy: 22/25 = 88%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+Base rate (share of scored repos that actually reached the target): 20%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 3 | 28 | 28 | 0 |
+| count | 1 | 30 | 30 | 0 |
 
 Accuracy by phase at prediction time:
 
 | phase | directional calls | correct | accuracy |
 |---|---|---|---|
 | 1 launch | 6 | 6 | 100% |
-| 2 accel | 10 | 9 | 90% |
-| 3 trajectory | 7 | 7 | 100% |
+| 2 accel | 11 | 9 | 82% |
+| 3 trajectory | 8 | 7 | 88% |
 
 ## Open predictions (not yet decided)
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide) | 58★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-01T04:28:08Z |
-| [lb08111/nexora-ai-platform](https://github.com/lb08111/nexora-ai-platform) | 33★ | 100★ | ✅ HIT_lean | accel | 2026-06-01T04:46:07Z |
 | [veryyoldman/metamask-openclaw](https://github.com/veryyoldman/metamask-openclaw) | 80★ | 100★ | ✅ HIT_lean | launch | 2026-06-02T03:04:06Z |
 
 ## Recently scored
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [lb08111/nexora-ai-platform](https://github.com/lb08111/nexora-ai-platform) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 33★ → 34★ |
+| [zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide) | ⛔ MISS_lean | ✅ HIT | ✗ WRONG | 58★ → 143★ |
 | [kitlangton/cellshot](https://github.com/kitlangton/cellshot) | ➖ BORDERLINE | ⛔ MISS | – no-call | 72★ → 81★ |
 | [JustasMasiulis/ida_buddy](https://github.com/JustasMasiulis/ida_buddy) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 23★ → 26★ |
 | [evilmore91/MyIPTV](https://github.com/evilmore91/MyIPTV) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 57★ → 57★ |
@@ -58,8 +58,6 @@ Accuracy by phase at prediction time:
 | [zhlmi/narrative-to-screen-reader](https://github.com/zhlmi/narrative-to-screen-reader) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 22★ → 27★ |
 | [kyrtstn/syv](https://github.com/kyrtstn/syv) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 28★ → 41★ |
 | [illusionyy/ps5-fw-spoof](https://github.com/illusionyy/ps5-fw-spoof) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 32★ → 32★ |
-| [yb2460/cli-anything-wps](https://github.com/yb2460/cli-anything-wps) | ➖ BORDERLINE | ⛔ MISS | – no-call | 45★ → 78★ |
-| [aniraiden/ZMeshMend](https://github.com/aniraiden/ZMeshMend) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 24★ → 24★ |
 
 ## Verify it yourself / 自分で検証
 
