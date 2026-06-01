@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-01 05:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-01 06:10 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -13,7 +13,7 @@ Base rate (share of scored repos that actually reached the target): 20%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 1 | 30 | 30 | 0 |
+| count | 9 | 30 | 30 | 0 |
 
 Accuracy by phase at prediction time:
 
@@ -27,7 +27,15 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
+| [margetrp-hub/gpt-account-manager](https://github.com/margetrp-hub/gpt-account-manager) | 52★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-01T15:52:10Z |
 | [veryyoldman/metamask-openclaw](https://github.com/veryyoldman/metamask-openclaw) | 80★ | 100★ | ✅ HIT_lean | launch | 2026-06-02T03:04:06Z |
+| [Banneracrosswind/Peacock-Premium-cracked](https://github.com/Banneracrosswind/Peacock-Premium-cracked) | 48★ | 100★ | ✅ HIT_lean | accel | 2026-06-02T13:34:07Z |
+| [Fiberzyatreasure/Pi-hole-Pro-cracked](https://github.com/Fiberzyatreasure/Pi-hole-Pro-cracked) | 47★ | 100★ | ✅ HIT_lean | accel | 2026-06-02T13:40:05Z |
+| [WainwrightBandage/RoomSketcher-Pro-cracked](https://github.com/WainwrightBandage/RoomSketcher-Pro-cracked) | 48★ | 100★ | ✅ HIT_lean | accel | 2026-06-02T13:40:06Z |
+| [DivergeEchoTrolley/Rebelle-7-cracked](https://github.com/DivergeEchoTrolley/Rebelle-7-cracked) | 48★ | 100★ | ✅ HIT_lean | accel | 2026-06-02T13:40:09Z |
+| [Tempomacbuild26/WinAutomation-cracked](https://github.com/Tempomacbuild26/WinAutomation-cracked) | 48★ | 100★ | ✅ HIT_lean | accel | 2026-06-02T13:52:04Z |
+| [Borderuiamp41/Timely-Premium-cracked](https://github.com/Borderuiamp41/Timely-Premium-cracked) | 48★ | 100★ | ✅ HIT_lean | accel | 2026-06-02T13:52:08Z |
+| [Chunkpligame/VSDC-Video-Editor-Pro-cracked](https://github.com/Chunkpligame/VSDC-Video-Editor-Pro-cracked) | 48★ | 100★ | ✅ HIT_lean | accel | 2026-06-02T13:52:11Z |
 
 ## Recently scored
 
