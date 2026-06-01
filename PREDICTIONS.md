@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-01 01:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-01 03:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -13,7 +13,7 @@ Base rate (share of scored repos that actually reached the target): 18%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 4 | 27 | 27 | 0 |
+| count | 3 | 28 | 28 | 0 |
 
 Accuracy by phase at prediction time:
 
@@ -27,7 +27,6 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [kitlangton/cellshot](https://github.com/kitlangton/cellshot) | 72★ | 100★ | ➖ BORDERLINE | trajectory (sustain) | 2026-06-01T03:10:05Z |
 | [zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide) | 58★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-01T04:28:08Z |
 | [lb08111/nexora-ai-platform](https://github.com/lb08111/nexora-ai-platform) | 33★ | 100★ | ✅ HIT_lean | accel | 2026-06-01T04:46:07Z |
 | [veryyoldman/metamask-openclaw](https://github.com/veryyoldman/metamask-openclaw) | 80★ | 100★ | ✅ HIT_lean | launch | 2026-06-02T03:04:06Z |
@@ -36,6 +35,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [kitlangton/cellshot](https://github.com/kitlangton/cellshot) | ➖ BORDERLINE | ⛔ MISS | – no-call | 72★ → 81★ |
 | [JustasMasiulis/ida_buddy](https://github.com/JustasMasiulis/ida_buddy) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 23★ → 26★ |
 | [evilmore91/MyIPTV](https://github.com/evilmore91/MyIPTV) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 57★ → 57★ |
 | [Pomran/steam-friend-finder](https://github.com/Pomran/steam-friend-finder) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 24★ → 25★ |
@@ -60,7 +60,6 @@ Accuracy by phase at prediction time:
 | [illusionyy/ps5-fw-spoof](https://github.com/illusionyy/ps5-fw-spoof) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 32★ → 32★ |
 | [yb2460/cli-anything-wps](https://github.com/yb2460/cli-anything-wps) | ➖ BORDERLINE | ⛔ MISS | – no-call | 45★ → 78★ |
 | [aniraiden/ZMeshMend](https://github.com/aniraiden/ZMeshMend) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 24★ → 24★ |
-| [jasonengcc/KeyShot-Studio-Materials](https://github.com/jasonengcc/KeyShot-Studio-Materials) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 57★ → 57★ |
 
 ## Verify it yourself / 自分で検証
 
