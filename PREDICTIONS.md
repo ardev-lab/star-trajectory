@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-05-31 18:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-01 01:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,12 +8,12 @@ _Last updated: 2026-05-31 18:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 21/22 = 96%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
-Base rate (share of scored repos that actually reached the target): 19%.
+**Direction accuracy: 22/23 = 96%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+Base rate (share of scored repos that actually reached the target): 18%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 5 | 26 | 26 | 0 |
+| count | 4 | 27 | 27 | 0 |
 
 Accuracy by phase at prediction time:
 
@@ -21,13 +21,12 @@ Accuracy by phase at prediction time:
 |---|---|---|---|
 | 1 launch | 6 | 6 | 100% |
 | 2 accel | 10 | 9 | 90% |
-| 3 trajectory | 6 | 6 | 100% |
+| 3 trajectory | 7 | 7 | 100% |
 
 ## Open predictions (not yet decided)
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [JustasMasiulis/ida_buddy](https://github.com/JustasMasiulis/ida_buddy) | 23★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-01T00:46:03Z |
 | [kitlangton/cellshot](https://github.com/kitlangton/cellshot) | 72★ | 100★ | ➖ BORDERLINE | trajectory (sustain) | 2026-06-01T03:10:05Z |
 | [zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide) | 58★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-01T04:28:08Z |
 | [lb08111/nexora-ai-platform](https://github.com/lb08111/nexora-ai-platform) | 33★ | 100★ | ✅ HIT_lean | accel | 2026-06-01T04:46:07Z |
@@ -37,6 +36,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [JustasMasiulis/ida_buddy](https://github.com/JustasMasiulis/ida_buddy) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 23★ → 26★ |
 | [evilmore91/MyIPTV](https://github.com/evilmore91/MyIPTV) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 57★ → 57★ |
 | [Pomran/steam-friend-finder](https://github.com/Pomran/steam-friend-finder) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 24★ → 25★ |
 | [AITabby/opencodex](https://github.com/AITabby/opencodex) | ➖ BORDERLINE | ⛔ MISS | – no-call | 92★ → 95★ |
@@ -61,7 +61,6 @@ Accuracy by phase at prediction time:
 | [yb2460/cli-anything-wps](https://github.com/yb2460/cli-anything-wps) | ➖ BORDERLINE | ⛔ MISS | – no-call | 45★ → 78★ |
 | [aniraiden/ZMeshMend](https://github.com/aniraiden/ZMeshMend) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 24★ → 24★ |
 | [jasonengcc/KeyShot-Studio-Materials](https://github.com/jasonengcc/KeyShot-Studio-Materials) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 57★ → 57★ |
-| [fazalyazdankhan12345-dotcom/Houdini-Pro-Workflows](https://github.com/fazalyazdankhan12345-dotcom/Houdini-Pro-Workflows) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 54★ → 54★ |
 
 ## Verify it yourself / 自分で検証
 
