@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-02 10:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-02 14:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,12 +8,12 @@ _Last updated: 2026-06-02 10:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 25/28 = 89%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+**Direction accuracy: 26/29 = 90%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
 Base rate (share of scored repos that actually reached the target): 21%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 14 | 33 | 33 | 0 |
+| count | 6 | 41 | 34 | 7 |
 
 Accuracy by phase at prediction time:
 
@@ -22,19 +22,12 @@ Accuracy by phase at prediction time:
 | 1 launch | 7 | 7 | 100% |
 | 2 accel | 12 | 10 | 83% |
 | 3 trajectory | 9 | 8 | 89% |
+| 4 maturity | 1 | 1 | 100% |
 
 ## Open predictions (not yet decided)
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [Banneracrosswind/Peacock-Premium-cracked](https://github.com/Banneracrosswind/Peacock-Premium-cracked) | 48★ | 100★ | ✅ HIT_lean | accel | 2026-06-02T13:34:07Z |
-| [Fiberzyatreasure/Pi-hole-Pro-cracked](https://github.com/Fiberzyatreasure/Pi-hole-Pro-cracked) | 47★ | 100★ | ✅ HIT_lean | accel | 2026-06-02T13:40:05Z |
-| [WainwrightBandage/RoomSketcher-Pro-cracked](https://github.com/WainwrightBandage/RoomSketcher-Pro-cracked) | 48★ | 100★ | ✅ HIT_lean | accel | 2026-06-02T13:40:06Z |
-| [DivergeEchoTrolley/Rebelle-7-cracked](https://github.com/DivergeEchoTrolley/Rebelle-7-cracked) | 48★ | 100★ | ✅ HIT_lean | accel | 2026-06-02T13:40:09Z |
-| [Archeb/peer.as](https://github.com/Archeb/peer.as) | 75★ | 100★ | ⛔ MISS_lean | maturity (decelerating) | 2026-06-02T13:46:07Z |
-| [Tempomacbuild26/WinAutomation-cracked](https://github.com/Tempomacbuild26/WinAutomation-cracked) | 48★ | 100★ | ✅ HIT_lean | accel | 2026-06-02T13:52:04Z |
-| [Borderuiamp41/Timely-Premium-cracked](https://github.com/Borderuiamp41/Timely-Premium-cracked) | 48★ | 100★ | ✅ HIT_lean | accel | 2026-06-02T13:52:08Z |
-| [Chunkpligame/VSDC-Video-Editor-Pro-cracked](https://github.com/Chunkpligame/VSDC-Video-Editor-Pro-cracked) | 48★ | 100★ | ✅ HIT_lean | accel | 2026-06-02T13:52:11Z |
 | [MisterBooo/rag-from-zero](https://github.com/MisterBooo/rag-from-zero) | 45★ | 100★ | ⛔ MISS_lean | accel | 2026-06-02T14:40:08Z |
 | [Reloops-App/reloops](https://github.com/Reloops-App/reloops) | 21★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-03T04:10:06Z |
 | [iampedii/whitedns-sub](https://github.com/iampedii/whitedns-sub) | 43★ | 100★ | ⛔ MISS_lean | launch | 2026-06-03T09:46:03Z |
@@ -46,6 +39,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [Archeb/peer.as](https://github.com/Archeb/peer.as) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 75★ → 79★ |
 | [Fabito02/user-accent-colors](https://github.com/Fabito02/user-accent-colors) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 27★ → 28★ |
 | [veryyoldman/metamask-openclaw](https://github.com/veryyoldman/metamask-openclaw) | ✅ HIT_lean | ✅ HIT | ✔ correct | 80★ → 173★ |
 | [margetrp-hub/gpt-account-manager](https://github.com/margetrp-hub/gpt-account-manager) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 52★ → 63★ |
@@ -70,7 +64,6 @@ Accuracy by phase at prediction time:
 | [laoshan-song/Awesome-LLM-Interview](https://github.com/laoshan-song/Awesome-LLM-Interview) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 24★ → 52★ |
 | [sir1st/hermes-desktop](https://github.com/sir1st/hermes-desktop) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 27★ → 37★ |
 | [stagas/hallucinate](https://github.com/stagas/hallucinate) | ✅ HIT_lean | ✅ HIT | ✔ correct | 46★ → 131★ |
-| [starlight36/vibecoding-signal-light](https://github.com/starlight36/vibecoding-signal-light) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 48★ → 49★ |
 
 ## Verify it yourself / 自分で検証
 

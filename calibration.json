@@ -1,19 +1,19 @@
 {
-  "generated_utc": "2026-06-02T10:20:02Z",
+  "generated_utc": "2026-06-02T14:20:03Z",
   "totals": {
     "predictions": 47,
-    "open": 14,
-    "scored": 33,
-    "graded": 33,
-    "repo_gone": 0
+    "open": 6,
+    "scored": 41,
+    "graded": 34,
+    "repo_gone": 7
   },
   "direction_accuracy": {
-    "n_directional_calls": 28,
-    "n_correct": 25,
-    "accuracy": 0.893,
+    "n_directional_calls": 29,
+    "n_correct": 26,
+    "accuracy": 0.897,
     "note": "directional calls = HIT_lean + MISS_lean only; BORDERLINE / LOW_CONFIDENCE make no directional claim and are excluded."
   },
-  "base_rate_hit": 0.212,
+  "base_rate_hit": 0.206,
   "by_lean": {
     "HIT_lean": {
       "n": 8,
@@ -26,9 +26,9 @@
       "actual_miss": 5
     },
     "MISS_lean": {
-      "n": 20,
+      "n": 21,
       "actual_hit": 1,
-      "actual_miss": 19
+      "actual_miss": 20
     },
     "LOW_CONFIDENCE": {
       "n": 0,
@@ -53,9 +53,9 @@
       "accuracy": 0.889
     },
     "4": {
-      "n_directional": 0,
-      "n_correct": 0,
-      "accuracy": null
+      "n_directional": 1,
+      "n_correct": 1,
+      "accuracy": 1.0
     }
   },
   "scoring_note": "scored at/after each deadline; star count is the deadline count plus small post-deadline drift (slightly favorable to HIT)."

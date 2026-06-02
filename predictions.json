@@ -729,11 +729,11 @@
     "arrival_archetype": "steady_organic",
     "authenticity": "LOW",
     "tool_version": "0.1.0",
-    "status": "open",
-    "outcome": null,
+    "status": "scored",
+    "outcome": "repo_gone",
     "actual_stars_at_deadline": null,
     "direction_correct": null,
-    "scored_at_utc": null
+    "scored_at_utc": "2026-06-02T14:20:02Z"
   },
   {
     "repo": "Fiberzyatreasure/Pi-hole-Pro-cracked",
@@ -752,11 +752,11 @@
     "arrival_archetype": "steady_organic",
     "authenticity": "LOW",
     "tool_version": "0.1.0",
-    "status": "open",
-    "outcome": null,
+    "status": "scored",
+    "outcome": "repo_gone",
     "actual_stars_at_deadline": null,
     "direction_correct": null,
-    "scored_at_utc": null
+    "scored_at_utc": "2026-06-02T14:20:02Z"
   },
   {
     "repo": "WainwrightBandage/RoomSketcher-Pro-cracked",
@@ -775,11 +775,11 @@
     "arrival_archetype": "steady_organic",
     "authenticity": "LOW",
     "tool_version": "0.1.0",
-    "status": "open",
-    "outcome": null,
+    "status": "scored",
+    "outcome": "repo_gone",
     "actual_stars_at_deadline": null,
     "direction_correct": null,
-    "scored_at_utc": null
+    "scored_at_utc": "2026-06-02T14:20:02Z"
   },
   {
     "repo": "Banneracrosswind/Peacock-Premium-cracked",
@@ -798,11 +798,11 @@
     "arrival_archetype": "steady_organic",
     "authenticity": "LOW",
     "tool_version": "0.1.0",
-    "status": "open",
-    "outcome": null,
+    "status": "scored",
+    "outcome": "repo_gone",
     "actual_stars_at_deadline": null,
     "direction_correct": null,
-    "scored_at_utc": null
+    "scored_at_utc": "2026-06-02T14:20:03Z"
   },
   {
     "repo": "Borderuiamp41/Timely-Premium-cracked",
@@ -821,11 +821,11 @@
     "arrival_archetype": "steady_organic",
     "authenticity": "MEDIUM",
     "tool_version": "0.1.0",
-    "status": "open",
-    "outcome": null,
+    "status": "scored",
+    "outcome": "repo_gone",
     "actual_stars_at_deadline": null,
     "direction_correct": null,
-    "scored_at_utc": null
+    "scored_at_utc": "2026-06-02T14:20:03Z"
   },
   {
     "repo": "DivergeEchoTrolley/Rebelle-7-cracked",
@@ -844,11 +844,11 @@
     "arrival_archetype": "steady_organic",
     "authenticity": "LOW",
     "tool_version": "0.1.0",
-    "status": "open",
-    "outcome": null,
+    "status": "scored",
+    "outcome": "repo_gone",
     "actual_stars_at_deadline": null,
     "direction_correct": null,
-    "scored_at_utc": null
+    "scored_at_utc": "2026-06-02T14:20:03Z"
   },
   {
     "repo": "margetrp-hub/gpt-account-manager",
@@ -890,11 +890,11 @@
     "arrival_archetype": "steady_organic",
     "authenticity": "MEDIUM",
     "tool_version": "0.1.0",
-    "status": "open",
-    "outcome": null,
+    "status": "scored",
+    "outcome": "repo_gone",
     "actual_stars_at_deadline": null,
     "direction_correct": null,
-    "scored_at_utc": null
+    "scored_at_utc": "2026-06-02T14:20:03Z"
   },
   {
     "repo": "iampedii/whitedns-sub",
@@ -1028,11 +1028,11 @@
     "arrival_archetype": "steady_organic",
     "authenticity": "LOW",
     "tool_version": "0.1.0",
-    "status": "open",
-    "outcome": null,
-    "actual_stars_at_deadline": null,
-    "direction_correct": null,
-    "scored_at_utc": null
+    "status": "scored",
+    "outcome": "MISS",
+    "actual_stars_at_deadline": 79,
+    "direction_correct": true,
+    "scored_at_utc": "2026-06-02T14:20:03Z"
   },
   {
     "repo": "ANGJustinl/adb-gopay",
