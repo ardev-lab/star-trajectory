@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-02 03:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-02 06:10 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -13,7 +13,7 @@ Base rate (share of scored repos that actually reached the target): 22%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 7 | 32 | 32 | 0 |
+| count | 15 | 32 | 32 | 0 |
 
 Accuracy by phase at prediction time:
 
@@ -27,13 +27,21 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
+| [Fabito02/user-accent-colors](https://github.com/Fabito02/user-accent-colors) | 27★ | 100★ | ⛔ MISS_lean | accel | 2026-06-02T10:04:05Z |
 | [Banneracrosswind/Peacock-Premium-cracked](https://github.com/Banneracrosswind/Peacock-Premium-cracked) | 48★ | 100★ | ✅ HIT_lean | accel | 2026-06-02T13:34:07Z |
 | [Fiberzyatreasure/Pi-hole-Pro-cracked](https://github.com/Fiberzyatreasure/Pi-hole-Pro-cracked) | 47★ | 100★ | ✅ HIT_lean | accel | 2026-06-02T13:40:05Z |
 | [WainwrightBandage/RoomSketcher-Pro-cracked](https://github.com/WainwrightBandage/RoomSketcher-Pro-cracked) | 48★ | 100★ | ✅ HIT_lean | accel | 2026-06-02T13:40:06Z |
 | [DivergeEchoTrolley/Rebelle-7-cracked](https://github.com/DivergeEchoTrolley/Rebelle-7-cracked) | 48★ | 100★ | ✅ HIT_lean | accel | 2026-06-02T13:40:09Z |
+| [Archeb/peer.as](https://github.com/Archeb/peer.as) | 75★ | 100★ | ⛔ MISS_lean | maturity (decelerating) | 2026-06-02T13:46:07Z |
 | [Tempomacbuild26/WinAutomation-cracked](https://github.com/Tempomacbuild26/WinAutomation-cracked) | 48★ | 100★ | ✅ HIT_lean | accel | 2026-06-02T13:52:04Z |
 | [Borderuiamp41/Timely-Premium-cracked](https://github.com/Borderuiamp41/Timely-Premium-cracked) | 48★ | 100★ | ✅ HIT_lean | accel | 2026-06-02T13:52:08Z |
 | [Chunkpligame/VSDC-Video-Editor-Pro-cracked](https://github.com/Chunkpligame/VSDC-Video-Editor-Pro-cracked) | 48★ | 100★ | ✅ HIT_lean | accel | 2026-06-02T13:52:11Z |
+| [MisterBooo/rag-from-zero](https://github.com/MisterBooo/rag-from-zero) | 45★ | 100★ | ⛔ MISS_lean | accel | 2026-06-02T14:40:08Z |
+| [Reloops-App/reloops](https://github.com/Reloops-App/reloops) | 21★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-03T04:10:06Z |
+| [iampedii/whitedns-sub](https://github.com/iampedii/whitedns-sub) | 43★ | 100★ | ⛔ MISS_lean | launch | 2026-06-03T09:46:03Z |
+| [ANGJustinl/adb-gopay](https://github.com/ANGJustinl/adb-gopay) | 46★ | 100★ | ➖ BORDERLINE | launch | 2026-06-03T10:46:08Z |
+| [DJLougen/hive](https://github.com/DJLougen/hive) | 20★ | 100★ | ⛔ MISS_lean | launch | 2026-06-03T13:28:04Z |
+| [chrisryugj/archhub-mcp](https://github.com/chrisryugj/archhub-mcp) | 20★ | 100★ | ✅ HIT_lean | launch | 2026-06-04T00:10:06Z |
 
 ## Recently scored
 
