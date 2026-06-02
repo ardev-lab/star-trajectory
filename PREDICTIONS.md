@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-02 06:10 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-02 10:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,26 +8,25 @@ _Last updated: 2026-06-02 06:10 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 24/27 = 89%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
-Base rate (share of scored repos that actually reached the target): 22%.
+**Direction accuracy: 25/28 = 89%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+Base rate (share of scored repos that actually reached the target): 21%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 15 | 32 | 32 | 0 |
+| count | 14 | 33 | 33 | 0 |
 
 Accuracy by phase at prediction time:
 
 | phase | directional calls | correct | accuracy |
 |---|---|---|---|
 | 1 launch | 7 | 7 | 100% |
-| 2 accel | 11 | 9 | 82% |
+| 2 accel | 12 | 10 | 83% |
 | 3 trajectory | 9 | 8 | 89% |
 
 ## Open predictions (not yet decided)
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [Fabito02/user-accent-colors](https://github.com/Fabito02/user-accent-colors) | 27★ | 100★ | ⛔ MISS_lean | accel | 2026-06-02T10:04:05Z |
 | [Banneracrosswind/Peacock-Premium-cracked](https://github.com/Banneracrosswind/Peacock-Premium-cracked) | 48★ | 100★ | ✅ HIT_lean | accel | 2026-06-02T13:34:07Z |
 | [Fiberzyatreasure/Pi-hole-Pro-cracked](https://github.com/Fiberzyatreasure/Pi-hole-Pro-cracked) | 47★ | 100★ | ✅ HIT_lean | accel | 2026-06-02T13:40:05Z |
 | [WainwrightBandage/RoomSketcher-Pro-cracked](https://github.com/WainwrightBandage/RoomSketcher-Pro-cracked) | 48★ | 100★ | ✅ HIT_lean | accel | 2026-06-02T13:40:06Z |
@@ -47,6 +46,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [Fabito02/user-accent-colors](https://github.com/Fabito02/user-accent-colors) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 27★ → 28★ |
 | [veryyoldman/metamask-openclaw](https://github.com/veryyoldman/metamask-openclaw) | ✅ HIT_lean | ✅ HIT | ✔ correct | 80★ → 173★ |
 | [margetrp-hub/gpt-account-manager](https://github.com/margetrp-hub/gpt-account-manager) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 52★ → 63★ |
 | [lb08111/nexora-ai-platform](https://github.com/lb08111/nexora-ai-platform) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 33★ → 34★ |
@@ -71,7 +71,6 @@ Accuracy by phase at prediction time:
 | [sir1st/hermes-desktop](https://github.com/sir1st/hermes-desktop) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 27★ → 37★ |
 | [stagas/hallucinate](https://github.com/stagas/hallucinate) | ✅ HIT_lean | ✅ HIT | ✔ correct | 46★ → 131★ |
 | [starlight36/vibecoding-signal-light](https://github.com/starlight36/vibecoding-signal-light) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 48★ → 49★ |
-| [zhlmi/narrative-to-screen-reader](https://github.com/zhlmi/narrative-to-screen-reader) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 22★ → 27★ |
 
 ## Verify it yourself / 自分で検証
 
