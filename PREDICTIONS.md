@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-02 14:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-02 15:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,19 +8,19 @@ _Last updated: 2026-06-02 14:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 26/29 = 90%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
-Base rate (share of scored repos that actually reached the target): 21%.
+**Direction accuracy: 27/30 = 90%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+Base rate (share of scored repos that actually reached the target): 20%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 6 | 41 | 34 | 7 |
+| count | 5 | 42 | 35 | 7 |
 
 Accuracy by phase at prediction time:
 
 | phase | directional calls | correct | accuracy |
 |---|---|---|---|
 | 1 launch | 7 | 7 | 100% |
-| 2 accel | 12 | 10 | 83% |
+| 2 accel | 13 | 11 | 85% |
 | 3 trajectory | 9 | 8 | 89% |
 | 4 maturity | 1 | 1 | 100% |
 
@@ -28,7 +28,6 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [MisterBooo/rag-from-zero](https://github.com/MisterBooo/rag-from-zero) | 45★ | 100★ | ⛔ MISS_lean | accel | 2026-06-02T14:40:08Z |
 | [Reloops-App/reloops](https://github.com/Reloops-App/reloops) | 21★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-03T04:10:06Z |
 | [iampedii/whitedns-sub](https://github.com/iampedii/whitedns-sub) | 43★ | 100★ | ⛔ MISS_lean | launch | 2026-06-03T09:46:03Z |
 | [ANGJustinl/adb-gopay](https://github.com/ANGJustinl/adb-gopay) | 46★ | 100★ | ➖ BORDERLINE | launch | 2026-06-03T10:46:08Z |
@@ -39,6 +38,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [MisterBooo/rag-from-zero](https://github.com/MisterBooo/rag-from-zero) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 45★ → 57★ |
 | [Archeb/peer.as](https://github.com/Archeb/peer.as) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 75★ → 79★ |
 | [Fabito02/user-accent-colors](https://github.com/Fabito02/user-accent-colors) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 27★ → 28★ |
 | [veryyoldman/metamask-openclaw](https://github.com/veryyoldman/metamask-openclaw) | ✅ HIT_lean | ✅ HIT | ✔ correct | 80★ → 173★ |
@@ -63,7 +63,6 @@ Accuracy by phase at prediction time:
 | [Sophomoresty/bpc-fetch](https://github.com/Sophomoresty/bpc-fetch) | ➖ BORDERLINE | ⛔ MISS | – no-call | 62★ → 98★ |
 | [laoshan-song/Awesome-LLM-Interview](https://github.com/laoshan-song/Awesome-LLM-Interview) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 24★ → 52★ |
 | [sir1st/hermes-desktop](https://github.com/sir1st/hermes-desktop) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 27★ → 37★ |
-| [stagas/hallucinate](https://github.com/stagas/hallucinate) | ✅ HIT_lean | ✅ HIT | ✔ correct | 46★ → 131★ |
 
 ## Verify it yourself / 自分で検証
 
