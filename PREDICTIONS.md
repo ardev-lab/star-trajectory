@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-03 04:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-03 06:10 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -13,7 +13,7 @@ Base rate (share of scored repos that actually reached the target): 19%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 4 | 43 | 36 | 7 |
+| count | 12 | 43 | 36 | 7 |
 
 Accuracy by phase at prediction time:
 
@@ -28,10 +28,18 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
+| [spearchucker667/kimiko](https://github.com/spearchucker667/kimiko) | 26★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-03T08:28:03Z |
 | [iampedii/whitedns-sub](https://github.com/iampedii/whitedns-sub) | 43★ | 100★ | ⛔ MISS_lean | launch | 2026-06-03T09:46:03Z |
 | [ANGJustinl/adb-gopay](https://github.com/ANGJustinl/adb-gopay) | 46★ | 100★ | ➖ BORDERLINE | launch | 2026-06-03T10:46:08Z |
 | [DJLougen/hive](https://github.com/DJLougen/hive) | 20★ | 100★ | ⛔ MISS_lean | launch | 2026-06-03T13:28:04Z |
 | [chrisryugj/archhub-mcp](https://github.com/chrisryugj/archhub-mcp) | 20★ | 100★ | ✅ HIT_lean | launch | 2026-06-04T00:10:06Z |
+| [zonghaoyuan/infiplot](https://github.com/zonghaoyuan/infiplot) | 24★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-04T02:52:04Z |
+| [ShieldNet-360/prompt-gate](https://github.com/ShieldNet-360/prompt-gate) | 20★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-04T05:46:06Z |
+| [lifuyue/patchbay-cli](https://github.com/lifuyue/patchbay-cli) | 27★ | 100★ | ⛔ MISS_lean | launch | 2026-06-04T06:28:09Z |
+| [2417467487-hub/WorldCupROI](https://github.com/2417467487-hub/WorldCupROI) | 41★ | 100★ | ⛔ MISS_lean | launch | 2026-06-04T08:16:03Z |
+| [iijlab/ssoview](https://github.com/iijlab/ssoview) | 20★ | 100★ | ⛔ MISS_lean | accel | 2026-06-04T10:40:05Z |
+| [openai/role-based-plugins](https://github.com/openai/role-based-plugins) | 31★ | 100★ | ✅ HIT_lean | accel | 2026-06-04T16:28:06Z |
+| [jd-opensource/JoyAI-Echo](https://github.com/jd-opensource/JoyAI-Echo) | 87★ | 100★ | ✅ HIT_lean | accel | 2026-06-05T04:04:07Z |
 
 ## Recently scored
 
