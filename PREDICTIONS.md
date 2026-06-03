@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-03 11:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-03 14:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,18 +8,18 @@ _Last updated: 2026-06-03 11:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 30/33 = 91%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+**Direction accuracy: 31/34 = 91%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
 Base rate (share of scored repos that actually reached the target): 18%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 9 | 46 | 39 | 7 |
+| count | 8 | 47 | 40 | 7 |
 
 Accuracy by phase at prediction time:
 
 | phase | directional calls | correct | accuracy |
 |---|---|---|---|
-| 1 launch | 8 | 8 | 100% |
+| 1 launch | 9 | 9 | 100% |
 | 2 accel | 13 | 11 | 85% |
 | 3 trajectory | 11 | 10 | 91% |
 | 4 maturity | 1 | 1 | 100% |
@@ -28,7 +28,6 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [DJLougen/hive](https://github.com/DJLougen/hive) | 20★ | 100★ | ⛔ MISS_lean | launch | 2026-06-03T13:28:04Z |
 | [chrisryugj/archhub-mcp](https://github.com/chrisryugj/archhub-mcp) | 20★ | 100★ | ✅ HIT_lean | launch | 2026-06-04T00:10:06Z |
 | [zonghaoyuan/infiplot](https://github.com/zonghaoyuan/infiplot) | 24★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-04T02:52:04Z |
 | [ShieldNet-360/prompt-gate](https://github.com/ShieldNet-360/prompt-gate) | 20★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-04T05:46:06Z |
@@ -42,6 +41,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [DJLougen/hive](https://github.com/DJLougen/hive) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 20★ → 27★ |
 | [ANGJustinl/adb-gopay](https://github.com/ANGJustinl/adb-gopay) | ➖ BORDERLINE | ⛔ MISS | – no-call | 46★ → 77★ |
 | [iampedii/whitedns-sub](https://github.com/iampedii/whitedns-sub) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 43★ → 50★ |
 | [spearchucker667/kimiko](https://github.com/spearchucker667/kimiko) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 26★ → 28★ |
@@ -66,7 +66,6 @@ Accuracy by phase at prediction time:
 | [StarTrail-org/PixelRAG](https://github.com/StarTrail-org/PixelRAG) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 29★ → 33★ |
 | [liangjie1999/ClipGStream](https://github.com/liangjie1999/ClipGStream) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 36★ → 51★ |
 | [stepfun-ai/Step-3.7-Flash](https://github.com/stepfun-ai/Step-3.7-Flash) | ✅ HIT_lean | ✅ HIT | ✔ correct | 36★ → 109★ |
-| [bozhouDev/14days-build-claude-code-cli](https://github.com/bozhouDev/14days-build-claude-code-cli) | ✅ HIT_lean | ✅ HIT | ✔ correct | 26★ → 166★ |
 
 ## Verify it yourself / 自分で検証
 
