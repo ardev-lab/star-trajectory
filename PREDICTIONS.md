@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-04 12:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-04 15:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -13,7 +13,7 @@ Base rate (share of scored repos that actually reached the target): 17%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 9 | 54 | 47 | 7 |
+| count | 2 | 61 | 47 | 14 |
 
 Accuracy by phase at prediction time:
 
@@ -28,13 +28,6 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [Springwithslip/ZBrush-cracked](https://github.com/Springwithslip/ZBrush-cracked) | 21★ | 100★ | ⛔ MISS_lean | accel | 2026-06-04T14:40:06Z |
-| [Mixedgledepict/Wondershare-MobileTrans-cracked](https://github.com/Mixedgledepict/Wondershare-MobileTrans-cracked) | 22★ | 100★ | ⛔ MISS_lean | accel | 2026-06-04T14:40:06Z |
-| [archiveattorneyblock/Todoist-Premium-cracked](https://github.com/archiveattorneyblock/Todoist-Premium-cracked) | 20★ | 100★ | ⛔ MISS_lean | accel | 2026-06-04T14:40:07Z |
-| [BaseExecutive/Topaz-Video-AI-cracked](https://github.com/BaseExecutive/Topaz-Video-AI-cracked) | 20★ | 100★ | ⛔ MISS_lean | accel | 2026-06-04T14:40:08Z |
-| [BiomancerStride69/Tixati-cracked](https://github.com/BiomancerStride69/Tixati-cracked) | 21★ | 100★ | ⛔ MISS_lean | accel | 2026-06-04T14:40:08Z |
-| [OverlapCourier/nanoCAD-Pro-cracked](https://github.com/OverlapCourier/nanoCAD-Pro-cracked) | 21★ | 100★ | ⛔ MISS_lean | accel | 2026-06-04T14:46:04Z |
-| [ChauffeurVitalize/Zoom-Pro-cracked](https://github.com/ChauffeurVitalize/Zoom-Pro-cracked) | 22★ | 100★ | ⛔ MISS_lean | accel | 2026-06-04T14:46:05Z |
 | [openai/role-based-plugins](https://github.com/openai/role-based-plugins) | 31★ | 100★ | ✅ HIT_lean | accel | 2026-06-04T16:28:06Z |
 | [jd-opensource/JoyAI-Echo](https://github.com/jd-opensource/JoyAI-Echo) | 87★ | 100★ | ✅ HIT_lean | accel | 2026-06-05T04:04:07Z |
 
