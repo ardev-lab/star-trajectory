@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-04 03:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-04 06:10 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,12 +8,12 @@ _Last updated: 2026-06-04 03:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 31/36 = 86%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+**Direction accuracy: 32/37 = 86%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
 Base rate (share of scored repos that actually reached the target): 19%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 6 | 49 | 42 | 7 |
+| count | 13 | 50 | 43 | 7 |
 
 Accuracy by phase at prediction time:
 
@@ -21,17 +21,24 @@ Accuracy by phase at prediction time:
 |---|---|---|---|
 | 1 launch | 10 | 9 | 90% |
 | 2 accel | 13 | 11 | 85% |
-| 3 trajectory | 12 | 10 | 83% |
+| 3 trajectory | 13 | 11 | 85% |
 | 4 maturity | 1 | 1 | 100% |
 
 ## Open predictions (not yet decided)
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [ShieldNet-360/prompt-gate](https://github.com/ShieldNet-360/prompt-gate) | 20★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-04T05:46:06Z |
 | [lifuyue/patchbay-cli](https://github.com/lifuyue/patchbay-cli) | 27★ | 100★ | ⛔ MISS_lean | launch | 2026-06-04T06:28:09Z |
 | [2417467487-hub/WorldCupROI](https://github.com/2417467487-hub/WorldCupROI) | 41★ | 100★ | ⛔ MISS_lean | launch | 2026-06-04T08:16:03Z |
 | [iijlab/ssoview](https://github.com/iijlab/ssoview) | 20★ | 100★ | ⛔ MISS_lean | accel | 2026-06-04T10:40:05Z |
+| [weicj/vLLM-2080Ti-Definitive](https://github.com/weicj/vLLM-2080Ti-Definitive) | 35★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-04T12:16:03Z |
+| [Springwithslip/ZBrush-cracked](https://github.com/Springwithslip/ZBrush-cracked) | 21★ | 100★ | ⛔ MISS_lean | accel | 2026-06-04T14:40:06Z |
+| [Mixedgledepict/Wondershare-MobileTrans-cracked](https://github.com/Mixedgledepict/Wondershare-MobileTrans-cracked) | 22★ | 100★ | ⛔ MISS_lean | accel | 2026-06-04T14:40:06Z |
+| [archiveattorneyblock/Todoist-Premium-cracked](https://github.com/archiveattorneyblock/Todoist-Premium-cracked) | 20★ | 100★ | ⛔ MISS_lean | accel | 2026-06-04T14:40:07Z |
+| [BaseExecutive/Topaz-Video-AI-cracked](https://github.com/BaseExecutive/Topaz-Video-AI-cracked) | 20★ | 100★ | ⛔ MISS_lean | accel | 2026-06-04T14:40:08Z |
+| [BiomancerStride69/Tixati-cracked](https://github.com/BiomancerStride69/Tixati-cracked) | 21★ | 100★ | ⛔ MISS_lean | accel | 2026-06-04T14:40:08Z |
+| [OverlapCourier/nanoCAD-Pro-cracked](https://github.com/OverlapCourier/nanoCAD-Pro-cracked) | 21★ | 100★ | ⛔ MISS_lean | accel | 2026-06-04T14:46:04Z |
+| [ChauffeurVitalize/Zoom-Pro-cracked](https://github.com/ChauffeurVitalize/Zoom-Pro-cracked) | 22★ | 100★ | ⛔ MISS_lean | accel | 2026-06-04T14:46:05Z |
 | [openai/role-based-plugins](https://github.com/openai/role-based-plugins) | 31★ | 100★ | ✅ HIT_lean | accel | 2026-06-04T16:28:06Z |
 | [jd-opensource/JoyAI-Echo](https://github.com/jd-opensource/JoyAI-Echo) | 87★ | 100★ | ✅ HIT_lean | accel | 2026-06-05T04:04:07Z |
 
@@ -39,6 +46,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [ShieldNet-360/prompt-gate](https://github.com/ShieldNet-360/prompt-gate) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 20★ → 26★ |
 | [zonghaoyuan/infiplot](https://github.com/zonghaoyuan/infiplot) | ⛔ MISS_lean | ✅ HIT | ✗ WRONG | 24★ → 157★ |
 | [chrisryugj/archhub-mcp](https://github.com/chrisryugj/archhub-mcp) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 20★ → 28★ |
 | [DJLougen/hive](https://github.com/DJLougen/hive) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 20★ → 27★ |
@@ -63,7 +71,6 @@ Accuracy by phase at prediction time:
 | [Shellishack/agent-arena-online](https://github.com/Shellishack/agent-arena-online) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 22★ → 30★ |
 | [one880808/gemini-web2api](https://github.com/one880808/gemini-web2api) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 33★ → 52★ |
 | [hrostami/SNI-balancer](https://github.com/hrostami/SNI-balancer) | ➖ BORDERLINE | ⛔ MISS | – no-call | 22★ → 44★ |
-| [StarTrail-org/PixelRAG](https://github.com/StarTrail-org/PixelRAG) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 29★ → 33★ |
 
 ## Verify it yourself / 自分で検証
 
