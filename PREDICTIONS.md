@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-04 11:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-04 12:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,12 +8,12 @@ _Last updated: 2026-06-04 11:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 35/40 = 88%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+**Direction accuracy: 36/41 = 88%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
 Base rate (share of scored repos that actually reached the target): 17%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 10 | 53 | 46 | 7 |
+| count | 9 | 54 | 47 | 7 |
 
 Accuracy by phase at prediction time:
 
@@ -21,14 +21,13 @@ Accuracy by phase at prediction time:
 |---|---|---|---|
 | 1 launch | 12 | 11 | 92% |
 | 2 accel | 14 | 12 | 86% |
-| 3 trajectory | 13 | 11 | 85% |
+| 3 trajectory | 14 | 12 | 86% |
 | 4 maturity | 1 | 1 | 100% |
 
 ## Open predictions (not yet decided)
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [weicj/vLLM-2080Ti-Definitive](https://github.com/weicj/vLLM-2080Ti-Definitive) | 35★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-04T12:16:03Z |
 | [Springwithslip/ZBrush-cracked](https://github.com/Springwithslip/ZBrush-cracked) | 21★ | 100★ | ⛔ MISS_lean | accel | 2026-06-04T14:40:06Z |
 | [Mixedgledepict/Wondershare-MobileTrans-cracked](https://github.com/Mixedgledepict/Wondershare-MobileTrans-cracked) | 22★ | 100★ | ⛔ MISS_lean | accel | 2026-06-04T14:40:06Z |
 | [archiveattorneyblock/Todoist-Premium-cracked](https://github.com/archiveattorneyblock/Todoist-Premium-cracked) | 20★ | 100★ | ⛔ MISS_lean | accel | 2026-06-04T14:40:07Z |
@@ -43,6 +42,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [weicj/vLLM-2080Ti-Definitive](https://github.com/weicj/vLLM-2080Ti-Definitive) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 35★ → 40★ |
 | [iijlab/ssoview](https://github.com/iijlab/ssoview) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 20★ → 45★ |
 | [2417467487-hub/WorldCupROI](https://github.com/2417467487-hub/WorldCupROI) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 41★ → 41★ |
 | [lifuyue/patchbay-cli](https://github.com/lifuyue/patchbay-cli) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 27★ → 54★ |
@@ -67,7 +67,6 @@ Accuracy by phase at prediction time:
 | [Pomran/steam-friend-finder](https://github.com/Pomran/steam-friend-finder) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 24★ → 25★ |
 | [AITabby/opencodex](https://github.com/AITabby/opencodex) | ➖ BORDERLINE | ⛔ MISS | – no-call | 92★ → 95★ |
 | [shipfastlabs/parsel](https://github.com/shipfastlabs/parsel) | ✅ HIT_lean | ✅ HIT | ✔ correct | 63★ → 149★ |
-| [steeliron550-ui/search-bibtex](https://github.com/steeliron550-ui/search-bibtex) | ✅ HIT_lean | ✅ HIT | ✔ correct | 75★ → 143★ |
 
 ## Verify it yourself / 自分で検証
 
