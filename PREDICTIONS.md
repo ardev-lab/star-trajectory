@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-04 17:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-05 04:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,32 +8,32 @@ _Last updated: 2026-06-04 17:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 37/42 = 88%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
-Base rate (share of scored repos that actually reached the target): 19%.
+**Direction accuracy: 38/43 = 88%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+Base rate (share of scored repos that actually reached the target): 20%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 1 | 62 | 48 | 14 |
+| count | 0 | 63 | 49 | 14 |
 
 Accuracy by phase at prediction time:
 
 | phase | directional calls | correct | accuracy |
 |---|---|---|---|
 | 1 launch | 12 | 11 | 92% |
-| 2 accel | 15 | 13 | 87% |
+| 2 accel | 16 | 14 | 88% |
 | 3 trajectory | 14 | 12 | 86% |
 | 4 maturity | 1 | 1 | 100% |
 
 ## Open predictions (not yet decided)
 
-| repo | stars @ prediction | → target | call | phase | deadline (UTC) |
-|---|---|---|---|---|---|
-| [jd-opensource/JoyAI-Echo](https://github.com/jd-opensource/JoyAI-Echo) | 87★ | 100★ | ✅ HIT_lean | accel | 2026-06-05T04:04:07Z |
+_No open predictions right now._
+
 
 ## Recently scored
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [jd-opensource/JoyAI-Echo](https://github.com/jd-opensource/JoyAI-Echo) | ✅ HIT_lean | ✅ HIT | ✔ correct | 87★ → 434★ |
 | [openai/role-based-plugins](https://github.com/openai/role-based-plugins) | ✅ HIT_lean | ✅ HIT | ✔ correct | 31★ → 118★ |
 | [weicj/vLLM-2080Ti-Definitive](https://github.com/weicj/vLLM-2080Ti-Definitive) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 35★ → 40★ |
 | [iijlab/ssoview](https://github.com/iijlab/ssoview) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 20★ → 45★ |
@@ -58,7 +58,6 @@ Accuracy by phase at prediction time:
 | [JustasMasiulis/ida_buddy](https://github.com/JustasMasiulis/ida_buddy) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 23★ → 26★ |
 | [evilmore91/MyIPTV](https://github.com/evilmore91/MyIPTV) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 57★ → 57★ |
 | [Pomran/steam-friend-finder](https://github.com/Pomran/steam-friend-finder) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 24★ → 25★ |
-| [AITabby/opencodex](https://github.com/AITabby/opencodex) | ➖ BORDERLINE | ⛔ MISS | – no-call | 92★ → 95★ |
 
 ## Verify it yourself / 自分で検証
 
