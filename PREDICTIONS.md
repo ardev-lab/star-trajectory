@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-05 06:10 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-05 22:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,12 +8,12 @@ _Last updated: 2026-06-05 06:10 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 38/43 = 88%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
-Base rate (share of scored repos that actually reached the target): 20%.
+**Direction accuracy: 41/46 = 89%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+Base rate (share of scored repos that actually reached the target): 19%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 8 | 63 | 49 | 14 |
+| count | 4 | 67 | 52 | 15 |
 
 Accuracy by phase at prediction time:
 
@@ -21,17 +21,13 @@ Accuracy by phase at prediction time:
 |---|---|---|---|
 | 1 launch | 12 | 11 | 92% |
 | 2 accel | 16 | 14 | 88% |
-| 3 trajectory | 14 | 12 | 86% |
+| 3 trajectory | 17 | 15 | 88% |
 | 4 maturity | 1 | 1 | 100% |
 
 ## Open predictions (not yet decided)
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [RoninHazeCable/Blooket-Hacks-And-Cheats-GUI](https://github.com/RoninHazeCable/Blooket-Hacks-And-Cheats-GUI) | 28★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-05T21:46:08Z |
-| [ConductorFlare/Disk-Genius-Crack](https://github.com/ConductorFlare/Disk-Genius-Crack) | 22★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-05T22:04:09Z |
-| [cybergoldsmithview/Topaz-Video-AI-crack](https://github.com/cybergoldsmithview/Topaz-Video-AI-crack) | 34★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-05T22:10:07Z |
-| [desireoutpostdusk/AnyUnlock-crack](https://github.com/desireoutpostdusk/AnyUnlock-crack) | 27★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-05T22:16:06Z |
 | [HighwayEngineer/DrFone-Screen-Unlock-crack](https://github.com/HighwayEngineer/DrFone-Screen-Unlock-crack) | 33★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-05T22:22:05Z |
 | [SegmentCorporalForum/Bandicut-crack](https://github.com/SegmentCorporalForum/Bandicut-crack) | 30★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-05T22:28:05Z |
 | [M2Station/M2_GIT_DIFF](https://github.com/M2Station/M2_GIT_DIFF) | 30★ | 100★ | ⛔ MISS_lean | accel | 2026-06-06T07:46:07Z |
@@ -41,6 +37,9 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [desireoutpostdusk/AnyUnlock-crack](https://github.com/desireoutpostdusk/AnyUnlock-crack) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 27★ → 27★ |
+| [cybergoldsmithview/Topaz-Video-AI-crack](https://github.com/cybergoldsmithview/Topaz-Video-AI-crack) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 34★ → 34★ |
+| [ConductorFlare/Disk-Genius-Crack](https://github.com/ConductorFlare/Disk-Genius-Crack) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 22★ → 22★ |
 | [jd-opensource/JoyAI-Echo](https://github.com/jd-opensource/JoyAI-Echo) | ✅ HIT_lean | ✅ HIT | ✔ correct | 87★ → 434★ |
 | [openai/role-based-plugins](https://github.com/openai/role-based-plugins) | ✅ HIT_lean | ✅ HIT | ✔ correct | 31★ → 118★ |
 | [weicj/vLLM-2080Ti-Definitive](https://github.com/weicj/vLLM-2080Ti-Definitive) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 35★ → 40★ |
@@ -63,9 +62,6 @@ Accuracy by phase at prediction time:
 | [lb08111/nexora-ai-platform](https://github.com/lb08111/nexora-ai-platform) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 33★ → 34★ |
 | [zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide) | ⛔ MISS_lean | ✅ HIT | ✗ WRONG | 58★ → 143★ |
 | [kitlangton/cellshot](https://github.com/kitlangton/cellshot) | ➖ BORDERLINE | ⛔ MISS | – no-call | 72★ → 81★ |
-| [JustasMasiulis/ida_buddy](https://github.com/JustasMasiulis/ida_buddy) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 23★ → 26★ |
-| [evilmore91/MyIPTV](https://github.com/evilmore91/MyIPTV) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 57★ → 57★ |
-| [Pomran/steam-friend-finder](https://github.com/Pomran/steam-friend-finder) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 24★ → 25★ |
 
 ## Verify it yourself / 自分で検証
 

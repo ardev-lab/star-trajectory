@@ -1534,11 +1534,11 @@
     "arrival_archetype": "steady_organic",
     "authenticity": "LOW",
     "tool_version": "0.1.0",
-    "status": "open",
-    "outcome": null,
-    "actual_stars_at_deadline": null,
-    "direction_correct": null,
-    "scored_at_utc": null
+    "status": "scored",
+    "outcome": "MISS",
+    "actual_stars_at_deadline": 27,
+    "direction_correct": true,
+    "scored_at_utc": "2026-06-05T22:20:02Z"
   },
   {
     "repo": "M2Station/M2_GIT_DIFF",
@@ -1580,11 +1580,11 @@
     "arrival_archetype": "steady_organic",
     "authenticity": "LOW",
     "tool_version": "0.1.0",
-    "status": "open",
-    "outcome": null,
-    "actual_stars_at_deadline": null,
-    "direction_correct": null,
-    "scored_at_utc": null
+    "status": "scored",
+    "outcome": "MISS",
+    "actual_stars_at_deadline": 34,
+    "direction_correct": true,
+    "scored_at_utc": "2026-06-05T22:20:02Z"
   },
   {
     "repo": "RoninHazeCable/Blooket-Hacks-And-Cheats-GUI",
@@ -1603,11 +1603,11 @@
     "arrival_archetype": "steady_organic",
     "authenticity": "LOW",
     "tool_version": "0.1.0",
-    "status": "open",
-    "outcome": null,
+    "status": "scored",
+    "outcome": "repo_gone",
     "actual_stars_at_deadline": null,
     "direction_correct": null,
-    "scored_at_utc": null
+    "scored_at_utc": "2026-06-05T22:20:02Z"
   },
   {
     "repo": "ConductorFlare/Disk-Genius-Crack",
@@ -1626,10 +1626,10 @@
     "arrival_archetype": "steady_organic",
     "authenticity": "LOW",
     "tool_version": "0.1.0",
-    "status": "open",
-    "outcome": null,
-    "actual_stars_at_deadline": null,
-    "direction_correct": null,
-    "scored_at_utc": null
+    "status": "scored",
+    "outcome": "MISS",
+    "actual_stars_at_deadline": 22,
+    "direction_correct": true,
+    "scored_at_utc": "2026-06-05T22:20:02Z"
   }
 ]
