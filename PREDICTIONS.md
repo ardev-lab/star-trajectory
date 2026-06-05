@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-05 22:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-05 23:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,12 +8,12 @@ _Last updated: 2026-06-05 22:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 41/46 = 89%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
-Base rate (share of scored repos that actually reached the target): 19%.
+**Direction accuracy: 43/48 = 90%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+Base rate (share of scored repos that actually reached the target): 18%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 4 | 67 | 52 | 15 |
+| count | 2 | 69 | 54 | 15 |
 
 Accuracy by phase at prediction time:
 
@@ -21,15 +21,13 @@ Accuracy by phase at prediction time:
 |---|---|---|---|
 | 1 launch | 12 | 11 | 92% |
 | 2 accel | 16 | 14 | 88% |
-| 3 trajectory | 17 | 15 | 88% |
+| 3 trajectory | 19 | 17 | 90% |
 | 4 maturity | 1 | 1 | 100% |
 
 ## Open predictions (not yet decided)
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [HighwayEngineer/DrFone-Screen-Unlock-crack](https://github.com/HighwayEngineer/DrFone-Screen-Unlock-crack) | 33★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-05T22:22:05Z |
-| [SegmentCorporalForum/Bandicut-crack](https://github.com/SegmentCorporalForum/Bandicut-crack) | 30★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-05T22:28:05Z |
 | [M2Station/M2_GIT_DIFF](https://github.com/M2Station/M2_GIT_DIFF) | 30★ | 100★ | ⛔ MISS_lean | accel | 2026-06-06T07:46:07Z |
 | [zenhosta/9drive](https://github.com/zenhosta/9drive) | 31★ | 100★ | ✅ HIT_lean | accel | 2026-06-06T09:22:04Z |
 
@@ -37,6 +35,8 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [HighwayEngineer/DrFone-Screen-Unlock-crack](https://github.com/HighwayEngineer/DrFone-Screen-Unlock-crack) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 33★ → 33★ |
+| [SegmentCorporalForum/Bandicut-crack](https://github.com/SegmentCorporalForum/Bandicut-crack) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 30★ → 30★ |
 | [desireoutpostdusk/AnyUnlock-crack](https://github.com/desireoutpostdusk/AnyUnlock-crack) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 27★ → 27★ |
 | [cybergoldsmithview/Topaz-Video-AI-crack](https://github.com/cybergoldsmithview/Topaz-Video-AI-crack) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 34★ → 34★ |
 | [ConductorFlare/Disk-Genius-Crack](https://github.com/ConductorFlare/Disk-Genius-Crack) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 22★ → 22★ |
@@ -60,8 +60,6 @@ Accuracy by phase at prediction time:
 | [veryyoldman/metamask-openclaw](https://github.com/veryyoldman/metamask-openclaw) | ✅ HIT_lean | ✅ HIT | ✔ correct | 80★ → 173★ |
 | [margetrp-hub/gpt-account-manager](https://github.com/margetrp-hub/gpt-account-manager) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 52★ → 63★ |
 | [lb08111/nexora-ai-platform](https://github.com/lb08111/nexora-ai-platform) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 33★ → 34★ |
-| [zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide) | ⛔ MISS_lean | ✅ HIT | ✗ WRONG | 58★ → 143★ |
-| [kitlangton/cellshot](https://github.com/kitlangton/cellshot) | ➖ BORDERLINE | ⛔ MISS | – no-call | 72★ → 81★ |
 
 ## Verify it yourself / 自分で検証
 
