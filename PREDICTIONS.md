@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-05 04:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-05 06:10 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -13,7 +13,7 @@ Base rate (share of scored repos that actually reached the target): 20%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 0 | 63 | 49 | 14 |
+| count | 8 | 63 | 49 | 14 |
 
 Accuracy by phase at prediction time:
 
@@ -26,8 +26,16 @@ Accuracy by phase at prediction time:
 
 ## Open predictions (not yet decided)
 
-_No open predictions right now._
-
+| repo | stars @ prediction | → target | call | phase | deadline (UTC) |
+|---|---|---|---|---|---|
+| [RoninHazeCable/Blooket-Hacks-And-Cheats-GUI](https://github.com/RoninHazeCable/Blooket-Hacks-And-Cheats-GUI) | 28★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-05T21:46:08Z |
+| [ConductorFlare/Disk-Genius-Crack](https://github.com/ConductorFlare/Disk-Genius-Crack) | 22★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-05T22:04:09Z |
+| [cybergoldsmithview/Topaz-Video-AI-crack](https://github.com/cybergoldsmithview/Topaz-Video-AI-crack) | 34★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-05T22:10:07Z |
+| [desireoutpostdusk/AnyUnlock-crack](https://github.com/desireoutpostdusk/AnyUnlock-crack) | 27★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-05T22:16:06Z |
+| [HighwayEngineer/DrFone-Screen-Unlock-crack](https://github.com/HighwayEngineer/DrFone-Screen-Unlock-crack) | 33★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-05T22:22:05Z |
+| [SegmentCorporalForum/Bandicut-crack](https://github.com/SegmentCorporalForum/Bandicut-crack) | 30★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-05T22:28:05Z |
+| [M2Station/M2_GIT_DIFF](https://github.com/M2Station/M2_GIT_DIFF) | 30★ | 100★ | ⛔ MISS_lean | accel | 2026-06-06T07:46:07Z |
+| [zenhosta/9drive](https://github.com/zenhosta/9drive) | 31★ | 100★ | ✅ HIT_lean | accel | 2026-06-06T09:22:04Z |
 
 ## Recently scored
 
