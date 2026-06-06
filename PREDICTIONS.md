@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-06 06:10 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-06 08:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,19 +8,19 @@ _Last updated: 2026-06-06 06:10 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 43/48 = 90%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+**Direction accuracy: 44/49 = 90%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
 Base rate (share of scored repos that actually reached the target): 18%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 10 | 69 | 54 | 15 |
+| count | 9 | 70 | 55 | 15 |
 
 Accuracy by phase at prediction time:
 
 | phase | directional calls | correct | accuracy |
 |---|---|---|---|
 | 1 launch | 12 | 11 | 92% |
-| 2 accel | 16 | 14 | 88% |
+| 2 accel | 17 | 15 | 88% |
 | 3 trajectory | 19 | 17 | 90% |
 | 4 maturity | 1 | 1 | 100% |
 
@@ -28,7 +28,6 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [M2Station/M2_GIT_DIFF](https://github.com/M2Station/M2_GIT_DIFF) | 30★ | 100★ | ⛔ MISS_lean | accel | 2026-06-06T07:46:07Z |
 | [zenhosta/9drive](https://github.com/zenhosta/9drive) | 31★ | 100★ | ✅ HIT_lean | accel | 2026-06-06T09:22:04Z |
 | [kqiu10/Sherlog](https://github.com/kqiu10/Sherlog) | 24★ | 100★ | ✅ HIT_lean | accel | 2026-06-07T01:58:07Z |
 | [virtudude/armada](https://github.com/virtudude/armada) | 28★ | 100★ | ⛔ MISS_lean | accel | 2026-06-07T04:34:05Z |
@@ -43,6 +42,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [M2Station/M2_GIT_DIFF](https://github.com/M2Station/M2_GIT_DIFF) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 30★ → 30★ |
 | [HighwayEngineer/DrFone-Screen-Unlock-crack](https://github.com/HighwayEngineer/DrFone-Screen-Unlock-crack) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 33★ → 33★ |
 | [SegmentCorporalForum/Bandicut-crack](https://github.com/SegmentCorporalForum/Bandicut-crack) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 30★ → 30★ |
 | [desireoutpostdusk/AnyUnlock-crack](https://github.com/desireoutpostdusk/AnyUnlock-crack) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 27★ → 27★ |
@@ -67,7 +67,6 @@ Accuracy by phase at prediction time:
 | [Fabito02/user-accent-colors](https://github.com/Fabito02/user-accent-colors) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 27★ → 28★ |
 | [veryyoldman/metamask-openclaw](https://github.com/veryyoldman/metamask-openclaw) | ✅ HIT_lean | ✅ HIT | ✔ correct | 80★ → 173★ |
 | [margetrp-hub/gpt-account-manager](https://github.com/margetrp-hub/gpt-account-manager) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 52★ → 63★ |
-| [lb08111/nexora-ai-platform](https://github.com/lb08111/nexora-ai-platform) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 33★ → 34★ |
 
 ## Verify it yourself / 自分で検証
 
