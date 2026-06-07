@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-07 06:10 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-07 08:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,18 +8,18 @@ _Last updated: 2026-06-07 06:10 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 47/53 = 89%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
-Base rate (share of scored repos that actually reached the target): 19%.
+**Direction accuracy: 47/54 = 87%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+Base rate (share of scored repos that actually reached the target): 18%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 13 | 74 | 59 | 15 |
+| count | 12 | 75 | 60 | 15 |
 
 Accuracy by phase at prediction time:
 
 | phase | directional calls | correct | accuracy |
 |---|---|---|---|
-| 1 launch | 12 | 11 | 92% |
+| 1 launch | 13 | 11 | 85% |
 | 2 accel | 21 | 18 | 86% |
 | 3 trajectory | 19 | 17 | 90% |
 | 4 maturity | 1 | 1 | 100% |
@@ -28,7 +28,6 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [iampedii/WhiteDNS-Wizard](https://github.com/iampedii/WhiteDNS-Wizard) | 65★ | 100★ | ✅ HIT_lean | launch | 2026-06-07T07:34:04Z |
 | [meishiwhy/Literature-Mind](https://github.com/meishiwhy/Literature-Mind) | 23★ | 100★ | ⛔ MISS_lean | accel | 2026-06-07T09:22:06Z |
 | [dodo-reach/hermes-link-curator](https://github.com/dodo-reach/hermes-link-curator) | 52★ | 100★ | ✅ HIT_lean | accel | 2026-06-07T09:34:08Z |
 | [ferdinandobons/brand-docs](https://github.com/ferdinandobons/brand-docs) | 23★ | 100★ | ⛔ MISS_lean | accel | 2026-06-07T09:58:04Z |
@@ -46,6 +45,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [iampedii/WhiteDNS-Wizard](https://github.com/iampedii/WhiteDNS-Wizard) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 65★ → 90★ |
 | [hcrk9/signmaker](https://github.com/hcrk9/signmaker) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 33★ → 41★ |
 | [virtudude/armada](https://github.com/virtudude/armada) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 28★ → 32★ |
 | [kqiu10/Sherlog](https://github.com/kqiu10/Sherlog) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 24★ → 24★ |
@@ -70,7 +70,6 @@ Accuracy by phase at prediction time:
 | [iampedii/whitedns-sub](https://github.com/iampedii/whitedns-sub) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 43★ → 50★ |
 | [spearchucker667/kimiko](https://github.com/spearchucker667/kimiko) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 26★ → 28★ |
 | [Reloops-App/reloops](https://github.com/Reloops-App/reloops) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 21★ → 27★ |
-| [MisterBooo/rag-from-zero](https://github.com/MisterBooo/rag-from-zero) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 45★ → 57★ |
 
 ## Verify it yourself / 自分で検証
 
