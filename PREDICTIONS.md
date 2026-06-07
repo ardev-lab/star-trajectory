@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-07 10:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-07 12:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,18 +8,18 @@ _Last updated: 2026-06-07 10:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 49/57 = 86%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
-Base rate (share of scored repos that actually reached the target): 18%.
+**Direction accuracy: 50/58 = 86%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+Base rate (share of scored repos that actually reached the target): 17%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 9 | 78 | 63 | 15 |
+| count | 8 | 79 | 64 | 15 |
 
 Accuracy by phase at prediction time:
 
 | phase | directional calls | correct | accuracy |
 |---|---|---|---|
-| 1 launch | 13 | 11 | 85% |
+| 1 launch | 14 | 12 | 86% |
 | 2 accel | 24 | 20 | 83% |
 | 3 trajectory | 19 | 17 | 90% |
 | 4 maturity | 1 | 1 | 100% |
@@ -28,7 +28,6 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [MengMengCode/CLICD](https://github.com/MengMengCode/CLICD) | 21★ | 100★ | ⛔ MISS_lean | launch | 2026-06-07T11:28:04Z |
 | [louisfb01/start-ai-engineering](https://github.com/louisfb01/start-ai-engineering) | 47★ | 100★ | ✅ HIT_lean | accel | 2026-06-07T21:22:07Z |
 | [m1ckc3s/project-fathom](https://github.com/m1ckc3s/project-fathom) | 50★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-08T01:10:08Z |
 | [unrelatedlabs/MacBook-Charger-Power-Indicator](https://github.com/unrelatedlabs/MacBook-Charger-Power-Indicator) | 24★ | 100★ | ⛔ MISS_lean | accel | 2026-06-08T01:22:07Z |
@@ -42,6 +41,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [MengMengCode/CLICD](https://github.com/MengMengCode/CLICD) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 21★ → 37★ |
 | [ferdinandobons/brand-docs](https://github.com/ferdinandobons/brand-docs) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 23★ → 37★ |
 | [meishiwhy/Literature-Mind](https://github.com/meishiwhy/Literature-Mind) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 23★ → 42★ |
 | [dodo-reach/hermes-link-curator](https://github.com/dodo-reach/hermes-link-curator) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 52★ → 65★ |
@@ -66,7 +66,6 @@ Accuracy by phase at prediction time:
 | [zonghaoyuan/infiplot](https://github.com/zonghaoyuan/infiplot) | ⛔ MISS_lean | ✅ HIT | ✗ WRONG | 24★ → 157★ |
 | [chrisryugj/archhub-mcp](https://github.com/chrisryugj/archhub-mcp) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 20★ → 28★ |
 | [DJLougen/hive](https://github.com/DJLougen/hive) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 20★ → 27★ |
-| [ANGJustinl/adb-gopay](https://github.com/ANGJustinl/adb-gopay) | ➖ BORDERLINE | ⛔ MISS | – no-call | 46★ → 77★ |
 
 ## Verify it yourself / 自分で検証
 
