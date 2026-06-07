@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-07 05:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-07 06:10 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -13,7 +13,7 @@ Base rate (share of scored repos that actually reached the target): 19%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 5 | 74 | 59 | 15 |
+| count | 13 | 74 | 59 | 15 |
 
 Accuracy by phase at prediction time:
 
@@ -31,8 +31,16 @@ Accuracy by phase at prediction time:
 | [iampedii/WhiteDNS-Wizard](https://github.com/iampedii/WhiteDNS-Wizard) | 65★ | 100★ | ✅ HIT_lean | launch | 2026-06-07T07:34:04Z |
 | [meishiwhy/Literature-Mind](https://github.com/meishiwhy/Literature-Mind) | 23★ | 100★ | ⛔ MISS_lean | accel | 2026-06-07T09:22:06Z |
 | [dodo-reach/hermes-link-curator](https://github.com/dodo-reach/hermes-link-curator) | 52★ | 100★ | ✅ HIT_lean | accel | 2026-06-07T09:34:08Z |
+| [ferdinandobons/brand-docs](https://github.com/ferdinandobons/brand-docs) | 23★ | 100★ | ⛔ MISS_lean | accel | 2026-06-07T09:58:04Z |
 | [MengMengCode/CLICD](https://github.com/MengMengCode/CLICD) | 21★ | 100★ | ⛔ MISS_lean | launch | 2026-06-07T11:28:04Z |
 | [louisfb01/start-ai-engineering](https://github.com/louisfb01/start-ai-engineering) | 47★ | 100★ | ✅ HIT_lean | accel | 2026-06-07T21:22:07Z |
+| [m1ckc3s/project-fathom](https://github.com/m1ckc3s/project-fathom) | 50★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-08T01:10:08Z |
+| [unrelatedlabs/MacBook-Charger-Power-Indicator](https://github.com/unrelatedlabs/MacBook-Charger-Power-Indicator) | 24★ | 100★ | ⛔ MISS_lean | accel | 2026-06-08T01:22:07Z |
+| [CCpt5/ComfyUI-BerniniStudio](https://github.com/CCpt5/ComfyUI-BerniniStudio) | 20★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-08T01:40:08Z |
+| [12britz/awesome-free-models](https://github.com/12britz/awesome-free-models) | 57★ | 100★ | ✅ HIT_lean | launch | 2026-06-08T10:28:05Z |
+| [avacocloud/XHTTP-Panel](https://github.com/avacocloud/XHTTP-Panel) | 25★ | 100★ | ➖ BORDERLINE | accel | 2026-06-08T16:10:05Z |
+| [Phoenixx1202/Spectrum-Library](https://github.com/Phoenixx1202/Spectrum-Library) | 21★ | 100★ | ⛔ MISS_lean | launch | 2026-06-08T18:34:06Z |
+| [JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design) | 57★ | 100★ | ✅ HIT_lean | launch | 2026-06-09T01:16:04Z |
 
 ## Recently scored
 
