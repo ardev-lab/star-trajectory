@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-08 16:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-08 19:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,18 +8,18 @@ _Last updated: 2026-06-08 16:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 54/63 = 86%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
-Base rate (share of scored repos that actually reached the target): 17%.
+**Direction accuracy: 54/64 = 84%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+Base rate (share of scored repos that actually reached the target): 18%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 9 | 85 | 70 | 15 |
+| count | 8 | 86 | 71 | 15 |
 
 Accuracy by phase at prediction time:
 
 | phase | directional calls | correct | accuracy |
 |---|---|---|---|
-| 1 launch | 15 | 13 | 87% |
+| 1 launch | 16 | 13 | 81% |
 | 2 accel | 26 | 21 | 81% |
 | 3 trajectory | 21 | 19 | 90% |
 | 4 maturity | 1 | 1 | 100% |
@@ -28,7 +28,6 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [Phoenixx1202/Spectrum-Library](https://github.com/Phoenixx1202/Spectrum-Library) | 21★ | 100★ | ⛔ MISS_lean | launch | 2026-06-08T18:34:06Z |
 | [JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design) | 57★ | 100★ | ✅ HIT_lean | launch | 2026-06-09T01:16:04Z |
 | [RainyMarks/DeepX](https://github.com/RainyMarks/DeepX) | 27★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-09T02:28:05Z |
 | [macton/nagent](https://github.com/macton/nagent) | 55★ | 100★ | ➖ BORDERLINE | accel | 2026-06-09T05:04:04Z |
@@ -42,6 +41,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [Phoenixx1202/Spectrum-Library](https://github.com/Phoenixx1202/Spectrum-Library) | ⛔ MISS_lean | ✅ HIT | ✗ WRONG | 21★ → 110★ |
 | [avacocloud/XHTTP-Panel](https://github.com/avacocloud/XHTTP-Panel) | ➖ BORDERLINE | ⛔ MISS | – no-call | 25★ → 33★ |
 | [12britz/awesome-free-models](https://github.com/12britz/awesome-free-models) | ✅ HIT_lean | ✅ HIT | ✔ correct | 57★ → 117★ |
 | [CCpt5/ComfyUI-BerniniStudio](https://github.com/CCpt5/ComfyUI-BerniniStudio) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 20★ → 33★ |
@@ -66,7 +66,6 @@ Accuracy by phase at prediction time:
 | [jd-opensource/JoyAI-Echo](https://github.com/jd-opensource/JoyAI-Echo) | ✅ HIT_lean | ✅ HIT | ✔ correct | 87★ → 434★ |
 | [openai/role-based-plugins](https://github.com/openai/role-based-plugins) | ✅ HIT_lean | ✅ HIT | ✔ correct | 31★ → 118★ |
 | [weicj/vLLM-2080Ti-Definitive](https://github.com/weicj/vLLM-2080Ti-Definitive) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 35★ → 40★ |
-| [iijlab/ssoview](https://github.com/iijlab/ssoview) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 20★ → 45★ |
 
 ## Verify it yourself / 自分で検証
 
