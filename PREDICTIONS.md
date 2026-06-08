@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-08 06:10 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-08 11:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,18 +8,18 @@ _Last updated: 2026-06-08 06:10 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 53/62 = 86%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
-Base rate (share of scored repos that actually reached the target): 16%.
+**Direction accuracy: 54/63 = 86%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+Base rate (share of scored repos that actually reached the target): 17%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 11 | 83 | 68 | 15 |
+| count | 10 | 84 | 69 | 15 |
 
 Accuracy by phase at prediction time:
 
 | phase | directional calls | correct | accuracy |
 |---|---|---|---|
-| 1 launch | 14 | 12 | 86% |
+| 1 launch | 15 | 13 | 87% |
 | 2 accel | 26 | 21 | 81% |
 | 3 trajectory | 21 | 19 | 90% |
 | 4 maturity | 1 | 1 | 100% |
@@ -28,7 +28,6 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [12britz/awesome-free-models](https://github.com/12britz/awesome-free-models) | 57★ | 100★ | ✅ HIT_lean | launch | 2026-06-08T10:28:05Z |
 | [avacocloud/XHTTP-Panel](https://github.com/avacocloud/XHTTP-Panel) | 25★ | 100★ | ➖ BORDERLINE | accel | 2026-06-08T16:10:05Z |
 | [Phoenixx1202/Spectrum-Library](https://github.com/Phoenixx1202/Spectrum-Library) | 21★ | 100★ | ⛔ MISS_lean | launch | 2026-06-08T18:34:06Z |
 | [JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design) | 57★ | 100★ | ✅ HIT_lean | launch | 2026-06-09T01:16:04Z |
@@ -44,6 +43,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [12britz/awesome-free-models](https://github.com/12britz/awesome-free-models) | ✅ HIT_lean | ✅ HIT | ✔ correct | 57★ → 117★ |
 | [CCpt5/ComfyUI-BerniniStudio](https://github.com/CCpt5/ComfyUI-BerniniStudio) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 20★ → 33★ |
 | [unrelatedlabs/MacBook-Charger-Power-Indicator](https://github.com/unrelatedlabs/MacBook-Charger-Power-Indicator) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 24★ → 27★ |
 | [m1ckc3s/project-fathom](https://github.com/m1ckc3s/project-fathom) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 50★ → 60★ |
@@ -68,7 +68,6 @@ Accuracy by phase at prediction time:
 | [weicj/vLLM-2080Ti-Definitive](https://github.com/weicj/vLLM-2080Ti-Definitive) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 35★ → 40★ |
 | [iijlab/ssoview](https://github.com/iijlab/ssoview) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 20★ → 45★ |
 | [2417467487-hub/WorldCupROI](https://github.com/2417467487-hub/WorldCupROI) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 41★ → 41★ |
-| [lifuyue/patchbay-cli](https://github.com/lifuyue/patchbay-cli) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 27★ → 54★ |
 
 ## Verify it yourself / 自分で検証
 
