@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-08 02:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-08 06:10 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -13,7 +13,7 @@ Base rate (share of scored repos that actually reached the target): 16%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 4 | 83 | 68 | 15 |
+| count | 11 | 83 | 68 | 15 |
 
 Accuracy by phase at prediction time:
 
@@ -32,6 +32,13 @@ Accuracy by phase at prediction time:
 | [avacocloud/XHTTP-Panel](https://github.com/avacocloud/XHTTP-Panel) | 25★ | 100★ | ➖ BORDERLINE | accel | 2026-06-08T16:10:05Z |
 | [Phoenixx1202/Spectrum-Library](https://github.com/Phoenixx1202/Spectrum-Library) | 21★ | 100★ | ⛔ MISS_lean | launch | 2026-06-08T18:34:06Z |
 | [JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design) | 57★ | 100★ | ✅ HIT_lean | launch | 2026-06-09T01:16:04Z |
+| [RainyMarks/DeepX](https://github.com/RainyMarks/DeepX) | 27★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-09T02:28:05Z |
+| [macton/nagent](https://github.com/macton/nagent) | 55★ | 100★ | ➖ BORDERLINE | accel | 2026-06-09T05:04:04Z |
+| [phuc-nt/scan-to-ebook](https://github.com/phuc-nt/scan-to-ebook) | 24★ | 100★ | ⛔ MISS_lean | launch | 2026-06-09T13:22:04Z |
+| [FengZi1221/grok-reg-tool](https://github.com/FengZi1221/grok-reg-tool) | 62★ | 100★ | ✅ HIT_lean | launch | 2026-06-09T18:22:07Z |
+| [chengtx007/fuckoai](https://github.com/chengtx007/fuckoai) | 89★ | 100★ | ✅ HIT_lean | launch | 2026-06-09T23:52:09Z |
+| [canwhite/MicroRAG](https://github.com/canwhite/MicroRAG) | 21★ | 100★ | ✅ HIT_lean | launch | 2026-06-10T01:46:05Z |
+| [supperzl/ita](https://github.com/supperzl/ita) | 40★ | 100★ | ✅ HIT_lean | launch | 2026-06-10T05:40:03Z |
 
 ## Recently scored
 
