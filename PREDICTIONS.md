@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-07 22:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-08 01:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,12 +8,12 @@ _Last updated: 2026-06-07 22:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 50/59 = 85%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+**Direction accuracy: 51/60 = 85%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
 Base rate (share of scored repos that actually reached the target): 17%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 7 | 80 | 65 | 15 |
+| count | 6 | 81 | 66 | 15 |
 
 Accuracy by phase at prediction time:
 
@@ -21,14 +21,13 @@ Accuracy by phase at prediction time:
 |---|---|---|---|
 | 1 launch | 14 | 12 | 86% |
 | 2 accel | 25 | 20 | 80% |
-| 3 trajectory | 19 | 17 | 90% |
+| 3 trajectory | 20 | 18 | 90% |
 | 4 maturity | 1 | 1 | 100% |
 
 ## Open predictions (not yet decided)
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [m1ckc3s/project-fathom](https://github.com/m1ckc3s/project-fathom) | 50★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-08T01:10:08Z |
 | [unrelatedlabs/MacBook-Charger-Power-Indicator](https://github.com/unrelatedlabs/MacBook-Charger-Power-Indicator) | 24★ | 100★ | ⛔ MISS_lean | accel | 2026-06-08T01:22:07Z |
 | [CCpt5/ComfyUI-BerniniStudio](https://github.com/CCpt5/ComfyUI-BerniniStudio) | 20★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-08T01:40:08Z |
 | [12britz/awesome-free-models](https://github.com/12britz/awesome-free-models) | 57★ | 100★ | ✅ HIT_lean | launch | 2026-06-08T10:28:05Z |
@@ -40,6 +39,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [m1ckc3s/project-fathom](https://github.com/m1ckc3s/project-fathom) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 50★ → 60★ |
 | [louisfb01/start-ai-engineering](https://github.com/louisfb01/start-ai-engineering) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 47★ → 88★ |
 | [MengMengCode/CLICD](https://github.com/MengMengCode/CLICD) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 21★ → 37★ |
 | [ferdinandobons/brand-docs](https://github.com/ferdinandobons/brand-docs) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 23★ → 37★ |
@@ -64,7 +64,6 @@ Accuracy by phase at prediction time:
 | [lifuyue/patchbay-cli](https://github.com/lifuyue/patchbay-cli) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 27★ → 54★ |
 | [ShieldNet-360/prompt-gate](https://github.com/ShieldNet-360/prompt-gate) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 20★ → 26★ |
 | [zonghaoyuan/infiplot](https://github.com/zonghaoyuan/infiplot) | ⛔ MISS_lean | ✅ HIT | ✗ WRONG | 24★ → 157★ |
-| [chrisryugj/archhub-mcp](https://github.com/chrisryugj/archhub-mcp) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 20★ → 28★ |
 
 ## Verify it yourself / 自分で検証
 
