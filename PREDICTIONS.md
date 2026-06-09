@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-09 14:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-09 19:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,18 +8,18 @@ _Last updated: 2026-06-09 14:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 57/67 = 85%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
-Base rate (share of scored repos that actually reached the target): 19%.
+**Direction accuracy: 57/68 = 84%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+Base rate (share of scored repos that actually reached the target): 18%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 12 | 90 | 75 | 15 |
+| count | 11 | 91 | 76 | 15 |
 
 Accuracy by phase at prediction time:
 
 | phase | directional calls | correct | accuracy |
 |---|---|---|---|
-| 1 launch | 18 | 15 | 83% |
+| 1 launch | 19 | 15 | 79% |
 | 2 accel | 26 | 21 | 81% |
 | 3 trajectory | 22 | 20 | 91% |
 | 4 maturity | 1 | 1 | 100% |
@@ -28,7 +28,6 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [FengZi1221/grok-reg-tool](https://github.com/FengZi1221/grok-reg-tool) | 62★ | 100★ | ✅ HIT_lean | launch | 2026-06-09T18:22:07Z |
 | [markrussinovich/LinkedIn-Formatter](https://github.com/markrussinovich/LinkedIn-Formatter) | 56★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-09T22:58:06Z |
 | [chengtx007/fuckoai](https://github.com/chengtx007/fuckoai) | 89★ | 100★ | ✅ HIT_lean | launch | 2026-06-09T23:52:09Z |
 | [canwhite/MicroRAG](https://github.com/canwhite/MicroRAG) | 21★ | 100★ | ✅ HIT_lean | launch | 2026-06-10T01:46:05Z |
@@ -45,6 +44,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [FengZi1221/grok-reg-tool](https://github.com/FengZi1221/grok-reg-tool) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 62★ → 79★ |
 | [phuc-nt/scan-to-ebook](https://github.com/phuc-nt/scan-to-ebook) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 24★ → 36★ |
 | [macton/nagent](https://github.com/macton/nagent) | ➖ BORDERLINE | ⛔ MISS | – no-call | 55★ → 77★ |
 | [RainyMarks/DeepX](https://github.com/RainyMarks/DeepX) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 27★ → 38★ |
@@ -69,7 +69,6 @@ Accuracy by phase at prediction time:
 | [HighwayEngineer/DrFone-Screen-Unlock-crack](https://github.com/HighwayEngineer/DrFone-Screen-Unlock-crack) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 33★ → 33★ |
 | [SegmentCorporalForum/Bandicut-crack](https://github.com/SegmentCorporalForum/Bandicut-crack) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 30★ → 30★ |
 | [desireoutpostdusk/AnyUnlock-crack](https://github.com/desireoutpostdusk/AnyUnlock-crack) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 27★ → 27★ |
-| [cybergoldsmithview/Topaz-Video-AI-crack](https://github.com/cybergoldsmithview/Topaz-Video-AI-crack) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 34★ → 34★ |
 
 ## Verify it yourself / 自分で検証
 
