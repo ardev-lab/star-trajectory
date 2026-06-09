@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-09 05:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-09 06:10 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -13,7 +13,7 @@ Base rate (share of scored repos that actually reached the target): 19%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 5 | 89 | 74 | 15 |
+| count | 13 | 89 | 74 | 15 |
 
 Accuracy by phase at prediction time:
 
@@ -30,9 +30,17 @@ Accuracy by phase at prediction time:
 |---|---|---|---|---|---|
 | [phuc-nt/scan-to-ebook](https://github.com/phuc-nt/scan-to-ebook) | 24★ | 100★ | ⛔ MISS_lean | launch | 2026-06-09T13:22:04Z |
 | [FengZi1221/grok-reg-tool](https://github.com/FengZi1221/grok-reg-tool) | 62★ | 100★ | ✅ HIT_lean | launch | 2026-06-09T18:22:07Z |
+| [markrussinovich/LinkedIn-Formatter](https://github.com/markrussinovich/LinkedIn-Formatter) | 56★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-09T22:58:06Z |
 | [chengtx007/fuckoai](https://github.com/chengtx007/fuckoai) | 89★ | 100★ | ✅ HIT_lean | launch | 2026-06-09T23:52:09Z |
 | [canwhite/MicroRAG](https://github.com/canwhite/MicroRAG) | 21★ | 100★ | ✅ HIT_lean | launch | 2026-06-10T01:46:05Z |
 | [supperzl/ita](https://github.com/supperzl/ita) | 40★ | 100★ | ✅ HIT_lean | launch | 2026-06-10T05:40:03Z |
+| [Ryderwe/Sollin-Music-Desktop](https://github.com/Ryderwe/Sollin-Music-Desktop) | 45★ | 100★ | ➖ BORDERLINE | launch | 2026-06-10T14:22:05Z |
+| [YerayL/Science-Research-Writing-Skills](https://github.com/YerayL/Science-Research-Writing-Skills) | 41★ | 100★ | ❔ LOW_CONF | accel | 2026-06-10T15:22:04Z |
+| [dotike/fsh](https://github.com/dotike/fsh) | 20★ | 100★ | ⛔ MISS_lean | accel | 2026-06-10T18:04:09Z |
+| [ConquerorMeditate/Zohobooks](https://github.com/ConquerorMeditate/Zohobooks) | 27★ | 100★ | ✅ HIT_lean | launch | 2026-06-10T18:22:10Z |
+| [Mintplocatch/Wondershare-Filmora](https://github.com/Mintplocatch/Wondershare-Filmora) | 21★ | 100★ | ✅ HIT_lean | launch | 2026-06-10T18:22:10Z |
+| [NuvioMedia/NuvioDesktop](https://github.com/NuvioMedia/NuvioDesktop) | 76★ | 100★ | ✅ HIT_lean | launch | 2026-06-10T19:40:08Z |
+| [secret-tools/secret-tool](https://github.com/secret-tools/secret-tool) | 50★ | 100★ | ✅ HIT_lean | launch | 2026-06-10T19:40:08Z |
 
 ## Recently scored
 
