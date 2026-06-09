@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-09 03:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-09 05:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -13,7 +13,7 @@ Base rate (share of scored repos that actually reached the target): 19%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 6 | 88 | 73 | 15 |
+| count | 5 | 89 | 74 | 15 |
 
 Accuracy by phase at prediction time:
 
@@ -28,7 +28,6 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [macton/nagent](https://github.com/macton/nagent) | 55★ | 100★ | ➖ BORDERLINE | accel | 2026-06-09T05:04:04Z |
 | [phuc-nt/scan-to-ebook](https://github.com/phuc-nt/scan-to-ebook) | 24★ | 100★ | ⛔ MISS_lean | launch | 2026-06-09T13:22:04Z |
 | [FengZi1221/grok-reg-tool](https://github.com/FengZi1221/grok-reg-tool) | 62★ | 100★ | ✅ HIT_lean | launch | 2026-06-09T18:22:07Z |
 | [chengtx007/fuckoai](https://github.com/chengtx007/fuckoai) | 89★ | 100★ | ✅ HIT_lean | launch | 2026-06-09T23:52:09Z |
@@ -39,6 +38,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [macton/nagent](https://github.com/macton/nagent) | ➖ BORDERLINE | ⛔ MISS | – no-call | 55★ → 77★ |
 | [RainyMarks/DeepX](https://github.com/RainyMarks/DeepX) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 27★ → 38★ |
 | [JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design) | ✅ HIT_lean | ✅ HIT | ✔ correct | 57★ → 521★ |
 | [Phoenixx1202/Spectrum-Library](https://github.com/Phoenixx1202/Spectrum-Library) | ⛔ MISS_lean | ✅ HIT | ✗ WRONG | 21★ → 110★ |
@@ -63,7 +63,6 @@ Accuracy by phase at prediction time:
 | [desireoutpostdusk/AnyUnlock-crack](https://github.com/desireoutpostdusk/AnyUnlock-crack) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 27★ → 27★ |
 | [cybergoldsmithview/Topaz-Video-AI-crack](https://github.com/cybergoldsmithview/Topaz-Video-AI-crack) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 34★ → 34★ |
 | [ConductorFlare/Disk-Genius-Crack](https://github.com/ConductorFlare/Disk-Genius-Crack) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 22★ → 22★ |
-| [jd-opensource/JoyAI-Echo](https://github.com/jd-opensource/JoyAI-Echo) | ✅ HIT_lean | ✅ HIT | ✔ correct | 87★ → 434★ |
 
 ## Verify it yourself / 自分で検証
 
