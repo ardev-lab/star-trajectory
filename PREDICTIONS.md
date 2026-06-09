@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-09 01:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-09 03:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,12 +8,12 @@ _Last updated: 2026-06-09 01:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 55/65 = 85%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+**Direction accuracy: 56/66 = 85%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
 Base rate (share of scored repos that actually reached the target): 19%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 7 | 87 | 72 | 15 |
+| count | 6 | 88 | 73 | 15 |
 
 Accuracy by phase at prediction time:
 
@@ -21,14 +21,13 @@ Accuracy by phase at prediction time:
 |---|---|---|---|
 | 1 launch | 17 | 14 | 82% |
 | 2 accel | 26 | 21 | 81% |
-| 3 trajectory | 21 | 19 | 90% |
+| 3 trajectory | 22 | 20 | 91% |
 | 4 maturity | 1 | 1 | 100% |
 
 ## Open predictions (not yet decided)
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [RainyMarks/DeepX](https://github.com/RainyMarks/DeepX) | 27★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-09T02:28:05Z |
 | [macton/nagent](https://github.com/macton/nagent) | 55★ | 100★ | ➖ BORDERLINE | accel | 2026-06-09T05:04:04Z |
 | [phuc-nt/scan-to-ebook](https://github.com/phuc-nt/scan-to-ebook) | 24★ | 100★ | ⛔ MISS_lean | launch | 2026-06-09T13:22:04Z |
 | [FengZi1221/grok-reg-tool](https://github.com/FengZi1221/grok-reg-tool) | 62★ | 100★ | ✅ HIT_lean | launch | 2026-06-09T18:22:07Z |
@@ -40,6 +39,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [RainyMarks/DeepX](https://github.com/RainyMarks/DeepX) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 27★ → 38★ |
 | [JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design) | ✅ HIT_lean | ✅ HIT | ✔ correct | 57★ → 521★ |
 | [Phoenixx1202/Spectrum-Library](https://github.com/Phoenixx1202/Spectrum-Library) | ⛔ MISS_lean | ✅ HIT | ✗ WRONG | 21★ → 110★ |
 | [avacocloud/XHTTP-Panel](https://github.com/avacocloud/XHTTP-Panel) | ➖ BORDERLINE | ⛔ MISS | – no-call | 25★ → 33★ |
@@ -64,7 +64,6 @@ Accuracy by phase at prediction time:
 | [cybergoldsmithview/Topaz-Video-AI-crack](https://github.com/cybergoldsmithview/Topaz-Video-AI-crack) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 34★ → 34★ |
 | [ConductorFlare/Disk-Genius-Crack](https://github.com/ConductorFlare/Disk-Genius-Crack) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 22★ → 22★ |
 | [jd-opensource/JoyAI-Echo](https://github.com/jd-opensource/JoyAI-Echo) | ✅ HIT_lean | ✅ HIT | ✔ correct | 87★ → 434★ |
-| [openai/role-based-plugins](https://github.com/openai/role-based-plugins) | ✅ HIT_lean | ✅ HIT | ✔ correct | 31★ → 118★ |
 
 ## Verify it yourself / 自分で検証
 
