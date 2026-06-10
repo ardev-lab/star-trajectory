@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-10 02:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-10 06:10 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,18 +8,18 @@ _Last updated: 2026-06-10 02:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 59/71 = 83%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
-Base rate (share of scored repos that actually reached the target): 19%.
+**Direction accuracy: 60/72 = 83%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+Base rate (share of scored repos that actually reached the target): 20%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 8 | 94 | 79 | 15 |
+| count | 15 | 95 | 80 | 15 |
 
 Accuracy by phase at prediction time:
 
 | phase | directional calls | correct | accuracy |
 |---|---|---|---|
-| 1 launch | 21 | 16 | 76% |
+| 1 launch | 22 | 17 | 77% |
 | 2 accel | 26 | 21 | 81% |
 | 3 trajectory | 23 | 21 | 91% |
 | 4 maturity | 1 | 1 | 100% |
@@ -28,7 +28,7 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [supperzl/ita](https://github.com/supperzl/ita) | 40★ | 100★ | ✅ HIT_lean | launch | 2026-06-10T05:40:03Z |
+| [borhen68/TokenTamer](https://github.com/borhen68/TokenTamer) | 67★ | 100★ | ⛔ MISS_lean | accel | 2026-06-10T11:28:07Z |
 | [Ryderwe/Sollin-Music-Desktop](https://github.com/Ryderwe/Sollin-Music-Desktop) | 45★ | 100★ | ➖ BORDERLINE | launch | 2026-06-10T14:22:05Z |
 | [YerayL/Science-Research-Writing-Skills](https://github.com/YerayL/Science-Research-Writing-Skills) | 41★ | 100★ | ❔ LOW_CONF | accel | 2026-06-10T15:22:04Z |
 | [dotike/fsh](https://github.com/dotike/fsh) | 20★ | 100★ | ⛔ MISS_lean | accel | 2026-06-10T18:04:09Z |
@@ -36,11 +36,19 @@ Accuracy by phase at prediction time:
 | [Mintplocatch/Wondershare-Filmora](https://github.com/Mintplocatch/Wondershare-Filmora) | 21★ | 100★ | ✅ HIT_lean | launch | 2026-06-10T18:22:10Z |
 | [NuvioMedia/NuvioDesktop](https://github.com/NuvioMedia/NuvioDesktop) | 76★ | 100★ | ✅ HIT_lean | launch | 2026-06-10T19:40:08Z |
 | [secret-tools/secret-tool](https://github.com/secret-tools/secret-tool) | 50★ | 100★ | ✅ HIT_lean | launch | 2026-06-10T19:40:08Z |
+| [serenakeyitan/awesome-agent-loops](https://github.com/serenakeyitan/awesome-agent-loops) | 26★ | 100★ | ⛔ MISS_lean | accel | 2026-06-11T01:28:06Z |
+| [agentic-in/inferoa](https://github.com/agentic-in/inferoa) | 43★ | 100★ | ⛔ MISS_lean | accel | 2026-06-11T06:46:05Z |
+| [qunabu/Gravity](https://github.com/qunabu/Gravity) | 21★ | 100★ | ⛔ MISS_lean | accel | 2026-06-11T08:10:08Z |
+| [AMAP-ML/roleagent](https://github.com/AMAP-ML/roleagent) | 41★ | 100★ | ✅ HIT_lean | accel | 2026-06-11T11:58:04Z |
+| [flaviojmendes/dinamos](https://github.com/flaviojmendes/dinamos) | 23★ | 100★ | ⛔ MISS_lean | launch | 2026-06-11T12:46:03Z |
+| [joeseesun/QMPrompter](https://github.com/joeseesun/QMPrompter) | 32★ | 100★ | ✅ HIT_lean | launch | 2026-06-11T20:40:06Z |
+| [plannotator/effective-html](https://github.com/plannotator/effective-html) | 44★ | 100★ | ✅ HIT_lean | launch | 2026-06-11T23:22:05Z |
 
 ## Recently scored
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [supperzl/ita](https://github.com/supperzl/ita) | ✅ HIT_lean | ✅ HIT | ✔ correct | 40★ → 111★ |
 | [canwhite/MicroRAG](https://github.com/canwhite/MicroRAG) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 21★ → 52★ |
 | [chengtx007/fuckoai](https://github.com/chengtx007/fuckoai) | ✅ HIT_lean | ✅ HIT | ✔ correct | 89★ → 127★ |
 | [markrussinovich/LinkedIn-Formatter](https://github.com/markrussinovich/LinkedIn-Formatter) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 56★ → 62★ |
@@ -65,7 +73,6 @@ Accuracy by phase at prediction time:
 | [virtudude/armada](https://github.com/virtudude/armada) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 28★ → 32★ |
 | [kqiu10/Sherlog](https://github.com/kqiu10/Sherlog) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 24★ → 24★ |
 | [zenhosta/9drive](https://github.com/zenhosta/9drive) | ✅ HIT_lean | ✅ HIT | ✔ correct | 31★ → 242★ |
-| [M2Station/M2_GIT_DIFF](https://github.com/M2Station/M2_GIT_DIFF) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 30★ → 30★ |
 
 ## Verify it yourself / 自分で検証
 
