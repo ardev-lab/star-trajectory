@@ -2247,11 +2247,11 @@
     "arrival_archetype": "steady_organic",
     "authenticity": "LOW",
     "tool_version": "0.1.0",
-    "status": "open",
-    "outcome": null,
-    "actual_stars_at_deadline": null,
-    "direction_correct": null,
-    "scored_at_utc": null
+    "status": "scored",
+    "outcome": "HIT",
+    "actual_stars_at_deadline": 216,
+    "direction_correct": true,
+    "scored_at_utc": "2026-06-10T20:20:02Z"
   },
   {
     "repo": "secret-tools/secret-tool",
@@ -2270,11 +2270,11 @@
     "arrival_archetype": "steady_organic",
     "authenticity": "MEDIUM",
     "tool_version": "0.1.0",
-    "status": "open",
-    "outcome": null,
-    "actual_stars_at_deadline": null,
-    "direction_correct": null,
-    "scored_at_utc": null
+    "status": "scored",
+    "outcome": "HIT",
+    "actual_stars_at_deadline": 298,
+    "direction_correct": true,
+    "scored_at_utc": "2026-06-10T20:20:02Z"
   },
   {
     "repo": "dotike/fsh",
