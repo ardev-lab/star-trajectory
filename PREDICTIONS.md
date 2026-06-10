@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-10 18:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-10 19:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -13,7 +13,7 @@ Base rate (share of scored repos that actually reached the target): 19%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 11 | 99 | 84 | 15 |
+| count | 9 | 101 | 84 | 17 |
 
 Accuracy by phase at prediction time:
 
@@ -28,8 +28,6 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [ConquerorMeditate/Zohobooks](https://github.com/ConquerorMeditate/Zohobooks) | 27★ | 100★ | ✅ HIT_lean | launch | 2026-06-10T18:22:10Z |
-| [Mintplocatch/Wondershare-Filmora](https://github.com/Mintplocatch/Wondershare-Filmora) | 21★ | 100★ | ✅ HIT_lean | launch | 2026-06-10T18:22:10Z |
 | [NuvioMedia/NuvioDesktop](https://github.com/NuvioMedia/NuvioDesktop) | 76★ | 100★ | ✅ HIT_lean | launch | 2026-06-10T19:40:08Z |
 | [secret-tools/secret-tool](https://github.com/secret-tools/secret-tool) | 50★ | 100★ | ✅ HIT_lean | launch | 2026-06-10T19:40:08Z |
 | [serenakeyitan/awesome-agent-loops](https://github.com/serenakeyitan/awesome-agent-loops) | 26★ | 100★ | ⛔ MISS_lean | accel | 2026-06-11T01:28:06Z |
