@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-10 16:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-10 18:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,19 +8,19 @@ _Last updated: 2026-06-10 16:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 61/73 = 84%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+**Direction accuracy: 62/74 = 84%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
 Base rate (share of scored repos that actually reached the target): 19%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 12 | 98 | 83 | 15 |
+| count | 11 | 99 | 84 | 15 |
 
 Accuracy by phase at prediction time:
 
 | phase | directional calls | correct | accuracy |
 |---|---|---|---|
 | 1 launch | 22 | 17 | 77% |
-| 2 accel | 27 | 22 | 82% |
+| 2 accel | 28 | 23 | 82% |
 | 3 trajectory | 23 | 21 | 91% |
 | 4 maturity | 1 | 1 | 100% |
 
@@ -28,7 +28,6 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [dotike/fsh](https://github.com/dotike/fsh) | 20★ | 100★ | ⛔ MISS_lean | accel | 2026-06-10T18:04:09Z |
 | [ConquerorMeditate/Zohobooks](https://github.com/ConquerorMeditate/Zohobooks) | 27★ | 100★ | ✅ HIT_lean | launch | 2026-06-10T18:22:10Z |
 | [Mintplocatch/Wondershare-Filmora](https://github.com/Mintplocatch/Wondershare-Filmora) | 21★ | 100★ | ✅ HIT_lean | launch | 2026-06-10T18:22:10Z |
 | [NuvioMedia/NuvioDesktop](https://github.com/NuvioMedia/NuvioDesktop) | 76★ | 100★ | ✅ HIT_lean | launch | 2026-06-10T19:40:08Z |
@@ -45,6 +44,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [dotike/fsh](https://github.com/dotike/fsh) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 20★ → 30★ |
 | [YerayL/Science-Research-Writing-Skills](https://github.com/YerayL/Science-Research-Writing-Skills) | ❔ LOW_CONF | ⛔ MISS | – no-call | 41★ → 47★ |
 | [Ryderwe/Sollin-Music-Desktop](https://github.com/Ryderwe/Sollin-Music-Desktop) | ➖ BORDERLINE | ⛔ MISS | – no-call | 45★ → 73★ |
 | [borhen68/TokenTamer](https://github.com/borhen68/TokenTamer) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 67★ → 69★ |
@@ -69,7 +69,6 @@ Accuracy by phase at prediction time:
 | [meishiwhy/Literature-Mind](https://github.com/meishiwhy/Literature-Mind) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 23★ → 42★ |
 | [dodo-reach/hermes-link-curator](https://github.com/dodo-reach/hermes-link-curator) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 52★ → 65★ |
 | [iampedii/WhiteDNS-Wizard](https://github.com/iampedii/WhiteDNS-Wizard) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 65★ → 90★ |
-| [hcrk9/signmaker](https://github.com/hcrk9/signmaker) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 33★ → 41★ |
 
 ## Verify it yourself / 自分で検証
 
