@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-10 06:10 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-10 12:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,19 +8,19 @@ _Last updated: 2026-06-10 06:10 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 60/72 = 83%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+**Direction accuracy: 61/73 = 84%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
 Base rate (share of scored repos that actually reached the target): 20%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 15 | 95 | 80 | 15 |
+| count | 14 | 96 | 81 | 15 |
 
 Accuracy by phase at prediction time:
 
 | phase | directional calls | correct | accuracy |
 |---|---|---|---|
 | 1 launch | 22 | 17 | 77% |
-| 2 accel | 26 | 21 | 81% |
+| 2 accel | 27 | 22 | 82% |
 | 3 trajectory | 23 | 21 | 91% |
 | 4 maturity | 1 | 1 | 100% |
 
@@ -28,7 +28,6 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [borhen68/TokenTamer](https://github.com/borhen68/TokenTamer) | 67★ | 100★ | ⛔ MISS_lean | accel | 2026-06-10T11:28:07Z |
 | [Ryderwe/Sollin-Music-Desktop](https://github.com/Ryderwe/Sollin-Music-Desktop) | 45★ | 100★ | ➖ BORDERLINE | launch | 2026-06-10T14:22:05Z |
 | [YerayL/Science-Research-Writing-Skills](https://github.com/YerayL/Science-Research-Writing-Skills) | 41★ | 100★ | ❔ LOW_CONF | accel | 2026-06-10T15:22:04Z |
 | [dotike/fsh](https://github.com/dotike/fsh) | 20★ | 100★ | ⛔ MISS_lean | accel | 2026-06-10T18:04:09Z |
@@ -48,6 +47,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [borhen68/TokenTamer](https://github.com/borhen68/TokenTamer) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 67★ → 69★ |
 | [supperzl/ita](https://github.com/supperzl/ita) | ✅ HIT_lean | ✅ HIT | ✔ correct | 40★ → 111★ |
 | [canwhite/MicroRAG](https://github.com/canwhite/MicroRAG) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 21★ → 52★ |
 | [chengtx007/fuckoai](https://github.com/chengtx007/fuckoai) | ✅ HIT_lean | ✅ HIT | ✔ correct | 89★ → 127★ |
@@ -72,7 +72,6 @@ Accuracy by phase at prediction time:
 | [hcrk9/signmaker](https://github.com/hcrk9/signmaker) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 33★ → 41★ |
 | [virtudude/armada](https://github.com/virtudude/armada) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 28★ → 32★ |
 | [kqiu10/Sherlog](https://github.com/kqiu10/Sherlog) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 24★ → 24★ |
-| [zenhosta/9drive](https://github.com/zenhosta/9drive) | ✅ HIT_lean | ✅ HIT | ✔ correct | 31★ → 242★ |
 
 ## Verify it yourself / 自分で検証
 
