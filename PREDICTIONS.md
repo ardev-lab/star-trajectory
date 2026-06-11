@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-11 08:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-11 12:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,19 +8,19 @@ _Last updated: 2026-06-11 08:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 67/79 = 85%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+**Direction accuracy: 67/80 = 84%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
 Base rate (share of scored repos that actually reached the target): 20%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 12 | 106 | 89 | 17 |
+| count | 11 | 107 | 90 | 17 |
 
 Accuracy by phase at prediction time:
 
 | phase | directional calls | correct | accuracy |
 |---|---|---|---|
 | 1 launch | 24 | 19 | 79% |
-| 2 accel | 31 | 26 | 84% |
+| 2 accel | 32 | 26 | 81% |
 | 3 trajectory | 23 | 21 | 91% |
 | 4 maturity | 1 | 1 | 100% |
 
@@ -28,7 +28,6 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [AMAP-ML/roleagent](https://github.com/AMAP-ML/roleagent) | 41★ | 100★ | ✅ HIT_lean | accel | 2026-06-11T11:58:04Z |
 | [Cognivo-Future-Technologies-CFT/AwardX](https://github.com/Cognivo-Future-Technologies-CFT/AwardX) | 34★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-11T12:22:04Z |
 | [flaviojmendes/dinamos](https://github.com/flaviojmendes/dinamos) | 23★ | 100★ | ⛔ MISS_lean | launch | 2026-06-11T12:46:03Z |
 | [ThresholdSailor/4k-Video-Downloader-Crack-2026](https://github.com/ThresholdSailor/4k-Video-Downloader-Crack-2026) | 31★ | 100★ | ❔ LOW_CONF | accel | 2026-06-11T19:04:09Z |
@@ -45,6 +44,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [AMAP-ML/roleagent](https://github.com/AMAP-ML/roleagent) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 41★ → 75★ |
 | [qunabu/Gravity](https://github.com/qunabu/Gravity) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 21★ → 26★ |
 | [agentic-in/inferoa](https://github.com/agentic-in/inferoa) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 43★ → 77★ |
 | [serenakeyitan/awesome-agent-loops](https://github.com/serenakeyitan/awesome-agent-loops) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 26★ → 43★ |
@@ -69,7 +69,6 @@ Accuracy by phase at prediction time:
 | [CCpt5/ComfyUI-BerniniStudio](https://github.com/CCpt5/ComfyUI-BerniniStudio) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 20★ → 33★ |
 | [unrelatedlabs/MacBook-Charger-Power-Indicator](https://github.com/unrelatedlabs/MacBook-Charger-Power-Indicator) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 24★ → 27★ |
 | [m1ckc3s/project-fathom](https://github.com/m1ckc3s/project-fathom) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 50★ → 60★ |
-| [louisfb01/start-ai-engineering](https://github.com/louisfb01/start-ai-engineering) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 47★ → 88★ |
 
 ## Verify it yourself / 自分で検証
 
