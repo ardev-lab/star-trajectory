@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-11 12:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-11 13:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,28 +8,26 @@ _Last updated: 2026-06-11 12:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 67/80 = 84%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+**Direction accuracy: 69/82 = 84%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
 Base rate (share of scored repos that actually reached the target): 20%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 11 | 107 | 90 | 17 |
+| count | 9 | 109 | 92 | 17 |
 
 Accuracy by phase at prediction time:
 
 | phase | directional calls | correct | accuracy |
 |---|---|---|---|
-| 1 launch | 24 | 19 | 79% |
+| 1 launch | 25 | 20 | 80% |
 | 2 accel | 32 | 26 | 81% |
-| 3 trajectory | 23 | 21 | 91% |
+| 3 trajectory | 24 | 22 | 92% |
 | 4 maturity | 1 | 1 | 100% |
 
 ## Open predictions (not yet decided)
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [Cognivo-Future-Technologies-CFT/AwardX](https://github.com/Cognivo-Future-Technologies-CFT/AwardX) | 34★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-11T12:22:04Z |
-| [flaviojmendes/dinamos](https://github.com/flaviojmendes/dinamos) | 23★ | 100★ | ⛔ MISS_lean | launch | 2026-06-11T12:46:03Z |
 | [ThresholdSailor/4k-Video-Downloader-Crack-2026](https://github.com/ThresholdSailor/4k-Video-Downloader-Crack-2026) | 31★ | 100★ | ❔ LOW_CONF | accel | 2026-06-11T19:04:09Z |
 | [joeseesun/QMPrompter](https://github.com/joeseesun/QMPrompter) | 32★ | 100★ | ✅ HIT_lean | launch | 2026-06-11T20:40:06Z |
 | [plannotator/effective-html](https://github.com/plannotator/effective-html) | 44★ | 100★ | ✅ HIT_lean | launch | 2026-06-11T23:22:05Z |
@@ -44,6 +42,8 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [flaviojmendes/dinamos](https://github.com/flaviojmendes/dinamos) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 23★ → 38★ |
+| [Cognivo-Future-Technologies-CFT/AwardX](https://github.com/Cognivo-Future-Technologies-CFT/AwardX) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 34★ → 45★ |
 | [AMAP-ML/roleagent](https://github.com/AMAP-ML/roleagent) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 41★ → 75★ |
 | [qunabu/Gravity](https://github.com/qunabu/Gravity) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 21★ → 26★ |
 | [agentic-in/inferoa](https://github.com/agentic-in/inferoa) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 43★ → 77★ |
@@ -67,8 +67,6 @@ Accuracy by phase at prediction time:
 | [avacocloud/XHTTP-Panel](https://github.com/avacocloud/XHTTP-Panel) | ➖ BORDERLINE | ⛔ MISS | – no-call | 25★ → 33★ |
 | [12britz/awesome-free-models](https://github.com/12britz/awesome-free-models) | ✅ HIT_lean | ✅ HIT | ✔ correct | 57★ → 117★ |
 | [CCpt5/ComfyUI-BerniniStudio](https://github.com/CCpt5/ComfyUI-BerniniStudio) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 20★ → 33★ |
-| [unrelatedlabs/MacBook-Charger-Power-Indicator](https://github.com/unrelatedlabs/MacBook-Charger-Power-Indicator) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 24★ → 27★ |
-| [m1ckc3s/project-fathom](https://github.com/m1ckc3s/project-fathom) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 50★ → 60★ |
 
 ## Verify it yourself / 自分で検証
 
