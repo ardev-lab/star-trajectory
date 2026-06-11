@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-11 13:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-11 19:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -13,7 +13,7 @@ Base rate (share of scored repos that actually reached the target): 20%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 9 | 109 | 92 | 17 |
+| count | 8 | 110 | 92 | 18 |
 
 Accuracy by phase at prediction time:
 
@@ -28,7 +28,6 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [ThresholdSailor/4k-Video-Downloader-Crack-2026](https://github.com/ThresholdSailor/4k-Video-Downloader-Crack-2026) | 31★ | 100★ | ❔ LOW_CONF | accel | 2026-06-11T19:04:09Z |
 | [joeseesun/QMPrompter](https://github.com/joeseesun/QMPrompter) | 32★ | 100★ | ✅ HIT_lean | launch | 2026-06-11T20:40:06Z |
 | [plannotator/effective-html](https://github.com/plannotator/effective-html) | 44★ | 100★ | ✅ HIT_lean | launch | 2026-06-11T23:22:05Z |
 | [alchaincyf/fanbox](https://github.com/alchaincyf/fanbox) | 91★ | 100★ | ✅ HIT_lean | accel | 2026-06-12T01:04:05Z |

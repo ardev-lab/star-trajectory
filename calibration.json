@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-06-11T13:20:02Z",
+  "generated_utc": "2026-06-11T19:20:02Z",
   "totals": {
     "predictions": 118,
-    "open": 9,
-    "scored": 109,
+    "open": 8,
+    "scored": 110,
     "graded": 92,
-    "repo_gone": 17
+    "repo_gone": 18
   },
   "direction_accuracy": {
     "n_directional_calls": 82,
