@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-11 06:10 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-11 07:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,19 +8,19 @@ _Last updated: 2026-06-11 06:10 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 65/77 = 84%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
-Base rate (share of scored repos that actually reached the target): 21%.
+**Direction accuracy: 66/78 = 85%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+Base rate (share of scored repos that actually reached the target): 20%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 14 | 104 | 87 | 17 |
+| count | 13 | 105 | 88 | 17 |
 
 Accuracy by phase at prediction time:
 
 | phase | directional calls | correct | accuracy |
 |---|---|---|---|
 | 1 launch | 24 | 19 | 79% |
-| 2 accel | 29 | 24 | 83% |
+| 2 accel | 30 | 25 | 83% |
 | 3 trajectory | 23 | 21 | 91% |
 | 4 maturity | 1 | 1 | 100% |
 
@@ -28,7 +28,6 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [agentic-in/inferoa](https://github.com/agentic-in/inferoa) | 43★ | 100★ | ⛔ MISS_lean | accel | 2026-06-11T06:46:05Z |
 | [qunabu/Gravity](https://github.com/qunabu/Gravity) | 21★ | 100★ | ⛔ MISS_lean | accel | 2026-06-11T08:10:08Z |
 | [AMAP-ML/roleagent](https://github.com/AMAP-ML/roleagent) | 41★ | 100★ | ✅ HIT_lean | accel | 2026-06-11T11:58:04Z |
 | [Cognivo-Future-Technologies-CFT/AwardX](https://github.com/Cognivo-Future-Technologies-CFT/AwardX) | 34★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-11T12:22:04Z |
@@ -47,6 +46,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [agentic-in/inferoa](https://github.com/agentic-in/inferoa) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 43★ → 77★ |
 | [serenakeyitan/awesome-agent-loops](https://github.com/serenakeyitan/awesome-agent-loops) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 26★ → 43★ |
 | [NuvioMedia/NuvioDesktop](https://github.com/NuvioMedia/NuvioDesktop) | ✅ HIT_lean | ✅ HIT | ✔ correct | 76★ → 216★ |
 | [secret-tools/secret-tool](https://github.com/secret-tools/secret-tool) | ✅ HIT_lean | ✅ HIT | ✔ correct | 50★ → 298★ |
@@ -71,7 +71,6 @@ Accuracy by phase at prediction time:
 | [m1ckc3s/project-fathom](https://github.com/m1ckc3s/project-fathom) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 50★ → 60★ |
 | [louisfb01/start-ai-engineering](https://github.com/louisfb01/start-ai-engineering) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 47★ → 88★ |
 | [MengMengCode/CLICD](https://github.com/MengMengCode/CLICD) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 21★ → 37★ |
-| [ferdinandobons/brand-docs](https://github.com/ferdinandobons/brand-docs) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 23★ → 37★ |
 
 ## Verify it yourself / 自分で検証
 
