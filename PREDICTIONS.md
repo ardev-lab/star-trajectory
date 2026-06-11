@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-11 02:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-11 06:10 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -13,7 +13,7 @@ Base rate (share of scored repos that actually reached the target): 21%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 6 | 104 | 87 | 17 |
+| count | 14 | 104 | 87 | 17 |
 
 Accuracy by phase at prediction time:
 
@@ -31,9 +31,17 @@ Accuracy by phase at prediction time:
 | [agentic-in/inferoa](https://github.com/agentic-in/inferoa) | 43★ | 100★ | ⛔ MISS_lean | accel | 2026-06-11T06:46:05Z |
 | [qunabu/Gravity](https://github.com/qunabu/Gravity) | 21★ | 100★ | ⛔ MISS_lean | accel | 2026-06-11T08:10:08Z |
 | [AMAP-ML/roleagent](https://github.com/AMAP-ML/roleagent) | 41★ | 100★ | ✅ HIT_lean | accel | 2026-06-11T11:58:04Z |
+| [Cognivo-Future-Technologies-CFT/AwardX](https://github.com/Cognivo-Future-Technologies-CFT/AwardX) | 34★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-11T12:22:04Z |
 | [flaviojmendes/dinamos](https://github.com/flaviojmendes/dinamos) | 23★ | 100★ | ⛔ MISS_lean | launch | 2026-06-11T12:46:03Z |
+| [ThresholdSailor/4k-Video-Downloader-Crack-2026](https://github.com/ThresholdSailor/4k-Video-Downloader-Crack-2026) | 31★ | 100★ | ❔ LOW_CONF | accel | 2026-06-11T19:04:09Z |
 | [joeseesun/QMPrompter](https://github.com/joeseesun/QMPrompter) | 32★ | 100★ | ✅ HIT_lean | launch | 2026-06-11T20:40:06Z |
 | [plannotator/effective-html](https://github.com/plannotator/effective-html) | 44★ | 100★ | ✅ HIT_lean | launch | 2026-06-11T23:22:05Z |
+| [alchaincyf/fanbox](https://github.com/alchaincyf/fanbox) | 91★ | 100★ | ✅ HIT_lean | accel | 2026-06-12T01:04:05Z |
+| [sunrisefromdark/agentRadar](https://github.com/sunrisefromdark/agentRadar) | 42★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-12T05:04:09Z |
+| [john-rocky/coreai-model-zoo](https://github.com/john-rocky/coreai-model-zoo) | 24★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-12T05:22:05Z |
+| [asz798838958/GeniusFKoai](https://github.com/asz798838958/GeniusFKoai) | 56★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-12T05:22:06Z |
+| [oomol-lab/LockIME](https://github.com/oomol-lab/LockIME) | 44★ | 100★ | ✅ HIT_lean | accel | 2026-06-12T08:58:07Z |
+| [vinayaklatthe/microsoft-security-skills](https://github.com/vinayaklatthe/microsoft-security-skills) | 20★ | 100★ | ⛔ MISS_lean | accel | 2026-06-12T11:40:03Z |
 
 ## Recently scored
 
