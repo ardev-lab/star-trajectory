@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-12 01:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-12 05:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,12 +8,12 @@ _Last updated: 2026-06-12 01:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 70/85 = 82%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+**Direction accuracy: 71/86 = 83%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
 Base rate (share of scored repos that actually reached the target): 20%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 5 | 113 | 95 | 18 |
+| count | 4 | 114 | 96 | 18 |
 
 Accuracy by phase at prediction time:
 
@@ -21,14 +21,13 @@ Accuracy by phase at prediction time:
 |---|---|---|---|
 | 1 launch | 27 | 20 | 74% |
 | 2 accel | 33 | 27 | 82% |
-| 3 trajectory | 24 | 22 | 92% |
+| 3 trajectory | 25 | 23 | 92% |
 | 4 maturity | 1 | 1 | 100% |
 
 ## Open predictions (not yet decided)
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [sunrisefromdark/agentRadar](https://github.com/sunrisefromdark/agentRadar) | 42★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-12T05:04:09Z |
 | [john-rocky/coreai-model-zoo](https://github.com/john-rocky/coreai-model-zoo) | 24★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-12T05:22:05Z |
 | [asz798838958/GeniusFKoai](https://github.com/asz798838958/GeniusFKoai) | 56★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-12T05:22:06Z |
 | [oomol-lab/LockIME](https://github.com/oomol-lab/LockIME) | 44★ | 100★ | ✅ HIT_lean | accel | 2026-06-12T08:58:07Z |
@@ -38,6 +37,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [sunrisefromdark/agentRadar](https://github.com/sunrisefromdark/agentRadar) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 42★ → 48★ |
 | [alchaincyf/fanbox](https://github.com/alchaincyf/fanbox) | ✅ HIT_lean | ✅ HIT | ✔ correct | 91★ → 184★ |
 | [plannotator/effective-html](https://github.com/plannotator/effective-html) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 44★ → 86★ |
 | [joeseesun/QMPrompter](https://github.com/joeseesun/QMPrompter) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 32★ → 82★ |
@@ -62,7 +62,6 @@ Accuracy by phase at prediction time:
 | [macton/nagent](https://github.com/macton/nagent) | ➖ BORDERLINE | ⛔ MISS | – no-call | 55★ → 77★ |
 | [RainyMarks/DeepX](https://github.com/RainyMarks/DeepX) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 27★ → 38★ |
 | [JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design) | ✅ HIT_lean | ✅ HIT | ✔ correct | 57★ → 521★ |
-| [Phoenixx1202/Spectrum-Library](https://github.com/Phoenixx1202/Spectrum-Library) | ⛔ MISS_lean | ✅ HIT | ✗ WRONG | 21★ → 110★ |
 
 ## Verify it yourself / 自分で検証
 
