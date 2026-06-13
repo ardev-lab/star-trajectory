@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-13 11:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-13 12:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,12 +8,12 @@ _Last updated: 2026-06-13 11:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 79/96 = 82%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+**Direction accuracy: 80/97 = 82%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
 Base rate (share of scored repos that actually reached the target): 20%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 10 | 124 | 106 | 18 |
+| count | 9 | 125 | 107 | 18 |
 
 Accuracy by phase at prediction time:
 
@@ -21,14 +21,13 @@ Accuracy by phase at prediction time:
 |---|---|---|---|
 | 1 launch | 29 | 21 | 72% |
 | 2 accel | 36 | 29 | 81% |
-| 3 trajectory | 30 | 28 | 93% |
+| 3 trajectory | 31 | 29 | 94% |
 | 4 maturity | 1 | 1 | 100% |
 
 ## Open predictions (not yet decided)
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 21★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-13T12:16:07Z |
 | [csthink/dashmotion](https://github.com/csthink/dashmotion) | 24★ | 100★ | ⛔ MISS_lean | launch | 2026-06-13T13:16:03Z |
 | [zhengdian1/InterleaveThinker](https://github.com/zhengdian1/InterleaveThinker) | 25★ | 100★ | ⛔ MISS_lean | launch | 2026-06-13T16:46:06Z |
 | [coasty-ai/open-cowork](https://github.com/coasty-ai/open-cowork) | 21★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-13T19:58:07Z |
@@ -43,6 +42,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 21★ → 24★ |
 | [TestSprite/testsprite-cli](https://github.com/TestSprite/testsprite-cli) | ⛔ MISS_lean | ✅ HIT | ✗ WRONG | 27★ → 116★ |
 | [LearnPrompt/luban-skill](https://github.com/LearnPrompt/luban-skill) | ✅ HIT_lean | ✅ HIT | ✔ correct | 74★ → 152★ |
 | [oy-paddy/aliyun-model-proxy](https://github.com/oy-paddy/aliyun-model-proxy) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 28★ → 31★ |
@@ -67,7 +67,6 @@ Accuracy by phase at prediction time:
 | [secret-tools/secret-tool](https://github.com/secret-tools/secret-tool) | ✅ HIT_lean | ✅ HIT | ✔ correct | 50★ → 298★ |
 | [dotike/fsh](https://github.com/dotike/fsh) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 20★ → 30★ |
 | [YerayL/Science-Research-Writing-Skills](https://github.com/YerayL/Science-Research-Writing-Skills) | ❔ LOW_CONF | ⛔ MISS | – no-call | 41★ → 47★ |
-| [Ryderwe/Sollin-Music-Desktop](https://github.com/Ryderwe/Sollin-Music-Desktop) | ➖ BORDERLINE | ⛔ MISS | – no-call | 45★ → 73★ |
 
 ## Verify it yourself / 自分で検証
 
