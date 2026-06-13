@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-13 02:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-13 04:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,12 +8,12 @@ _Last updated: 2026-06-13 02:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 76/92 = 83%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
-Base rate (share of scored repos that actually reached the target): 19%.
+**Direction accuracy: 77/93 = 83%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+Base rate (share of scored repos that actually reached the target): 18%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 6 | 120 | 102 | 18 |
+| count | 5 | 121 | 103 | 18 |
 
 Accuracy by phase at prediction time:
 
@@ -21,14 +21,13 @@ Accuracy by phase at prediction time:
 |---|---|---|---|
 | 1 launch | 27 | 20 | 74% |
 | 2 accel | 35 | 28 | 80% |
-| 3 trajectory | 29 | 27 | 93% |
+| 3 trajectory | 30 | 28 | 93% |
 | 4 maturity | 1 | 1 | 100% |
 
 ## Open predictions (not yet decided)
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [28998306/MagicalCanvas](https://github.com/28998306/MagicalCanvas) | 20★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-13T04:10:04Z |
 | [oy-paddy/aliyun-model-proxy](https://github.com/oy-paddy/aliyun-model-proxy) | 28★ | 100★ | ⛔ MISS_lean | launch | 2026-06-13T07:10:08Z |
 | [LearnPrompt/luban-skill](https://github.com/LearnPrompt/luban-skill) | 74★ | 100★ | ✅ HIT_lean | accel | 2026-06-13T08:52:07Z |
 | [TestSprite/testsprite-cli](https://github.com/TestSprite/testsprite-cli) | 27★ | 100★ | ⛔ MISS_lean | launch | 2026-06-13T10:46:06Z |
@@ -39,6 +38,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [28998306/MagicalCanvas](https://github.com/28998306/MagicalCanvas) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 20★ → 32★ |
 | [nxtrace/GlobalTrace](https://github.com/nxtrace/GlobalTrace) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 34★ → 45★ |
 | [duolahypercho/gta-vi-caliber](https://github.com/duolahypercho/gta-vi-caliber) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 43★ → 50★ |
 | [vinayaklatthe/microsoft-security-skills](https://github.com/vinayaklatthe/microsoft-security-skills) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 20★ → 69★ |
@@ -63,7 +63,6 @@ Accuracy by phase at prediction time:
 | [borhen68/TokenTamer](https://github.com/borhen68/TokenTamer) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 67★ → 69★ |
 | [supperzl/ita](https://github.com/supperzl/ita) | ✅ HIT_lean | ✅ HIT | ✔ correct | 40★ → 111★ |
 | [canwhite/MicroRAG](https://github.com/canwhite/MicroRAG) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 21★ → 52★ |
-| [chengtx007/fuckoai](https://github.com/chengtx007/fuckoai) | ✅ HIT_lean | ✅ HIT | ✔ correct | 89★ → 127★ |
 
 ## Verify it yourself / 自分で検証
 
