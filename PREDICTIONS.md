@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-13 17:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-13 20:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,12 +8,12 @@ _Last updated: 2026-06-13 17:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 81/99 = 82%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+**Direction accuracy: 82/100 = 82%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
 Base rate (share of scored repos that actually reached the target): 20%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 7 | 127 | 109 | 18 |
+| count | 6 | 128 | 110 | 18 |
 
 Accuracy by phase at prediction time:
 
@@ -21,14 +21,13 @@ Accuracy by phase at prediction time:
 |---|---|---|---|
 | 1 launch | 31 | 22 | 71% |
 | 2 accel | 36 | 29 | 81% |
-| 3 trajectory | 31 | 29 | 94% |
+| 3 trajectory | 32 | 30 | 94% |
 | 4 maturity | 1 | 1 | 100% |
 
 ## Open predictions (not yet decided)
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [coasty-ai/open-cowork](https://github.com/coasty-ai/open-cowork) | 21★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-13T19:58:07Z |
 | [SagerNet/sing-box-dashboard](https://github.com/SagerNet/sing-box-dashboard) | 23★ | 100★ | ⛔ MISS_lean | accel | 2026-06-14T02:10:08Z |
 | [Crain99/worldcut-2026](https://github.com/Crain99/worldcut-2026) | 22★ | 100★ | ⛔ MISS_lean | accel | 2026-06-14T10:22:06Z |
 | [bingook/bingo](https://github.com/bingook/bingo) | 81★ | 100★ | ✅ HIT_lean | accel | 2026-06-14T10:28:04Z |
@@ -40,6 +39,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [coasty-ai/open-cowork](https://github.com/coasty-ai/open-cowork) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 21★ → 33★ |
 | [zhengdian1/InterleaveThinker](https://github.com/zhengdian1/InterleaveThinker) | ⛔ MISS_lean | ✅ HIT | ✗ WRONG | 25★ → 114★ |
 | [csthink/dashmotion](https://github.com/csthink/dashmotion) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 24★ → 43★ |
 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 21★ → 24★ |
@@ -64,7 +64,6 @@ Accuracy by phase at prediction time:
 | [agentic-in/inferoa](https://github.com/agentic-in/inferoa) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 43★ → 77★ |
 | [serenakeyitan/awesome-agent-loops](https://github.com/serenakeyitan/awesome-agent-loops) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 26★ → 43★ |
 | [NuvioMedia/NuvioDesktop](https://github.com/NuvioMedia/NuvioDesktop) | ✅ HIT_lean | ✅ HIT | ✔ correct | 76★ → 216★ |
-| [secret-tools/secret-tool](https://github.com/secret-tools/secret-tool) | ✅ HIT_lean | ✅ HIT | ✔ correct | 50★ → 298★ |
 
 ## Verify it yourself / 自分で検証
 
