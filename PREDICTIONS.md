@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-13 04:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-13 06:10 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -13,7 +13,7 @@ Base rate (share of scored repos that actually reached the target): 18%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 5 | 121 | 103 | 18 |
+| count | 13 | 121 | 103 | 18 |
 
 Accuracy by phase at prediction time:
 
@@ -31,8 +31,16 @@ Accuracy by phase at prediction time:
 | [oy-paddy/aliyun-model-proxy](https://github.com/oy-paddy/aliyun-model-proxy) | 28★ | 100★ | ⛔ MISS_lean | launch | 2026-06-13T07:10:08Z |
 | [LearnPrompt/luban-skill](https://github.com/LearnPrompt/luban-skill) | 74★ | 100★ | ✅ HIT_lean | accel | 2026-06-13T08:52:07Z |
 | [TestSprite/testsprite-cli](https://github.com/TestSprite/testsprite-cli) | 27★ | 100★ | ⛔ MISS_lean | launch | 2026-06-13T10:46:06Z |
+| [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 21★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-13T12:16:07Z |
 | [csthink/dashmotion](https://github.com/csthink/dashmotion) | 24★ | 100★ | ⛔ MISS_lean | launch | 2026-06-13T13:16:03Z |
 | [zhengdian1/InterleaveThinker](https://github.com/zhengdian1/InterleaveThinker) | 25★ | 100★ | ⛔ MISS_lean | launch | 2026-06-13T16:46:06Z |
+| [coasty-ai/open-cowork](https://github.com/coasty-ai/open-cowork) | 21★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-13T19:58:07Z |
+| [SagerNet/sing-box-dashboard](https://github.com/SagerNet/sing-box-dashboard) | 23★ | 100★ | ⛔ MISS_lean | accel | 2026-06-14T02:10:08Z |
+| [Crain99/worldcut-2026](https://github.com/Crain99/worldcut-2026) | 22★ | 100★ | ⛔ MISS_lean | accel | 2026-06-14T10:22:06Z |
+| [bingook/bingo](https://github.com/bingook/bingo) | 81★ | 100★ | ✅ HIT_lean | accel | 2026-06-14T10:28:04Z |
+| [eric248550/comcom](https://github.com/eric248550/comcom) | 33★ | 100★ | ✅ HIT_lean | accel | 2026-06-14T13:22:05Z |
+| [ghuyphan/kiosk-browser](https://github.com/ghuyphan/kiosk-browser) | 22★ | 100★ | ⛔ MISS_lean | accel | 2026-06-14T13:40:05Z |
+| [Quant-Alpha-Systems/polymarket-trading-bot](https://github.com/Quant-Alpha-Systems/polymarket-trading-bot) | 23★ | 100★ | ✅ HIT_lean | accel | 2026-06-14T18:22:09Z |
 
 ## Recently scored
 
