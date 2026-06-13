@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-13 13:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-13 17:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,18 +8,18 @@ _Last updated: 2026-06-13 13:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 81/98 = 83%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
-Base rate (share of scored repos that actually reached the target): 19%.
+**Direction accuracy: 81/99 = 82%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+Base rate (share of scored repos that actually reached the target): 20%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 8 | 126 | 108 | 18 |
+| count | 7 | 127 | 109 | 18 |
 
 Accuracy by phase at prediction time:
 
 | phase | directional calls | correct | accuracy |
 |---|---|---|---|
-| 1 launch | 30 | 22 | 73% |
+| 1 launch | 31 | 22 | 71% |
 | 2 accel | 36 | 29 | 81% |
 | 3 trajectory | 31 | 29 | 94% |
 | 4 maturity | 1 | 1 | 100% |
@@ -28,7 +28,6 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [zhengdian1/InterleaveThinker](https://github.com/zhengdian1/InterleaveThinker) | 25★ | 100★ | ⛔ MISS_lean | launch | 2026-06-13T16:46:06Z |
 | [coasty-ai/open-cowork](https://github.com/coasty-ai/open-cowork) | 21★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-13T19:58:07Z |
 | [SagerNet/sing-box-dashboard](https://github.com/SagerNet/sing-box-dashboard) | 23★ | 100★ | ⛔ MISS_lean | accel | 2026-06-14T02:10:08Z |
 | [Crain99/worldcut-2026](https://github.com/Crain99/worldcut-2026) | 22★ | 100★ | ⛔ MISS_lean | accel | 2026-06-14T10:22:06Z |
@@ -41,6 +40,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [zhengdian1/InterleaveThinker](https://github.com/zhengdian1/InterleaveThinker) | ⛔ MISS_lean | ✅ HIT | ✗ WRONG | 25★ → 114★ |
 | [csthink/dashmotion](https://github.com/csthink/dashmotion) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 24★ → 43★ |
 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 21★ → 24★ |
 | [TestSprite/testsprite-cli](https://github.com/TestSprite/testsprite-cli) | ⛔ MISS_lean | ✅ HIT | ✗ WRONG | 27★ → 116★ |
@@ -65,7 +65,6 @@ Accuracy by phase at prediction time:
 | [serenakeyitan/awesome-agent-loops](https://github.com/serenakeyitan/awesome-agent-loops) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 26★ → 43★ |
 | [NuvioMedia/NuvioDesktop](https://github.com/NuvioMedia/NuvioDesktop) | ✅ HIT_lean | ✅ HIT | ✔ correct | 76★ → 216★ |
 | [secret-tools/secret-tool](https://github.com/secret-tools/secret-tool) | ✅ HIT_lean | ✅ HIT | ✔ correct | 50★ → 298★ |
-| [dotike/fsh](https://github.com/dotike/fsh) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 20★ → 30★ |
 
 ## Verify it yourself / 自分で検証
 
