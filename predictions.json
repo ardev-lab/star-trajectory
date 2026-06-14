@@ -3259,10 +3259,10 @@
     "arrival_archetype": "steady_organic",
     "authenticity": "LOW",
     "tool_version": "0.1.0",
-    "status": "open",
-    "outcome": null,
-    "actual_stars_at_deadline": null,
-    "direction_correct": null,
-    "scored_at_utc": null
+    "status": "scored",
+    "outcome": "MISS",
+    "actual_stars_at_deadline": 22,
+    "direction_correct": true,
+    "scored_at_utc": "2026-06-14T17:20:03Z"
   }
 ]
