@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-14 13:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-14 14:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,19 +8,19 @@ _Last updated: 2026-06-14 13:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 86/104 = 83%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+**Direction accuracy: 87/106 = 82%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
 Base rate (share of scored repos that actually reached the target): 20%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 10 | 132 | 114 | 18 |
+| count | 8 | 134 | 116 | 18 |
 
 Accuracy by phase at prediction time:
 
 | phase | directional calls | correct | accuracy |
 |---|---|---|---|
 | 1 launch | 31 | 22 | 71% |
-| 2 accel | 39 | 32 | 82% |
+| 2 accel | 41 | 33 | 80% |
 | 3 trajectory | 33 | 31 | 94% |
 | 4 maturity | 1 | 1 | 100% |
 
@@ -28,8 +28,6 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [eric248550/comcom](https://github.com/eric248550/comcom) | 33★ | 100★ | ✅ HIT_lean | accel | 2026-06-14T13:22:05Z |
-| [ghuyphan/kiosk-browser](https://github.com/ghuyphan/kiosk-browser) | 22★ | 100★ | ⛔ MISS_lean | accel | 2026-06-14T13:40:05Z |
 | [jujuyaya/juya-ai-daily](https://github.com/jujuyaya/juya-ai-daily) | 21★ | 100★ | ⛔ MISS_lean | accel | 2026-06-14T16:22:09Z |
 | [Quant-Alpha-Systems/polymarket-trading-bot](https://github.com/Quant-Alpha-Systems/polymarket-trading-bot) | 23★ | 100★ | ✅ HIT_lean | accel | 2026-06-14T18:22:09Z |
 | [wukongdaily/luci-app-run](https://github.com/wukongdaily/luci-app-run) | 33★ | 100★ | ⛔ MISS_lean | launch | 2026-06-15T08:22:08Z |
@@ -43,6 +41,8 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [eric248550/comcom](https://github.com/eric248550/comcom) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 33★ → 49★ |
+| [ghuyphan/kiosk-browser](https://github.com/ghuyphan/kiosk-browser) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 22★ → 24★ |
 | [anosu/AbyssMod](https://github.com/anosu/AbyssMod) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 30★ → 42★ |
 | [bingook/bingo](https://github.com/bingook/bingo) | ✅ HIT_lean | ✅ HIT | ✔ correct | 81★ → 128★ |
 | [Crain99/worldcut-2026](https://github.com/Crain99/worldcut-2026) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 22★ → 28★ |
@@ -66,8 +66,6 @@ Accuracy by phase at prediction time:
 | [plannotator/effective-html](https://github.com/plannotator/effective-html) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 44★ → 86★ |
 | [joeseesun/QMPrompter](https://github.com/joeseesun/QMPrompter) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 32★ → 82★ |
 | [flaviojmendes/dinamos](https://github.com/flaviojmendes/dinamos) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 23★ → 38★ |
-| [Cognivo-Future-Technologies-CFT/AwardX](https://github.com/Cognivo-Future-Technologies-CFT/AwardX) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 34★ → 45★ |
-| [AMAP-ML/roleagent](https://github.com/AMAP-ML/roleagent) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 41★ → 75★ |
 
 ## Verify it yourself / 自分で検証
 
