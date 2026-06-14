@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-06-14T02:20:02Z",
+  "generated_utc": "2026-06-14T06:10:09Z",
   "totals": {
-    "predictions": 134,
-    "open": 5,
+    "predictions": 142,
+    "open": 13,
     "scored": 129,
     "graded": 111,
     "repo_gone": 18

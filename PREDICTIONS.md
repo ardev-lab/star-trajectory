@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-14 02:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-14 06:10 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -13,7 +13,7 @@ Base rate (share of scored repos that actually reached the target): 20%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 5 | 129 | 111 | 18 |
+| count | 13 | 129 | 111 | 18 |
 
 Accuracy by phase at prediction time:
 
@@ -30,9 +30,17 @@ Accuracy by phase at prediction time:
 |---|---|---|---|---|---|
 | [Crain99/worldcut-2026](https://github.com/Crain99/worldcut-2026) | 22★ | 100★ | ⛔ MISS_lean | accel | 2026-06-14T10:22:06Z |
 | [bingook/bingo](https://github.com/bingook/bingo) | 81★ | 100★ | ✅ HIT_lean | accel | 2026-06-14T10:28:04Z |
+| [anosu/AbyssMod](https://github.com/anosu/AbyssMod) | 30★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-14T12:46:04Z |
 | [eric248550/comcom](https://github.com/eric248550/comcom) | 33★ | 100★ | ✅ HIT_lean | accel | 2026-06-14T13:22:05Z |
 | [ghuyphan/kiosk-browser](https://github.com/ghuyphan/kiosk-browser) | 22★ | 100★ | ⛔ MISS_lean | accel | 2026-06-14T13:40:05Z |
+| [jujuyaya/juya-ai-daily](https://github.com/jujuyaya/juya-ai-daily) | 21★ | 100★ | ⛔ MISS_lean | accel | 2026-06-14T16:22:09Z |
 | [Quant-Alpha-Systems/polymarket-trading-bot](https://github.com/Quant-Alpha-Systems/polymarket-trading-bot) | 23★ | 100★ | ✅ HIT_lean | accel | 2026-06-14T18:22:09Z |
+| [wukongdaily/luci-app-run](https://github.com/wukongdaily/luci-app-run) | 33★ | 100★ | ⛔ MISS_lean | launch | 2026-06-15T08:22:08Z |
+| [SihyeonJeon/why-was-fable-banned](https://github.com/SihyeonJeon/why-was-fable-banned) | 28★ | 100★ | ➖ BORDERLINE | launch | 2026-06-15T15:52:06Z |
+| [duolahypercho/fusion-fable](https://github.com/duolahypercho/fusion-fable) | 56★ | 100★ | ✅ HIT_lean | launch | 2026-06-15T23:22:07Z |
+| [rotejin/tomari-guruguru](https://github.com/rotejin/tomari-guruguru) | 27★ | 100★ | ✅ HIT_lean | launch | 2026-06-16T01:34:04Z |
+| [pzr2508/RL_for_Game](https://github.com/pzr2508/RL_for_Game) | 33★ | 100★ | ✅ HIT_lean | launch | 2026-06-16T02:28:05Z |
+| [bi7x/USDT-BTC-Transaction-Flashing-Tool](https://github.com/bi7x/USDT-BTC-Transaction-Flashing-Tool) | 28★ | 100★ | ✅ HIT_lean | launch | 2026-06-16T03:28:06Z |
 
 ## Recently scored
 
