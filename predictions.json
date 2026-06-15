@@ -3374,11 +3374,11 @@
     "arrival_archetype": "steady_organic",
     "authenticity": "LOW",
     "tool_version": "0.1.0",
-    "status": "open",
-    "outcome": null,
-    "actual_stars_at_deadline": null,
-    "direction_correct": null,
-    "scored_at_utc": null
+    "status": "scored",
+    "outcome": "MISS",
+    "actual_stars_at_deadline": 30,
+    "direction_correct": true,
+    "scored_at_utc": "2026-06-15T12:20:01Z"
   },
   {
     "repo": "baskduf/FableCodex",
@@ -3420,11 +3420,11 @@
     "arrival_archetype": "steady_organic",
     "authenticity": "MEDIUM",
     "tool_version": "0.1.0",
-    "status": "open",
-    "outcome": null,
-    "actual_stars_at_deadline": null,
-    "direction_correct": null,
-    "scored_at_utc": null
+    "status": "scored",
+    "outcome": "MISS",
+    "actual_stars_at_deadline": 46,
+    "direction_correct": true,
+    "scored_at_utc": "2026-06-15T12:20:01Z"
   },
   {
     "repo": "chrisryugj/fable-ish",
