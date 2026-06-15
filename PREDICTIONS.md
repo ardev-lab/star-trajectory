@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-14 19:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-15 06:10 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -13,7 +13,7 @@ Base rate (share of scored repos that actually reached the target): 20%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 6 | 136 | 118 | 18 |
+| count | 14 | 136 | 118 | 18 |
 
 Accuracy by phase at prediction time:
 
@@ -29,11 +29,19 @@ Accuracy by phase at prediction time:
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
 | [wukongdaily/luci-app-run](https://github.com/wukongdaily/luci-app-run) | 33★ | 100★ | ⛔ MISS_lean | launch | 2026-06-15T08:22:08Z |
+| [raymondchins/agentmap](https://github.com/raymondchins/agentmap) | 27★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-15T11:28:06Z |
+| [gary23w/neuron-db](https://github.com/gary23w/neuron-db) | 42★ | 100★ | ⛔ MISS_lean | accel | 2026-06-15T11:46:07Z |
 | [SihyeonJeon/why-was-fable-banned](https://github.com/SihyeonJeon/why-was-fable-banned) | 28★ | 100★ | ➖ BORDERLINE | launch | 2026-06-15T15:52:06Z |
+| [ruvnet/agent-harness-generator](https://github.com/ruvnet/agent-harness-generator) | 39★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-15T18:28:04Z |
 | [duolahypercho/fusion-fable](https://github.com/duolahypercho/fusion-fable) | 56★ | 100★ | ✅ HIT_lean | launch | 2026-06-15T23:22:07Z |
 | [rotejin/tomari-guruguru](https://github.com/rotejin/tomari-guruguru) | 27★ | 100★ | ✅ HIT_lean | launch | 2026-06-16T01:34:04Z |
 | [pzr2508/RL_for_Game](https://github.com/pzr2508/RL_for_Game) | 33★ | 100★ | ✅ HIT_lean | launch | 2026-06-16T02:28:05Z |
 | [bi7x/USDT-BTC-Transaction-Flashing-Tool](https://github.com/bi7x/USDT-BTC-Transaction-Flashing-Tool) | 28★ | 100★ | ✅ HIT_lean | launch | 2026-06-16T03:28:06Z |
+| [j1ans/r0csgo_piece_of_shit](https://github.com/j1ans/r0csgo_piece_of_shit) | 23★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-16T05:04:03Z |
+| [ladybug-me/end-4dots-kde](https://github.com/ladybug-me/end-4dots-kde) | 25★ | 100★ | ⛔ MISS_lean | accel | 2026-06-16T05:04:04Z |
+| [baskduf/FableCodex](https://github.com/baskduf/FableCodex) | 87★ | 100★ | ✅ HIT_lean | launch | 2026-06-16T13:10:07Z |
+| [chrisryugj/fable-ish](https://github.com/chrisryugj/fable-ish) | 21★ | 100★ | ⛔ MISS_lean | launch | 2026-06-16T14:46:08Z |
+| [Jeidoban/Ironsmith](https://github.com/Jeidoban/Ironsmith) | 32★ | 100★ | ✅ HIT_lean | accel | 2026-06-17T01:28:02Z |
 
 ## Recently scored
 
