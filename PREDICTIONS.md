@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-15 16:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-15 19:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,12 +8,12 @@ _Last updated: 2026-06-15 16:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 91/111 = 82%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+**Direction accuracy: 92/112 = 82%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
 Base rate (share of scored repos that actually reached the target): 19%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 10 | 140 | 122 | 18 |
+| count | 9 | 141 | 123 | 18 |
 
 Accuracy by phase at prediction time:
 
@@ -21,14 +21,13 @@ Accuracy by phase at prediction time:
 |---|---|---|---|
 | 1 launch | 32 | 23 | 72% |
 | 2 accel | 44 | 35 | 80% |
-| 3 trajectory | 34 | 32 | 94% |
+| 3 trajectory | 35 | 33 | 94% |
 | 4 maturity | 1 | 1 | 100% |
 
 ## Open predictions (not yet decided)
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [ruvnet/agent-harness-generator](https://github.com/ruvnet/agent-harness-generator) | 39★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-15T18:28:04Z |
 | [duolahypercho/fusion-fable](https://github.com/duolahypercho/fusion-fable) | 56★ | 100★ | ✅ HIT_lean | launch | 2026-06-15T23:22:07Z |
 | [rotejin/tomari-guruguru](https://github.com/rotejin/tomari-guruguru) | 27★ | 100★ | ✅ HIT_lean | launch | 2026-06-16T01:34:04Z |
 | [pzr2508/RL_for_Game](https://github.com/pzr2508/RL_for_Game) | 33★ | 100★ | ✅ HIT_lean | launch | 2026-06-16T02:28:05Z |
@@ -43,6 +42,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [ruvnet/agent-harness-generator](https://github.com/ruvnet/agent-harness-generator) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 39★ → 71★ |
 | [SihyeonJeon/why-was-fable-banned](https://github.com/SihyeonJeon/why-was-fable-banned) | ➖ BORDERLINE | ⛔ MISS | – no-call | 28★ → 43★ |
 | [raymondchins/agentmap](https://github.com/raymondchins/agentmap) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 27★ → 30★ |
 | [gary23w/neuron-db](https://github.com/gary23w/neuron-db) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 42★ → 46★ |
@@ -67,7 +67,6 @@ Accuracy by phase at prediction time:
 | [duolahypercho/gta-vi-caliber](https://github.com/duolahypercho/gta-vi-caliber) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 43★ → 50★ |
 | [vinayaklatthe/microsoft-security-skills](https://github.com/vinayaklatthe/microsoft-security-skills) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 20★ → 69★ |
 | [oomol-lab/LockIME](https://github.com/oomol-lab/LockIME) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 44★ → 81★ |
-| [john-rocky/coreai-model-zoo](https://github.com/john-rocky/coreai-model-zoo) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 24★ → 46★ |
 
 ## Verify it yourself / 自分で検証
 
