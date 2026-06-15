@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-15 06:10 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-15 09:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,18 +8,18 @@ _Last updated: 2026-06-15 06:10 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 88/108 = 82%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
-Base rate (share of scored repos that actually reached the target): 20%.
+**Direction accuracy: 89/109 = 82%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+Base rate (share of scored repos that actually reached the target): 19%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 14 | 136 | 118 | 18 |
+| count | 13 | 137 | 119 | 18 |
 
 Accuracy by phase at prediction time:
 
 | phase | directional calls | correct | accuracy |
 |---|---|---|---|
-| 1 launch | 31 | 22 | 71% |
+| 1 launch | 32 | 23 | 72% |
 | 2 accel | 43 | 34 | 79% |
 | 3 trajectory | 33 | 31 | 94% |
 | 4 maturity | 1 | 1 | 100% |
@@ -28,7 +28,6 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [wukongdaily/luci-app-run](https://github.com/wukongdaily/luci-app-run) | 33★ | 100★ | ⛔ MISS_lean | launch | 2026-06-15T08:22:08Z |
 | [raymondchins/agentmap](https://github.com/raymondchins/agentmap) | 27★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-15T11:28:06Z |
 | [gary23w/neuron-db](https://github.com/gary23w/neuron-db) | 42★ | 100★ | ⛔ MISS_lean | accel | 2026-06-15T11:46:07Z |
 | [SihyeonJeon/why-was-fable-banned](https://github.com/SihyeonJeon/why-was-fable-banned) | 28★ | 100★ | ➖ BORDERLINE | launch | 2026-06-15T15:52:06Z |
@@ -47,6 +46,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [wukongdaily/luci-app-run](https://github.com/wukongdaily/luci-app-run) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 33★ → 44★ |
 | [Quant-Alpha-Systems/polymarket-trading-bot](https://github.com/Quant-Alpha-Systems/polymarket-trading-bot) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 23★ → 23★ |
 | [jujuyaya/juya-ai-daily](https://github.com/jujuyaya/juya-ai-daily) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 21★ → 22★ |
 | [eric248550/comcom](https://github.com/eric248550/comcom) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 33★ → 49★ |
@@ -71,7 +71,6 @@ Accuracy by phase at prediction time:
 | [asz798838958/GeniusFKoai](https://github.com/asz798838958/GeniusFKoai) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 56★ → 91★ |
 | [sunrisefromdark/agentRadar](https://github.com/sunrisefromdark/agentRadar) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 42★ → 48★ |
 | [alchaincyf/fanbox](https://github.com/alchaincyf/fanbox) | ✅ HIT_lean | ✅ HIT | ✔ correct | 91★ → 184★ |
-| [plannotator/effective-html](https://github.com/plannotator/effective-html) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 44★ → 86★ |
 
 ## Verify it yourself / 自分で検証
 
