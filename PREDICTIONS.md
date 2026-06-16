@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-16 06:10 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-16 13:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,18 +8,18 @@ _Last updated: 2026-06-16 06:10 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 96/117 = 82%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+**Direction accuracy: 97/118 = 82%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
 Base rate (share of scored repos that actually reached the target): 20%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 11 | 147 | 128 | 19 |
+| count | 10 | 148 | 129 | 19 |
 
 Accuracy by phase at prediction time:
 
 | phase | directional calls | correct | accuracy |
 |---|---|---|---|
-| 1 launch | 35 | 25 | 71% |
+| 1 launch | 36 | 26 | 72% |
 | 2 accel | 45 | 36 | 80% |
 | 3 trajectory | 36 | 34 | 94% |
 | 4 maturity | 1 | 1 | 100% |
@@ -28,7 +28,6 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [baskduf/FableCodex](https://github.com/baskduf/FableCodex) | 87★ | 100★ | ✅ HIT_lean | launch | 2026-06-16T13:10:07Z |
 | [chrisryugj/fable-ish](https://github.com/chrisryugj/fable-ish) | 21★ | 100★ | ⛔ MISS_lean | launch | 2026-06-16T14:46:08Z |
 | [Jeidoban/Ironsmith](https://github.com/Jeidoban/Ironsmith) | 32★ | 100★ | ✅ HIT_lean | accel | 2026-06-17T01:28:02Z |
 | [renee-jia/scholar-loop](https://github.com/renee-jia/scholar-loop) | 82★ | 100★ | ➖ BORDERLINE | maturity (decelerating) | 2026-06-17T04:52:05Z |
@@ -44,6 +43,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [baskduf/FableCodex](https://github.com/baskduf/FableCodex) | ✅ HIT_lean | ✅ HIT | ✔ correct | 87★ → 122★ |
 | [j1ans/r0csgo_piece_of_shit](https://github.com/j1ans/r0csgo_piece_of_shit) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 23★ → 34★ |
 | [ladybug-me/end-4dots-kde](https://github.com/ladybug-me/end-4dots-kde) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 25★ → 29★ |
 | [pzr2508/RL_for_Game](https://github.com/pzr2508/RL_for_Game) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 33★ → 75★ |
@@ -68,7 +68,6 @@ Accuracy by phase at prediction time:
 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 21★ → 24★ |
 | [TestSprite/testsprite-cli](https://github.com/TestSprite/testsprite-cli) | ⛔ MISS_lean | ✅ HIT | ✗ WRONG | 27★ → 116★ |
 | [LearnPrompt/luban-skill](https://github.com/LearnPrompt/luban-skill) | ✅ HIT_lean | ✅ HIT | ✔ correct | 74★ → 152★ |
-| [oy-paddy/aliyun-model-proxy](https://github.com/oy-paddy/aliyun-model-proxy) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 28★ → 31★ |
 
 ## Verify it yourself / 自分で検証
 
