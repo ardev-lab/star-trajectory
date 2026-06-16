@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-16 05:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-16 06:10 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -13,7 +13,7 @@ Base rate (share of scored repos that actually reached the target): 20%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 3 | 147 | 128 | 19 |
+| count | 11 | 147 | 128 | 19 |
 
 Accuracy by phase at prediction time:
 
@@ -31,6 +31,14 @@ Accuracy by phase at prediction time:
 | [baskduf/FableCodex](https://github.com/baskduf/FableCodex) | 87★ | 100★ | ✅ HIT_lean | launch | 2026-06-16T13:10:07Z |
 | [chrisryugj/fable-ish](https://github.com/chrisryugj/fable-ish) | 21★ | 100★ | ⛔ MISS_lean | launch | 2026-06-16T14:46:08Z |
 | [Jeidoban/Ironsmith](https://github.com/Jeidoban/Ironsmith) | 32★ | 100★ | ✅ HIT_lean | accel | 2026-06-17T01:28:02Z |
+| [renee-jia/scholar-loop](https://github.com/renee-jia/scholar-loop) | 82★ | 100★ | ➖ BORDERLINE | maturity (decelerating) | 2026-06-17T04:52:05Z |
+| [AreevAI/flowcat](https://github.com/AreevAI/flowcat) | 25★ | 100★ | ⛔ MISS_lean | accel | 2026-06-17T05:28:06Z |
+| [ProxyAyush/antigravity-fusion-plugin](https://github.com/ProxyAyush/antigravity-fusion-plugin) | 29★ | 100★ | ⛔ MISS_lean | accel | 2026-06-17T06:10:09Z |
+| [dongshuyan/compass-skills](https://github.com/dongshuyan/compass-skills) | 89★ | 100★ | ✅ HIT_lean | accel | 2026-06-17T06:28:07Z |
+| [Sessa93/remote-df](https://github.com/Sessa93/remote-df) | 21★ | 100★ | ⛔ MISS_lean | accel | 2026-06-17T08:40:04Z |
+| [coracoo/insprira](https://github.com/coracoo/insprira) | 22★ | 100★ | ⛔ MISS_lean | launch | 2026-06-17T11:28:04Z |
+| [MustangYM/SovietExtension](https://github.com/MustangYM/SovietExtension) | 46★ | 100★ | ✅ HIT_lean | launch | 2026-06-17T22:52:08Z |
+| [shreyashankar/plain-writing-skill](https://github.com/shreyashankar/plain-writing-skill) | 22★ | 100★ | ✅ HIT_lean | launch | 2026-06-17T23:52:07Z |
 
 ## Recently scored
 
