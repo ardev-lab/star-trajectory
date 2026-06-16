@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-16 00:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-16 02:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,18 +8,18 @@ _Last updated: 2026-06-16 00:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 93/113 = 82%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
-Base rate (share of scored repos that actually reached the target): 19%.
+**Direction accuracy: 94/114 = 82%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+Base rate (share of scored repos that actually reached the target): 20%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 8 | 142 | 124 | 18 |
+| count | 7 | 143 | 125 | 18 |
 
 Accuracy by phase at prediction time:
 
 | phase | directional calls | correct | accuracy |
 |---|---|---|---|
-| 1 launch | 33 | 24 | 73% |
+| 1 launch | 34 | 25 | 74% |
 | 2 accel | 44 | 35 | 80% |
 | 3 trajectory | 35 | 33 | 94% |
 | 4 maturity | 1 | 1 | 100% |
@@ -28,7 +28,6 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [rotejin/tomari-guruguru](https://github.com/rotejin/tomari-guruguru) | 27★ | 100★ | ✅ HIT_lean | launch | 2026-06-16T01:34:04Z |
 | [pzr2508/RL_for_Game](https://github.com/pzr2508/RL_for_Game) | 33★ | 100★ | ✅ HIT_lean | launch | 2026-06-16T02:28:05Z |
 | [bi7x/USDT-BTC-Transaction-Flashing-Tool](https://github.com/bi7x/USDT-BTC-Transaction-Flashing-Tool) | 28★ | 100★ | ✅ HIT_lean | launch | 2026-06-16T03:28:06Z |
 | [j1ans/r0csgo_piece_of_shit](https://github.com/j1ans/r0csgo_piece_of_shit) | 23★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-16T05:04:03Z |
@@ -41,6 +40,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [rotejin/tomari-guruguru](https://github.com/rotejin/tomari-guruguru) | ✅ HIT_lean | ✅ HIT | ✔ correct | 27★ → 231★ |
 | [duolahypercho/fusion-fable](https://github.com/duolahypercho/fusion-fable) | ✅ HIT_lean | ✅ HIT | ✔ correct | 56★ → 296★ |
 | [ruvnet/agent-harness-generator](https://github.com/ruvnet/agent-harness-generator) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 39★ → 71★ |
 | [SihyeonJeon/why-was-fable-banned](https://github.com/SihyeonJeon/why-was-fable-banned) | ➖ BORDERLINE | ⛔ MISS | – no-call | 28★ → 43★ |
@@ -65,7 +65,6 @@ Accuracy by phase at prediction time:
 | [28998306/MagicalCanvas](https://github.com/28998306/MagicalCanvas) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 20★ → 32★ |
 | [nxtrace/GlobalTrace](https://github.com/nxtrace/GlobalTrace) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 34★ → 45★ |
 | [duolahypercho/gta-vi-caliber](https://github.com/duolahypercho/gta-vi-caliber) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 43★ → 50★ |
-| [vinayaklatthe/microsoft-security-skills](https://github.com/vinayaklatthe/microsoft-security-skills) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 20★ → 69★ |
 
 ## Verify it yourself / 自分で検証
 
