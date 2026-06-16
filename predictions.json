@@ -3190,11 +3190,11 @@
     "arrival_archetype": "steady_organic",
     "authenticity": "MEDIUM",
     "tool_version": "0.1.0",
-    "status": "open",
-    "outcome": null,
+    "status": "scored",
+    "outcome": "repo_gone",
     "actual_stars_at_deadline": null,
     "direction_correct": null,
-    "scored_at_utc": null
+    "scored_at_utc": "2026-06-16T04:20:02Z"
   },
   {
     "repo": "duolahypercho/fusion-fable",

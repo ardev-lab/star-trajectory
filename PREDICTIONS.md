@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-16 03:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-16 04:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -13,7 +13,7 @@ Base rate (share of scored repos that actually reached the target): 20%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 6 | 144 | 126 | 18 |
+| count | 5 | 145 | 126 | 19 |
 
 Accuracy by phase at prediction time:
 
@@ -28,7 +28,6 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [bi7x/USDT-BTC-Transaction-Flashing-Tool](https://github.com/bi7x/USDT-BTC-Transaction-Flashing-Tool) | 28★ | 100★ | ✅ HIT_lean | launch | 2026-06-16T03:28:06Z |
 | [j1ans/r0csgo_piece_of_shit](https://github.com/j1ans/r0csgo_piece_of_shit) | 23★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-16T05:04:03Z |
 | [ladybug-me/end-4dots-kde](https://github.com/ladybug-me/end-4dots-kde) | 25★ | 100★ | ⛔ MISS_lean | accel | 2026-06-16T05:04:04Z |
 | [baskduf/FableCodex](https://github.com/baskduf/FableCodex) | 87★ | 100★ | ✅ HIT_lean | launch | 2026-06-16T13:10:07Z |
