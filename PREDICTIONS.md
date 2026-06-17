@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-17 13:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-17 14:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,19 +8,19 @@ _Last updated: 2026-06-17 13:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 105/126 = 83%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+**Direction accuracy: 106/127 = 84%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
 Base rate (share of scored repos that actually reached the target): 20%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 9 | 157 | 138 | 19 |
+| count | 8 | 158 | 139 | 19 |
 
 Accuracy by phase at prediction time:
 
 | phase | directional calls | correct | accuracy |
 |---|---|---|---|
 | 1 launch | 38 | 28 | 74% |
-| 2 accel | 51 | 42 | 82% |
+| 2 accel | 52 | 43 | 83% |
 | 3 trajectory | 36 | 34 | 94% |
 | 4 maturity | 1 | 1 | 100% |
 
@@ -28,7 +28,6 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [FloatSakura/astrbot_plugin_jm_downloader](https://github.com/FloatSakura/astrbot_plugin_jm_downloader) | 37★ | 100★ | ⛔ MISS_lean | accel | 2026-06-17T13:46:07Z |
 | [Wh1t3Rose/Unraid-Themes](https://github.com/Wh1t3Rose/Unraid-Themes) | 40★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-17T20:28:07Z |
 | [MustangYM/SovietExtension](https://github.com/MustangYM/SovietExtension) | 46★ | 100★ | ✅ HIT_lean | launch | 2026-06-17T22:52:08Z |
 | [shreyashankar/plain-writing-skill](https://github.com/shreyashankar/plain-writing-skill) | 22★ | 100★ | ✅ HIT_lean | launch | 2026-06-17T23:52:07Z |
@@ -42,6 +41,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [FloatSakura/astrbot_plugin_jm_downloader](https://github.com/FloatSakura/astrbot_plugin_jm_downloader) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 37★ → 40★ |
 | [nik1t7n/context-firewall](https://github.com/nik1t7n/context-firewall) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 20★ → 21★ |
 | [coracoo/insprira](https://github.com/coracoo/insprira) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 22★ → 46★ |
 | [Sessa93/remote-df](https://github.com/Sessa93/remote-df) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 21★ → 29★ |
@@ -66,7 +66,6 @@ Accuracy by phase at prediction time:
 | [jujuyaya/juya-ai-daily](https://github.com/jujuyaya/juya-ai-daily) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 21★ → 22★ |
 | [eric248550/comcom](https://github.com/eric248550/comcom) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 33★ → 49★ |
 | [ghuyphan/kiosk-browser](https://github.com/ghuyphan/kiosk-browser) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 22★ → 24★ |
-| [anosu/AbyssMod](https://github.com/anosu/AbyssMod) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 30★ → 42★ |
 
 ## Verify it yourself / 自分で検証
 
