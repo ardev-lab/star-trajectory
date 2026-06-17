@@ -3282,11 +3282,11 @@
     "arrival_archetype": "steady_organic",
     "authenticity": "LOW",
     "tool_version": "0.1.0",
-    "status": "open",
-    "outcome": null,
-    "actual_stars_at_deadline": null,
-    "direction_correct": null,
-    "scored_at_utc": null
+    "status": "scored",
+    "outcome": "HIT",
+    "actual_stars_at_deadline": 198,
+    "direction_correct": true,
+    "scored_at_utc": "2026-06-17T02:20:01Z"
   },
   {
     "repo": "j1ans/r0csgo_piece_of_shit",
