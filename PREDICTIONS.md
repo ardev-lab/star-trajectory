@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-17 06:10 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-17 06:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,19 +8,19 @@ _Last updated: 2026-06-17 06:10 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 100/121 = 83%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+**Direction accuracy: 101/122 = 83%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
 Base rate (share of scored repos that actually reached the target): 20%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 14 | 152 | 133 | 19 |
+| count | 13 | 153 | 134 | 19 |
 
 Accuracy by phase at prediction time:
 
 | phase | directional calls | correct | accuracy |
 |---|---|---|---|
 | 1 launch | 37 | 27 | 73% |
-| 2 accel | 47 | 38 | 81% |
+| 2 accel | 48 | 39 | 81% |
 | 3 trajectory | 36 | 34 | 94% |
 | 4 maturity | 1 | 1 | 100% |
 
@@ -28,7 +28,6 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [ProxyAyush/antigravity-fusion-plugin](https://github.com/ProxyAyush/antigravity-fusion-plugin) | 29★ | 100★ | ⛔ MISS_lean | accel | 2026-06-17T06:10:09Z |
 | [dongshuyan/compass-skills](https://github.com/dongshuyan/compass-skills) | 89★ | 100★ | ✅ HIT_lean | accel | 2026-06-17T06:28:07Z |
 | [Sessa93/remote-df](https://github.com/Sessa93/remote-df) | 21★ | 100★ | ⛔ MISS_lean | accel | 2026-06-17T08:40:04Z |
 | [coracoo/insprira](https://github.com/coracoo/insprira) | 22★ | 100★ | ⛔ MISS_lean | launch | 2026-06-17T11:28:04Z |
@@ -47,6 +46,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [ProxyAyush/antigravity-fusion-plugin](https://github.com/ProxyAyush/antigravity-fusion-plugin) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 29★ → 67★ |
 | [AreevAI/flowcat](https://github.com/AreevAI/flowcat) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 25★ → 29★ |
 | [renee-jia/scholar-loop](https://github.com/renee-jia/scholar-loop) | ➖ BORDERLINE | ⛔ MISS | – no-call | 82★ → 98★ |
 | [Jeidoban/Ironsmith](https://github.com/Jeidoban/Ironsmith) | ✅ HIT_lean | ✅ HIT | ✔ correct | 32★ → 198★ |
@@ -71,7 +71,6 @@ Accuracy by phase at prediction time:
 | [Crain99/worldcut-2026](https://github.com/Crain99/worldcut-2026) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 22★ → 28★ |
 | [SagerNet/sing-box-dashboard](https://github.com/SagerNet/sing-box-dashboard) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 23★ → 26★ |
 | [coasty-ai/open-cowork](https://github.com/coasty-ai/open-cowork) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 21★ → 33★ |
-| [zhengdian1/InterleaveThinker](https://github.com/zhengdian1/InterleaveThinker) | ⛔ MISS_lean | ✅ HIT | ✗ WRONG | 25★ → 114★ |
 
 ## Verify it yourself / 自分で検証
 
