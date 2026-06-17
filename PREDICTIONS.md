@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-17 05:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-17 06:10 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,19 +8,19 @@ _Last updated: 2026-06-17 05:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 99/120 = 82%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+**Direction accuracy: 100/121 = 83%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
 Base rate (share of scored repos that actually reached the target): 20%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 7 | 151 | 132 | 19 |
+| count | 14 | 152 | 133 | 19 |
 
 Accuracy by phase at prediction time:
 
 | phase | directional calls | correct | accuracy |
 |---|---|---|---|
 | 1 launch | 37 | 27 | 73% |
-| 2 accel | 46 | 37 | 80% |
+| 2 accel | 47 | 38 | 81% |
 | 3 trajectory | 36 | 34 | 94% |
 | 4 maturity | 1 | 1 | 100% |
 
@@ -28,18 +28,26 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [AreevAI/flowcat](https://github.com/AreevAI/flowcat) | 25★ | 100★ | ⛔ MISS_lean | accel | 2026-06-17T05:28:06Z |
 | [ProxyAyush/antigravity-fusion-plugin](https://github.com/ProxyAyush/antigravity-fusion-plugin) | 29★ | 100★ | ⛔ MISS_lean | accel | 2026-06-17T06:10:09Z |
 | [dongshuyan/compass-skills](https://github.com/dongshuyan/compass-skills) | 89★ | 100★ | ✅ HIT_lean | accel | 2026-06-17T06:28:07Z |
 | [Sessa93/remote-df](https://github.com/Sessa93/remote-df) | 21★ | 100★ | ⛔ MISS_lean | accel | 2026-06-17T08:40:04Z |
 | [coracoo/insprira](https://github.com/coracoo/insprira) | 22★ | 100★ | ⛔ MISS_lean | launch | 2026-06-17T11:28:04Z |
+| [nik1t7n/context-firewall](https://github.com/nik1t7n/context-firewall) | 20★ | 100★ | ⛔ MISS_lean | accel | 2026-06-17T13:16:06Z |
+| [FloatSakura/astrbot_plugin_jm_downloader](https://github.com/FloatSakura/astrbot_plugin_jm_downloader) | 37★ | 100★ | ⛔ MISS_lean | accel | 2026-06-17T13:46:07Z |
+| [Wh1t3Rose/Unraid-Themes](https://github.com/Wh1t3Rose/Unraid-Themes) | 40★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-17T20:28:07Z |
 | [MustangYM/SovietExtension](https://github.com/MustangYM/SovietExtension) | 46★ | 100★ | ✅ HIT_lean | launch | 2026-06-17T22:52:08Z |
 | [shreyashankar/plain-writing-skill](https://github.com/shreyashankar/plain-writing-skill) | 22★ | 100★ | ✅ HIT_lean | launch | 2026-06-17T23:52:07Z |
+| [HunterDevops/cs2-training-toolkit](https://github.com/HunterDevops/cs2-training-toolkit) | 21★ | 100★ | ➖ BORDERLINE | accel | 2026-06-18T11:04:03Z |
+| [boogu-project/Boogu-Image](https://github.com/boogu-project/Boogu-Image) | 37★ | 100★ | ✅ HIT_lean | accel | 2026-06-18T14:58:05Z |
+| [Auditware/AuditVault](https://github.com/Auditware/AuditVault) | 28★ | 100★ | ➖ BORDERLINE | launch | 2026-06-18T16:16:08Z |
+| [rebel0789/codexpro](https://github.com/rebel0789/codexpro) | 51★ | 100★ | ✅ HIT_lean | launch | 2026-06-18T21:22:04Z |
+| [Plaer1/junction](https://github.com/Plaer1/junction) | 37★ | 100★ | ✅ HIT_lean | launch | 2026-06-19T05:28:05Z |
 
 ## Recently scored
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [AreevAI/flowcat](https://github.com/AreevAI/flowcat) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 25★ → 29★ |
 | [renee-jia/scholar-loop](https://github.com/renee-jia/scholar-loop) | ➖ BORDERLINE | ⛔ MISS | – no-call | 82★ → 98★ |
 | [Jeidoban/Ironsmith](https://github.com/Jeidoban/Ironsmith) | ✅ HIT_lean | ✅ HIT | ✔ correct | 32★ → 198★ |
 | [chrisryugj/fable-ish](https://github.com/chrisryugj/fable-ish) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 21★ → 30★ |
@@ -64,7 +72,6 @@ Accuracy by phase at prediction time:
 | [SagerNet/sing-box-dashboard](https://github.com/SagerNet/sing-box-dashboard) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 23★ → 26★ |
 | [coasty-ai/open-cowork](https://github.com/coasty-ai/open-cowork) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 21★ → 33★ |
 | [zhengdian1/InterleaveThinker](https://github.com/zhengdian1/InterleaveThinker) | ⛔ MISS_lean | ✅ HIT | ✗ WRONG | 25★ → 114★ |
-| [csthink/dashmotion](https://github.com/csthink/dashmotion) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 24★ → 43★ |
 
 ## Verify it yourself / 自分で検証
 
