@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-18 15:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-18 16:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -9,11 +9,11 @@ _Last updated: 2026-06-18 15:20 UTC · regenerated from the ledger, not hand-edi
 ## Calibration (how good is the track record?)
 
 **Direction accuracy: 110/132 = 83%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
-Base rate (share of scored repos that actually reached the target): 21%.
+Base rate (share of scored repos that actually reached the target): 20%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 10 | 164 | 145 | 19 |
+| count | 9 | 165 | 146 | 19 |
 
 Accuracy by phase at prediction time:
 
@@ -28,7 +28,6 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [Auditware/AuditVault](https://github.com/Auditware/AuditVault) | 28★ | 100★ | ➖ BORDERLINE | launch | 2026-06-18T16:16:08Z |
 | [rebel0789/codexpro](https://github.com/rebel0789/codexpro) | 51★ | 100★ | ✅ HIT_lean | launch | 2026-06-18T21:22:04Z |
 | [HankLEE-1/AI-Guardian](https://github.com/HankLEE-1/AI-Guardian) | 20★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-19T02:04:07Z |
 | [start-fish/riskradar-tracemap-ai](https://github.com/start-fish/riskradar-tracemap-ai) | 31★ | 100★ | ✅ HIT_lean | accel | 2026-06-19T03:40:07Z |
@@ -43,6 +42,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [Auditware/AuditVault](https://github.com/Auditware/AuditVault) | ➖ BORDERLINE | ⛔ MISS | – no-call | 28★ → 49★ |
 | [boogu-project/Boogu-Image](https://github.com/boogu-project/Boogu-Image) | ✅ HIT_lean | ✅ HIT | ✔ correct | 37★ → 262★ |
 | [CZJ0219/ios27-beta-indexing-progress-windows](https://github.com/CZJ0219/ios27-beta-indexing-progress-windows) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 32★ → 36★ |
 | [HunterDevops/cs2-training-toolkit](https://github.com/HunterDevops/cs2-training-toolkit) | ➖ BORDERLINE | ⛔ MISS | – no-call | 21★ → 22★ |
@@ -67,7 +67,6 @@ Accuracy by phase at prediction time:
 | [duolahypercho/fusion-fable](https://github.com/duolahypercho/fusion-fable) | ✅ HIT_lean | ✅ HIT | ✔ correct | 56★ → 296★ |
 | [ruvnet/agent-harness-generator](https://github.com/ruvnet/agent-harness-generator) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 39★ → 71★ |
 | [SihyeonJeon/why-was-fable-banned](https://github.com/SihyeonJeon/why-was-fable-banned) | ➖ BORDERLINE | ⛔ MISS | – no-call | 28★ → 43★ |
-| [raymondchins/agentmap](https://github.com/raymondchins/agentmap) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 27★ → 30★ |
 
 ## Verify it yourself / 自分で検証
 
