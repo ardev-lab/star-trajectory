@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-18 06:10 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-18 11:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -13,7 +13,7 @@ Base rate (share of scored repos that actually reached the target): 20%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 13 | 161 | 142 | 19 |
+| count | 12 | 162 | 143 | 19 |
 
 Accuracy by phase at prediction time:
 
@@ -28,7 +28,6 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [HunterDevops/cs2-training-toolkit](https://github.com/HunterDevops/cs2-training-toolkit) | 21★ | 100★ | ➖ BORDERLINE | accel | 2026-06-18T11:04:03Z |
 | [CZJ0219/ios27-beta-indexing-progress-windows](https://github.com/CZJ0219/ios27-beta-indexing-progress-windows) | 32★ | 100★ | ⛔ MISS_lean | accel | 2026-06-18T12:10:05Z |
 | [boogu-project/Boogu-Image](https://github.com/boogu-project/Boogu-Image) | 37★ | 100★ | ✅ HIT_lean | accel | 2026-06-18T14:58:05Z |
 | [Auditware/AuditVault](https://github.com/Auditware/AuditVault) | 28★ | 100★ | ➖ BORDERLINE | launch | 2026-06-18T16:16:08Z |
@@ -46,6 +45,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [HunterDevops/cs2-training-toolkit](https://github.com/HunterDevops/cs2-training-toolkit) | ➖ BORDERLINE | ⛔ MISS | – no-call | 21★ → 22★ |
 | [shreyashankar/plain-writing-skill](https://github.com/shreyashankar/plain-writing-skill) | ✅ HIT_lean | ✅ HIT | ✔ correct | 22★ → 147★ |
 | [MustangYM/SovietExtension](https://github.com/MustangYM/SovietExtension) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 46★ → 71★ |
 | [Wh1t3Rose/Unraid-Themes](https://github.com/Wh1t3Rose/Unraid-Themes) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 40★ → 43★ |
@@ -70,7 +70,6 @@ Accuracy by phase at prediction time:
 | [raymondchins/agentmap](https://github.com/raymondchins/agentmap) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 27★ → 30★ |
 | [gary23w/neuron-db](https://github.com/gary23w/neuron-db) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 42★ → 46★ |
 | [wukongdaily/luci-app-run](https://github.com/wukongdaily/luci-app-run) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 33★ → 44★ |
-| [Quant-Alpha-Systems/polymarket-trading-bot](https://github.com/Quant-Alpha-Systems/polymarket-trading-bot) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 23★ → 23★ |
 
 ## Verify it yourself / 自分で検証
 
