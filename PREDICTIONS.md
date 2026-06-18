@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-18 00:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-18 06:10 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -13,7 +13,7 @@ Base rate (share of scored repos that actually reached the target): 20%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 5 | 161 | 142 | 19 |
+| count | 13 | 161 | 142 | 19 |
 
 Accuracy by phase at prediction time:
 
@@ -29,10 +29,18 @@ Accuracy by phase at prediction time:
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
 | [HunterDevops/cs2-training-toolkit](https://github.com/HunterDevops/cs2-training-toolkit) | 21★ | 100★ | ➖ BORDERLINE | accel | 2026-06-18T11:04:03Z |
+| [CZJ0219/ios27-beta-indexing-progress-windows](https://github.com/CZJ0219/ios27-beta-indexing-progress-windows) | 32★ | 100★ | ⛔ MISS_lean | accel | 2026-06-18T12:10:05Z |
 | [boogu-project/Boogu-Image](https://github.com/boogu-project/Boogu-Image) | 37★ | 100★ | ✅ HIT_lean | accel | 2026-06-18T14:58:05Z |
 | [Auditware/AuditVault](https://github.com/Auditware/AuditVault) | 28★ | 100★ | ➖ BORDERLINE | launch | 2026-06-18T16:16:08Z |
 | [rebel0789/codexpro](https://github.com/rebel0789/codexpro) | 51★ | 100★ | ✅ HIT_lean | launch | 2026-06-18T21:22:04Z |
+| [HankLEE-1/AI-Guardian](https://github.com/HankLEE-1/AI-Guardian) | 20★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-19T02:04:07Z |
+| [start-fish/riskradar-tracemap-ai](https://github.com/start-fish/riskradar-tracemap-ai) | 31★ | 100★ | ✅ HIT_lean | accel | 2026-06-19T03:40:07Z |
 | [Plaer1/junction](https://github.com/Plaer1/junction) | 37★ | 100★ | ✅ HIT_lean | launch | 2026-06-19T05:28:05Z |
+| [helloxz/zocr](https://github.com/helloxz/zocr) | 37★ | 100★ | ✅ HIT_lean | accel | 2026-06-19T07:16:09Z |
+| [Ar9av/gemini-nano-chrome](https://github.com/Ar9av/gemini-nano-chrome) | 51★ | 100★ | ✅ HIT_lean | accel | 2026-06-19T09:04:04Z |
+| [LING71671/open-reverselab](https://github.com/LING71671/open-reverselab) | 71★ | 100★ | ✅ HIT_lean | accel | 2026-06-19T14:34:06Z |
+| [paid-tw/einvoice](https://github.com/paid-tw/einvoice) | 47★ | 100★ | ✅ HIT_lean | accel | 2026-06-19T15:04:08Z |
+| [Try112/cesium-vectortile-gl-plus](https://github.com/Try112/cesium-vectortile-gl-plus) | 22★ | 100★ | ✅ HIT_lean | launch | 2026-06-20T03:16:05Z |
 
 ## Recently scored
 
