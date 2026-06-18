@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-17 23:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-18 00:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,18 +8,18 @@ _Last updated: 2026-06-17 23:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 107/129 = 83%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+**Direction accuracy: 108/130 = 83%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
 Base rate (share of scored repos that actually reached the target): 20%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 6 | 160 | 141 | 19 |
+| count | 5 | 161 | 142 | 19 |
 
 Accuracy by phase at prediction time:
 
 | phase | directional calls | correct | accuracy |
 |---|---|---|---|
-| 1 launch | 39 | 28 | 72% |
+| 1 launch | 40 | 29 | 72% |
 | 2 accel | 52 | 43 | 83% |
 | 3 trajectory | 37 | 35 | 95% |
 | 4 maturity | 1 | 1 | 100% |
@@ -28,7 +28,6 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [shreyashankar/plain-writing-skill](https://github.com/shreyashankar/plain-writing-skill) | 22★ | 100★ | ✅ HIT_lean | launch | 2026-06-17T23:52:07Z |
 | [HunterDevops/cs2-training-toolkit](https://github.com/HunterDevops/cs2-training-toolkit) | 21★ | 100★ | ➖ BORDERLINE | accel | 2026-06-18T11:04:03Z |
 | [boogu-project/Boogu-Image](https://github.com/boogu-project/Boogu-Image) | 37★ | 100★ | ✅ HIT_lean | accel | 2026-06-18T14:58:05Z |
 | [Auditware/AuditVault](https://github.com/Auditware/AuditVault) | 28★ | 100★ | ➖ BORDERLINE | launch | 2026-06-18T16:16:08Z |
@@ -39,6 +38,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [shreyashankar/plain-writing-skill](https://github.com/shreyashankar/plain-writing-skill) | ✅ HIT_lean | ✅ HIT | ✔ correct | 22★ → 147★ |
 | [MustangYM/SovietExtension](https://github.com/MustangYM/SovietExtension) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 46★ → 71★ |
 | [Wh1t3Rose/Unraid-Themes](https://github.com/Wh1t3Rose/Unraid-Themes) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 40★ → 43★ |
 | [FloatSakura/astrbot_plugin_jm_downloader](https://github.com/FloatSakura/astrbot_plugin_jm_downloader) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 37★ → 40★ |
@@ -63,7 +63,6 @@ Accuracy by phase at prediction time:
 | [gary23w/neuron-db](https://github.com/gary23w/neuron-db) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 42★ → 46★ |
 | [wukongdaily/luci-app-run](https://github.com/wukongdaily/luci-app-run) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 33★ → 44★ |
 | [Quant-Alpha-Systems/polymarket-trading-bot](https://github.com/Quant-Alpha-Systems/polymarket-trading-bot) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 23★ → 23★ |
-| [jujuyaya/juya-ai-daily](https://github.com/jujuyaya/juya-ai-daily) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 21★ → 22★ |
 
 ## Verify it yourself / 自分で検証
 
