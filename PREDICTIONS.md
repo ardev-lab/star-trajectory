@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-19 07:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-19 09:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,19 +8,19 @@ _Last updated: 2026-06-19 07:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 113/137 = 82%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
-Base rate (share of scored repos that actually reached the target): 21%.
+**Direction accuracy: 115/139 = 83%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+Base rate (share of scored repos that actually reached the target): 22%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 12 | 170 | 151 | 19 |
+| count | 10 | 172 | 153 | 19 |
 
 Accuracy by phase at prediction time:
 
 | phase | directional calls | correct | accuracy |
 |---|---|---|---|
 | 1 launch | 42 | 31 | 74% |
-| 2 accel | 56 | 45 | 80% |
+| 2 accel | 58 | 47 | 81% |
 | 3 trajectory | 38 | 36 | 95% |
 | 4 maturity | 1 | 1 | 100% |
 
@@ -28,8 +28,6 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [sehynn/notice-bot](https://github.com/sehynn/notice-bot) | 26★ | 100★ | ⛔ MISS_lean | accel | 2026-06-19T08:52:05Z |
-| [Ar9av/gemini-nano-chrome](https://github.com/Ar9av/gemini-nano-chrome) | 51★ | 100★ | ✅ HIT_lean | accel | 2026-06-19T09:04:04Z |
 | [LING71671/open-reverselab](https://github.com/LING71671/open-reverselab) | 71★ | 100★ | ✅ HIT_lean | accel | 2026-06-19T14:34:06Z |
 | [paid-tw/einvoice](https://github.com/paid-tw/einvoice) | 47★ | 100★ | ✅ HIT_lean | accel | 2026-06-19T15:04:08Z |
 | [HunterDevops/crosshair-v2-mod](https://github.com/HunterDevops/crosshair-v2-mod) | 28★ | 100★ | ⛔ MISS_lean | accel | 2026-06-19T19:16:04Z |
@@ -45,6 +43,8 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [Ar9av/gemini-nano-chrome](https://github.com/Ar9av/gemini-nano-chrome) | ✅ HIT_lean | ✅ HIT | ✔ correct | 51★ → 114★ |
+| [sehynn/notice-bot](https://github.com/sehynn/notice-bot) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 26★ → 26★ |
 | [helloxz/zocr](https://github.com/helloxz/zocr) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 37★ → 79★ |
 | [Plaer1/junction](https://github.com/Plaer1/junction) | ✅ HIT_lean | ✅ HIT | ✔ correct | 37★ → 510★ |
 | [start-fish/riskradar-tracemap-ai](https://github.com/start-fish/riskradar-tracemap-ai) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 31★ → 31★ |
@@ -68,8 +68,6 @@ Accuracy by phase at prediction time:
 | [Jeidoban/Ironsmith](https://github.com/Jeidoban/Ironsmith) | ✅ HIT_lean | ✅ HIT | ✔ correct | 32★ → 198★ |
 | [chrisryugj/fable-ish](https://github.com/chrisryugj/fable-ish) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 21★ → 30★ |
 | [baskduf/FableCodex](https://github.com/baskduf/FableCodex) | ✅ HIT_lean | ✅ HIT | ✔ correct | 87★ → 122★ |
-| [j1ans/r0csgo_piece_of_shit](https://github.com/j1ans/r0csgo_piece_of_shit) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 23★ → 34★ |
-| [ladybug-me/end-4dots-kde](https://github.com/ladybug-me/end-4dots-kde) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 25★ → 29★ |
 
 ## Verify it yourself / 自分で検証
 
