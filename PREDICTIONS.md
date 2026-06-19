@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-19 04:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-19 06:10 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,18 +8,18 @@ _Last updated: 2026-06-19 04:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 112/135 = 83%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+**Direction accuracy: 113/136 = 83%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
 Base rate (share of scored repos that actually reached the target): 21%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 6 | 168 | 149 | 19 |
+| count | 13 | 169 | 150 | 19 |
 
 Accuracy by phase at prediction time:
 
 | phase | directional calls | correct | accuracy |
 |---|---|---|---|
-| 1 launch | 41 | 30 | 73% |
+| 1 launch | 42 | 31 | 74% |
 | 2 accel | 55 | 45 | 82% |
 | 3 trajectory | 38 | 36 | 95% |
 | 4 maturity | 1 | 1 | 100% |
@@ -28,17 +28,25 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [Plaer1/junction](https://github.com/Plaer1/junction) | 37★ | 100★ | ✅ HIT_lean | launch | 2026-06-19T05:28:05Z |
 | [helloxz/zocr](https://github.com/helloxz/zocr) | 37★ | 100★ | ✅ HIT_lean | accel | 2026-06-19T07:16:09Z |
+| [sehynn/notice-bot](https://github.com/sehynn/notice-bot) | 26★ | 100★ | ⛔ MISS_lean | accel | 2026-06-19T08:52:05Z |
 | [Ar9av/gemini-nano-chrome](https://github.com/Ar9av/gemini-nano-chrome) | 51★ | 100★ | ✅ HIT_lean | accel | 2026-06-19T09:04:04Z |
 | [LING71671/open-reverselab](https://github.com/LING71671/open-reverselab) | 71★ | 100★ | ✅ HIT_lean | accel | 2026-06-19T14:34:06Z |
 | [paid-tw/einvoice](https://github.com/paid-tw/einvoice) | 47★ | 100★ | ✅ HIT_lean | accel | 2026-06-19T15:04:08Z |
+| [HunterDevops/crosshair-v2-mod](https://github.com/HunterDevops/crosshair-v2-mod) | 28★ | 100★ | ⛔ MISS_lean | accel | 2026-06-19T19:16:04Z |
 | [Try112/cesium-vectortile-gl-plus](https://github.com/Try112/cesium-vectortile-gl-plus) | 22★ | 100★ | ✅ HIT_lean | launch | 2026-06-20T03:16:05Z |
+| [weixiao030/poe2_price](https://github.com/weixiao030/poe2_price) | 23★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-20T04:34:06Z |
+| [0xSero/glm-5.2-sm120](https://github.com/0xSero/glm-5.2-sm120) | 79★ | 100★ | ✅ HIT_lean | launch | 2026-06-20T07:10:07Z |
+| [x666code/windows-fps-optimizer](https://github.com/x666code/windows-fps-optimizer) | 27★ | 100★ | ✅ HIT_lean | accel | 2026-06-20T07:22:03Z |
+| [flatkey-ai/awesome-images](https://github.com/flatkey-ai/awesome-images) | 40★ | 100★ | ✅ HIT_lean | accel | 2026-06-20T13:16:04Z |
+| [MADEVAL/MindFluence](https://github.com/MADEVAL/MindFluence) | 30★ | 100★ | ✅ HIT_lean | accel | 2026-06-20T15:28:08Z |
+| [felipeAguiarCode/freela-radar](https://github.com/felipeAguiarCode/freela-radar) | 29★ | 100★ | ✅ HIT_lean | launch | 2026-06-20T18:40:09Z |
 
 ## Recently scored
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [Plaer1/junction](https://github.com/Plaer1/junction) | ✅ HIT_lean | ✅ HIT | ✔ correct | 37★ → 510★ |
 | [start-fish/riskradar-tracemap-ai](https://github.com/start-fish/riskradar-tracemap-ai) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 31★ → 31★ |
 | [HankLEE-1/AI-Guardian](https://github.com/HankLEE-1/AI-Guardian) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 20★ → 29★ |
 | [rebel0789/codexpro](https://github.com/rebel0789/codexpro) | ✅ HIT_lean | ✅ HIT | ✔ correct | 51★ → 384★ |
@@ -63,7 +71,6 @@ Accuracy by phase at prediction time:
 | [j1ans/r0csgo_piece_of_shit](https://github.com/j1ans/r0csgo_piece_of_shit) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 23★ → 34★ |
 | [ladybug-me/end-4dots-kde](https://github.com/ladybug-me/end-4dots-kde) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 25★ → 29★ |
 | [pzr2508/RL_for_Game](https://github.com/pzr2508/RL_for_Game) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 33★ → 75★ |
-| [rotejin/tomari-guruguru](https://github.com/rotejin/tomari-guruguru) | ✅ HIT_lean | ✅ HIT | ✔ correct | 27★ → 231★ |
 
 ## Verify it yourself / 自分で検証
 
