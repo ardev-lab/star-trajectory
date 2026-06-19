@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-18 22:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-19 02:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,12 +8,12 @@ _Last updated: 2026-06-18 22:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 111/133 = 84%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+**Direction accuracy: 112/134 = 84%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
 Base rate (share of scored repos that actually reached the target): 21%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 8 | 166 | 147 | 19 |
+| count | 7 | 167 | 148 | 19 |
 
 Accuracy by phase at prediction time:
 
@@ -21,14 +21,13 @@ Accuracy by phase at prediction time:
 |---|---|---|---|
 | 1 launch | 41 | 30 | 73% |
 | 2 accel | 54 | 45 | 83% |
-| 3 trajectory | 37 | 35 | 95% |
+| 3 trajectory | 38 | 36 | 95% |
 | 4 maturity | 1 | 1 | 100% |
 
 ## Open predictions (not yet decided)
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [HankLEE-1/AI-Guardian](https://github.com/HankLEE-1/AI-Guardian) | 20★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-19T02:04:07Z |
 | [start-fish/riskradar-tracemap-ai](https://github.com/start-fish/riskradar-tracemap-ai) | 31★ | 100★ | ✅ HIT_lean | accel | 2026-06-19T03:40:07Z |
 | [Plaer1/junction](https://github.com/Plaer1/junction) | 37★ | 100★ | ✅ HIT_lean | launch | 2026-06-19T05:28:05Z |
 | [helloxz/zocr](https://github.com/helloxz/zocr) | 37★ | 100★ | ✅ HIT_lean | accel | 2026-06-19T07:16:09Z |
@@ -41,6 +40,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [HankLEE-1/AI-Guardian](https://github.com/HankLEE-1/AI-Guardian) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 20★ → 29★ |
 | [rebel0789/codexpro](https://github.com/rebel0789/codexpro) | ✅ HIT_lean | ✅ HIT | ✔ correct | 51★ → 384★ |
 | [Auditware/AuditVault](https://github.com/Auditware/AuditVault) | ➖ BORDERLINE | ⛔ MISS | – no-call | 28★ → 49★ |
 | [boogu-project/Boogu-Image](https://github.com/boogu-project/Boogu-Image) | ✅ HIT_lean | ✅ HIT | ✔ correct | 37★ → 262★ |
@@ -65,7 +65,6 @@ Accuracy by phase at prediction time:
 | [pzr2508/RL_for_Game](https://github.com/pzr2508/RL_for_Game) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 33★ → 75★ |
 | [rotejin/tomari-guruguru](https://github.com/rotejin/tomari-guruguru) | ✅ HIT_lean | ✅ HIT | ✔ correct | 27★ → 231★ |
 | [duolahypercho/fusion-fable](https://github.com/duolahypercho/fusion-fable) | ✅ HIT_lean | ✅ HIT | ✔ correct | 56★ → 296★ |
-| [ruvnet/agent-harness-generator](https://github.com/ruvnet/agent-harness-generator) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 39★ → 71★ |
 
 ## Verify it yourself / 自分で検証
 
