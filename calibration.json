@@ -1,24 +1,24 @@
 {
-  "generated_utc": "2026-06-19T09:20:02Z",
+  "generated_utc": "2026-06-19T15:20:02Z",
   "totals": {
     "predictions": 182,
-    "open": 10,
-    "scored": 172,
-    "graded": 153,
+    "open": 8,
+    "scored": 174,
+    "graded": 155,
     "repo_gone": 19
   },
   "direction_accuracy": {
-    "n_directional_calls": 139,
-    "n_correct": 115,
-    "accuracy": 0.827,
+    "n_directional_calls": 141,
+    "n_correct": 116,
+    "accuracy": 0.823,
     "note": "directional calls = HIT_lean + MISS_lean only; BORDERLINE / LOW_CONFIDENCE make no directional claim and are excluded."
   },
-  "base_rate_hit": 0.216,
+  "base_rate_hit": 0.219,
   "by_lean": {
     "HIT_lean": {
-      "n": 47,
-      "actual_hit": 28,
-      "actual_miss": 19
+      "n": 49,
+      "actual_hit": 29,
+      "actual_miss": 20
     },
     "BORDERLINE": {
       "n": 13,
@@ -43,9 +43,9 @@
       "accuracy": 0.738
     },
     "2": {
-      "n_directional": 58,
-      "n_correct": 47,
-      "accuracy": 0.81
+      "n_directional": 60,
+      "n_correct": 48,
+      "accuracy": 0.8
     },
     "3": {
       "n_directional": 38,
