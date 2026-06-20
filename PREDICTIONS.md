@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-20 13:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-20 16:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,19 +8,19 @@ _Last updated: 2026-06-20 13:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 119/147 = 81%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+**Direction accuracy: 119/148 = 80%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
 Base rate (share of scored repos that actually reached the target): 22%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 10 | 180 | 161 | 19 |
+| count | 9 | 181 | 162 | 19 |
 
 Accuracy by phase at prediction time:
 
 | phase | directional calls | correct | accuracy |
 |---|---|---|---|
 | 1 launch | 44 | 32 | 73% |
-| 2 accel | 63 | 49 | 78% |
+| 2 accel | 64 | 49 | 77% |
 | 3 trajectory | 39 | 37 | 95% |
 | 4 maturity | 1 | 1 | 100% |
 
@@ -28,7 +28,6 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [MADEVAL/MindFluence](https://github.com/MADEVAL/MindFluence) | 30★ | 100★ | ✅ HIT_lean | accel | 2026-06-20T15:28:08Z |
 | [felipeAguiarCode/freela-radar](https://github.com/felipeAguiarCode/freela-radar) | 29★ | 100★ | ✅ HIT_lean | launch | 2026-06-20T18:40:09Z |
 | [fisher6610/Argon-Exec-v4.1](https://github.com/fisher6610/Argon-Exec-v4.1) | 31★ | 100★ | ❔ LOW_CONF | accel | 2026-06-21T14:52:04Z |
 | [jefer0528/Bunni-Exec-v3.5](https://github.com/jefer0528/Bunni-Exec-v3.5) | 31★ | 100★ | ❔ LOW_CONF | accel | 2026-06-21T14:52:04Z |
@@ -43,6 +42,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [MADEVAL/MindFluence](https://github.com/MADEVAL/MindFluence) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 30★ → 29★ |
 | [flatkey-ai/awesome-images](https://github.com/flatkey-ai/awesome-images) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 40★ → 81★ |
 | [x666code/windows-fps-optimizer](https://github.com/x666code/windows-fps-optimizer) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 27★ → 27★ |
 | [0xSero/glm-5.2-sm120](https://github.com/0xSero/glm-5.2-sm120) | ✅ HIT_lean | ✅ HIT | ✔ correct | 79★ → 103★ |
@@ -67,7 +67,6 @@ Accuracy by phase at prediction time:
 | [Wh1t3Rose/Unraid-Themes](https://github.com/Wh1t3Rose/Unraid-Themes) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 40★ → 43★ |
 | [FloatSakura/astrbot_plugin_jm_downloader](https://github.com/FloatSakura/astrbot_plugin_jm_downloader) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 37★ → 40★ |
 | [nik1t7n/context-firewall](https://github.com/nik1t7n/context-firewall) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 20★ → 21★ |
-| [coracoo/insprira](https://github.com/coracoo/insprira) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 22★ → 46★ |
 
 ## Verify it yourself / 自分で検証
 
