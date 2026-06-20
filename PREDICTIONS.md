@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-20 07:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-20 08:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,19 +8,19 @@ _Last updated: 2026-06-20 07:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 119/145 = 82%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+**Direction accuracy: 119/146 = 82%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
 Base rate (share of scored repos that actually reached the target): 22%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 12 | 178 | 159 | 19 |
+| count | 11 | 179 | 160 | 19 |
 
 Accuracy by phase at prediction time:
 
 | phase | directional calls | correct | accuracy |
 |---|---|---|---|
 | 1 launch | 44 | 32 | 73% |
-| 2 accel | 61 | 49 | 80% |
+| 2 accel | 62 | 49 | 79% |
 | 3 trajectory | 39 | 37 | 95% |
 | 4 maturity | 1 | 1 | 100% |
 
@@ -28,7 +28,6 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [x666code/windows-fps-optimizer](https://github.com/x666code/windows-fps-optimizer) | 27★ | 100★ | ✅ HIT_lean | accel | 2026-06-20T07:22:03Z |
 | [flatkey-ai/awesome-images](https://github.com/flatkey-ai/awesome-images) | 40★ | 100★ | ✅ HIT_lean | accel | 2026-06-20T13:16:04Z |
 | [MADEVAL/MindFluence](https://github.com/MADEVAL/MindFluence) | 30★ | 100★ | ✅ HIT_lean | accel | 2026-06-20T15:28:08Z |
 | [felipeAguiarCode/freela-radar](https://github.com/felipeAguiarCode/freela-radar) | 29★ | 100★ | ✅ HIT_lean | launch | 2026-06-20T18:40:09Z |
@@ -45,6 +44,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [x666code/windows-fps-optimizer](https://github.com/x666code/windows-fps-optimizer) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 27★ → 27★ |
 | [0xSero/glm-5.2-sm120](https://github.com/0xSero/glm-5.2-sm120) | ✅ HIT_lean | ✅ HIT | ✔ correct | 79★ → 103★ |
 | [weixiao030/poe2_price](https://github.com/weixiao030/poe2_price) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 23★ → 31★ |
 | [Try112/cesium-vectortile-gl-plus](https://github.com/Try112/cesium-vectortile-gl-plus) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 22★ → 24★ |
@@ -69,7 +69,6 @@ Accuracy by phase at prediction time:
 | [nik1t7n/context-firewall](https://github.com/nik1t7n/context-firewall) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 20★ → 21★ |
 | [coracoo/insprira](https://github.com/coracoo/insprira) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 22★ → 46★ |
 | [Sessa93/remote-df](https://github.com/Sessa93/remote-df) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 21★ → 29★ |
-| [dongshuyan/compass-skills](https://github.com/dongshuyan/compass-skills) | ✅ HIT_lean | ✅ HIT | ✔ correct | 89★ → 217★ |
 
 ## Verify it yourself / 自分で検証
 
