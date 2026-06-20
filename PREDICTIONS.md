@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-19 19:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-20 03:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,18 +8,18 @@ _Last updated: 2026-06-19 19:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 117/142 = 82%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+**Direction accuracy: 117/143 = 82%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
 Base rate (share of scored repos that actually reached the target): 22%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 7 | 175 | 156 | 19 |
+| count | 6 | 176 | 157 | 19 |
 
 Accuracy by phase at prediction time:
 
 | phase | directional calls | correct | accuracy |
 |---|---|---|---|
-| 1 launch | 42 | 31 | 74% |
+| 1 launch | 43 | 31 | 72% |
 | 2 accel | 61 | 49 | 80% |
 | 3 trajectory | 38 | 36 | 95% |
 | 4 maturity | 1 | 1 | 100% |
@@ -28,7 +28,6 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [Try112/cesium-vectortile-gl-plus](https://github.com/Try112/cesium-vectortile-gl-plus) | 22★ | 100★ | ✅ HIT_lean | launch | 2026-06-20T03:16:05Z |
 | [weixiao030/poe2_price](https://github.com/weixiao030/poe2_price) | 23★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-20T04:34:06Z |
 | [0xSero/glm-5.2-sm120](https://github.com/0xSero/glm-5.2-sm120) | 79★ | 100★ | ✅ HIT_lean | launch | 2026-06-20T07:10:07Z |
 | [x666code/windows-fps-optimizer](https://github.com/x666code/windows-fps-optimizer) | 27★ | 100★ | ✅ HIT_lean | accel | 2026-06-20T07:22:03Z |
@@ -40,6 +39,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [Try112/cesium-vectortile-gl-plus](https://github.com/Try112/cesium-vectortile-gl-plus) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 22★ → 24★ |
 | [HunterDevops/crosshair-v2-mod](https://github.com/HunterDevops/crosshair-v2-mod) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 28★ → 28★ |
 | [LING71671/open-reverselab](https://github.com/LING71671/open-reverselab) | ✅ HIT_lean | ✅ HIT | ✔ correct | 71★ → 113★ |
 | [paid-tw/einvoice](https://github.com/paid-tw/einvoice) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 47★ → 90★ |
@@ -64,7 +64,6 @@ Accuracy by phase at prediction time:
 | [dongshuyan/compass-skills](https://github.com/dongshuyan/compass-skills) | ✅ HIT_lean | ✅ HIT | ✔ correct | 89★ → 217★ |
 | [ProxyAyush/antigravity-fusion-plugin](https://github.com/ProxyAyush/antigravity-fusion-plugin) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 29★ → 67★ |
 | [AreevAI/flowcat](https://github.com/AreevAI/flowcat) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 25★ → 29★ |
-| [renee-jia/scholar-loop](https://github.com/renee-jia/scholar-loop) | ➖ BORDERLINE | ⛔ MISS | – no-call | 82★ → 98★ |
 
 ## Verify it yourself / 自分で検証
 
