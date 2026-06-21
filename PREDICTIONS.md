@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-20 19:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-21 06:10 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -13,7 +13,7 @@ Base rate (share of scored repos that actually reached the target): 22%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 8 | 182 | 163 | 19 |
+| count | 16 | 182 | 163 | 19 |
 
 Accuracy by phase at prediction time:
 
@@ -28,14 +28,22 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
+| [MaxashRed/KRNL-Exec-v3.3](https://github.com/MaxashRed/KRNL-Exec-v3.3) | 31★ | 100★ | ❔ LOW_CONF | accel | 2026-06-21T14:52:03Z |
 | [fisher6610/Argon-Exec-v4.1](https://github.com/fisher6610/Argon-Exec-v4.1) | 31★ | 100★ | ❔ LOW_CONF | accel | 2026-06-21T14:52:04Z |
 | [jefer0528/Bunni-Exec-v3.5](https://github.com/jefer0528/Bunni-Exec-v3.5) | 31★ | 100★ | ❔ LOW_CONF | accel | 2026-06-21T14:52:04Z |
+| [ertanyuksel/Wave-Exec-v3.2](https://github.com/ertanyuksel/Wave-Exec-v3.2) | 31★ | 100★ | ❔ LOW_CONF | accel | 2026-06-21T14:52:04Z |
+| [Afridi477/Fluxus-Exec-v3.2](https://github.com/Afridi477/Fluxus-Exec-v3.2) | 31★ | 100★ | ❔ LOW_CONF | accel | 2026-06-21T14:52:04Z |
 | [Freddibiri/Wave-Exec-v3.8](https://github.com/Freddibiri/Wave-Exec-v3.8) | 30★ | 100★ | ❔ LOW_CONF | accel | 2026-06-21T14:52:05Z |
 | [WareingK/KRNL-Exec-v3.0](https://github.com/WareingK/KRNL-Exec-v3.0) | 31★ | 100★ | ❔ LOW_CONF | accel | 2026-06-21T14:52:05Z |
 | [josislayer/Valex-Exec-v3.4](https://github.com/josislayer/Valex-Exec-v3.4) | 31★ | 100★ | ❔ LOW_CONF | accel | 2026-06-21T14:52:06Z |
+| [ertanyuksel/Argon-Exec-v2.4](https://github.com/ertanyuksel/Argon-Exec-v2.4) | 31★ | 100★ | ❔ LOW_CONF | accel | 2026-06-21T14:52:06Z |
+| [realBlackICE/Xeno-Exec-v2.6](https://github.com/realBlackICE/Xeno-Exec-v2.6) | 31★ | 100★ | ❔ LOW_CONF | accel | 2026-06-21T14:52:06Z |
 | [ramon09/Volcano-Exec-v3.8](https://github.com/ramon09/Volcano-Exec-v3.8) | 31★ | 100★ | ❔ LOW_CONF | accel | 2026-06-21T14:52:07Z |
 | [Ratb4g/Luna-Exec-v3.4](https://github.com/Ratb4g/Luna-Exec-v3.4) | 31★ | 100★ | ❔ LOW_CONF | accel | 2026-06-21T14:52:07Z |
 | [caponael/Wave-Exec-v4.3](https://github.com/caponael/Wave-Exec-v4.3) | 31★ | 100★ | ❔ LOW_CONF | accel | 2026-06-21T14:52:08Z |
+| [Martorix/Delta-Exec-v3.3](https://github.com/Martorix/Delta-Exec-v3.3) | 31★ | 100★ | ❔ LOW_CONF | accel | 2026-06-21T14:52:08Z |
+| [HMDSimDev/heartmorrow](https://github.com/HMDSimDev/heartmorrow) | 34★ | 100★ | ⛔ MISS_lean | accel | 2026-06-22T05:46:07Z |
+| [Forward-Future/DeployBot](https://github.com/Forward-Future/DeployBot) | 22★ | 100★ | ➖ BORDERLINE | launch | 2026-06-22T20:22:05Z |
 
 ## Recently scored
 
