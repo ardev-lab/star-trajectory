@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-21 06:10 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-21 15:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -9,11 +9,11 @@ _Last updated: 2026-06-21 06:10 UTC · regenerated from the ledger, not hand-edi
 ## Calibration (how good is the track record?)
 
 **Direction accuracy: 119/149 = 80%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
-Base rate (share of scored repos that actually reached the target): 22%.
+Base rate (share of scored repos that actually reached the target): 20%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 16 | 182 | 163 | 19 |
+| count | 2 | 196 | 176 | 20 |
 
 Accuracy by phase at prediction time:
 
@@ -28,20 +28,6 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [MaxashRed/KRNL-Exec-v3.3](https://github.com/MaxashRed/KRNL-Exec-v3.3) | 31★ | 100★ | ❔ LOW_CONF | accel | 2026-06-21T14:52:03Z |
-| [fisher6610/Argon-Exec-v4.1](https://github.com/fisher6610/Argon-Exec-v4.1) | 31★ | 100★ | ❔ LOW_CONF | accel | 2026-06-21T14:52:04Z |
-| [jefer0528/Bunni-Exec-v3.5](https://github.com/jefer0528/Bunni-Exec-v3.5) | 31★ | 100★ | ❔ LOW_CONF | accel | 2026-06-21T14:52:04Z |
-| [ertanyuksel/Wave-Exec-v3.2](https://github.com/ertanyuksel/Wave-Exec-v3.2) | 31★ | 100★ | ❔ LOW_CONF | accel | 2026-06-21T14:52:04Z |
-| [Afridi477/Fluxus-Exec-v3.2](https://github.com/Afridi477/Fluxus-Exec-v3.2) | 31★ | 100★ | ❔ LOW_CONF | accel | 2026-06-21T14:52:04Z |
-| [Freddibiri/Wave-Exec-v3.8](https://github.com/Freddibiri/Wave-Exec-v3.8) | 30★ | 100★ | ❔ LOW_CONF | accel | 2026-06-21T14:52:05Z |
-| [WareingK/KRNL-Exec-v3.0](https://github.com/WareingK/KRNL-Exec-v3.0) | 31★ | 100★ | ❔ LOW_CONF | accel | 2026-06-21T14:52:05Z |
-| [josislayer/Valex-Exec-v3.4](https://github.com/josislayer/Valex-Exec-v3.4) | 31★ | 100★ | ❔ LOW_CONF | accel | 2026-06-21T14:52:06Z |
-| [ertanyuksel/Argon-Exec-v2.4](https://github.com/ertanyuksel/Argon-Exec-v2.4) | 31★ | 100★ | ❔ LOW_CONF | accel | 2026-06-21T14:52:06Z |
-| [realBlackICE/Xeno-Exec-v2.6](https://github.com/realBlackICE/Xeno-Exec-v2.6) | 31★ | 100★ | ❔ LOW_CONF | accel | 2026-06-21T14:52:06Z |
-| [ramon09/Volcano-Exec-v3.8](https://github.com/ramon09/Volcano-Exec-v3.8) | 31★ | 100★ | ❔ LOW_CONF | accel | 2026-06-21T14:52:07Z |
-| [Ratb4g/Luna-Exec-v3.4](https://github.com/Ratb4g/Luna-Exec-v3.4) | 31★ | 100★ | ❔ LOW_CONF | accel | 2026-06-21T14:52:07Z |
-| [caponael/Wave-Exec-v4.3](https://github.com/caponael/Wave-Exec-v4.3) | 31★ | 100★ | ❔ LOW_CONF | accel | 2026-06-21T14:52:08Z |
-| [Martorix/Delta-Exec-v3.3](https://github.com/Martorix/Delta-Exec-v3.3) | 31★ | 100★ | ❔ LOW_CONF | accel | 2026-06-21T14:52:08Z |
 | [HMDSimDev/heartmorrow](https://github.com/HMDSimDev/heartmorrow) | 34★ | 100★ | ⛔ MISS_lean | accel | 2026-06-22T05:46:07Z |
 | [Forward-Future/DeployBot](https://github.com/Forward-Future/DeployBot) | 22★ | 100★ | ➖ BORDERLINE | launch | 2026-06-22T20:22:05Z |
 
@@ -49,6 +35,19 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [ertanyuksel/Wave-Exec-v3.2](https://github.com/ertanyuksel/Wave-Exec-v3.2) | ❔ LOW_CONF | ⛔ MISS | – no-call | 31★ → 31★ |
+| [Afridi477/Fluxus-Exec-v3.2](https://github.com/Afridi477/Fluxus-Exec-v3.2) | ❔ LOW_CONF | ⛔ MISS | – no-call | 31★ → 31★ |
+| [ertanyuksel/Argon-Exec-v2.4](https://github.com/ertanyuksel/Argon-Exec-v2.4) | ❔ LOW_CONF | ⛔ MISS | – no-call | 31★ → 31★ |
+| [realBlackICE/Xeno-Exec-v2.6](https://github.com/realBlackICE/Xeno-Exec-v2.6) | ❔ LOW_CONF | ⛔ MISS | – no-call | 31★ → 31★ |
+| [Martorix/Delta-Exec-v3.3](https://github.com/Martorix/Delta-Exec-v3.3) | ❔ LOW_CONF | ⛔ MISS | – no-call | 31★ → 31★ |
+| [WareingK/KRNL-Exec-v3.0](https://github.com/WareingK/KRNL-Exec-v3.0) | ❔ LOW_CONF | ⛔ MISS | – no-call | 31★ → 31★ |
+| [josislayer/Valex-Exec-v3.4](https://github.com/josislayer/Valex-Exec-v3.4) | ❔ LOW_CONF | ⛔ MISS | – no-call | 31★ → 31★ |
+| [ramon09/Volcano-Exec-v3.8](https://github.com/ramon09/Volcano-Exec-v3.8) | ❔ LOW_CONF | ⛔ MISS | – no-call | 31★ → 31★ |
+| [Ratb4g/Luna-Exec-v3.4](https://github.com/Ratb4g/Luna-Exec-v3.4) | ❔ LOW_CONF | ⛔ MISS | – no-call | 31★ → 31★ |
+| [MaxashRed/KRNL-Exec-v3.3](https://github.com/MaxashRed/KRNL-Exec-v3.3) | ❔ LOW_CONF | ⛔ MISS | – no-call | 31★ → 31★ |
+| [fisher6610/Argon-Exec-v4.1](https://github.com/fisher6610/Argon-Exec-v4.1) | ❔ LOW_CONF | ⛔ MISS | – no-call | 31★ → 31★ |
+| [jefer0528/Bunni-Exec-v3.5](https://github.com/jefer0528/Bunni-Exec-v3.5) | ❔ LOW_CONF | ⛔ MISS | – no-call | 31★ → 31★ |
+| [Freddibiri/Wave-Exec-v3.8](https://github.com/Freddibiri/Wave-Exec-v3.8) | ❔ LOW_CONF | ⛔ MISS | – no-call | 30★ → 30★ |
 | [felipeAguiarCode/freela-radar](https://github.com/felipeAguiarCode/freela-radar) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 29★ → 36★ |
 | [MADEVAL/MindFluence](https://github.com/MADEVAL/MindFluence) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 30★ → 29★ |
 | [flatkey-ai/awesome-images](https://github.com/flatkey-ai/awesome-images) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 40★ → 81★ |
@@ -61,19 +60,6 @@ Accuracy by phase at prediction time:
 | [paid-tw/einvoice](https://github.com/paid-tw/einvoice) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 47★ → 90★ |
 | [Ar9av/gemini-nano-chrome](https://github.com/Ar9av/gemini-nano-chrome) | ✅ HIT_lean | ✅ HIT | ✔ correct | 51★ → 114★ |
 | [sehynn/notice-bot](https://github.com/sehynn/notice-bot) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 26★ → 26★ |
-| [helloxz/zocr](https://github.com/helloxz/zocr) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 37★ → 79★ |
-| [Plaer1/junction](https://github.com/Plaer1/junction) | ✅ HIT_lean | ✅ HIT | ✔ correct | 37★ → 510★ |
-| [start-fish/riskradar-tracemap-ai](https://github.com/start-fish/riskradar-tracemap-ai) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 31★ → 31★ |
-| [HankLEE-1/AI-Guardian](https://github.com/HankLEE-1/AI-Guardian) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 20★ → 29★ |
-| [rebel0789/codexpro](https://github.com/rebel0789/codexpro) | ✅ HIT_lean | ✅ HIT | ✔ correct | 51★ → 384★ |
-| [Auditware/AuditVault](https://github.com/Auditware/AuditVault) | ➖ BORDERLINE | ⛔ MISS | – no-call | 28★ → 49★ |
-| [boogu-project/Boogu-Image](https://github.com/boogu-project/Boogu-Image) | ✅ HIT_lean | ✅ HIT | ✔ correct | 37★ → 262★ |
-| [CZJ0219/ios27-beta-indexing-progress-windows](https://github.com/CZJ0219/ios27-beta-indexing-progress-windows) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 32★ → 36★ |
-| [HunterDevops/cs2-training-toolkit](https://github.com/HunterDevops/cs2-training-toolkit) | ➖ BORDERLINE | ⛔ MISS | – no-call | 21★ → 22★ |
-| [shreyashankar/plain-writing-skill](https://github.com/shreyashankar/plain-writing-skill) | ✅ HIT_lean | ✅ HIT | ✔ correct | 22★ → 147★ |
-| [MustangYM/SovietExtension](https://github.com/MustangYM/SovietExtension) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 46★ → 71★ |
-| [Wh1t3Rose/Unraid-Themes](https://github.com/Wh1t3Rose/Unraid-Themes) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 40★ → 43★ |
-| [FloatSakura/astrbot_plugin_jm_downloader](https://github.com/FloatSakura/astrbot_plugin_jm_downloader) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 37★ → 40★ |
 
 ## Verify it yourself / 自分で検証
 

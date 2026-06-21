@@ -4202,11 +4202,11 @@
     "arrival_archetype": "community_share_spike",
     "authenticity": "LOW",
     "tool_version": "0.1.0",
-    "status": "open",
-    "outcome": null,
-    "actual_stars_at_deadline": null,
+    "status": "scored",
+    "outcome": "MISS",
+    "actual_stars_at_deadline": 31,
     "direction_correct": null,
-    "scored_at_utc": null
+    "scored_at_utc": "2026-06-21T15:20:02Z"
   },
   {
     "repo": "jefer0528/Bunni-Exec-v3.5",
@@ -4225,11 +4225,11 @@
     "arrival_archetype": "community_share_spike",
     "authenticity": "LOW",
     "tool_version": "0.1.0",
-    "status": "open",
-    "outcome": null,
-    "actual_stars_at_deadline": null,
+    "status": "scored",
+    "outcome": "MISS",
+    "actual_stars_at_deadline": 31,
     "direction_correct": null,
-    "scored_at_utc": null
+    "scored_at_utc": "2026-06-21T15:20:02Z"
   },
   {
     "repo": "Freddibiri/Wave-Exec-v3.8",
@@ -4248,11 +4248,11 @@
     "arrival_archetype": "community_share_spike",
     "authenticity": "LOW",
     "tool_version": "0.1.0",
-    "status": "open",
-    "outcome": null,
-    "actual_stars_at_deadline": null,
+    "status": "scored",
+    "outcome": "MISS",
+    "actual_stars_at_deadline": 30,
     "direction_correct": null,
-    "scored_at_utc": null
+    "scored_at_utc": "2026-06-21T15:20:02Z"
   },
   {
     "repo": "WareingK/KRNL-Exec-v3.0",
@@ -4271,11 +4271,11 @@
     "arrival_archetype": "community_share_spike",
     "authenticity": "LOW",
     "tool_version": "0.1.0",
-    "status": "open",
-    "outcome": null,
-    "actual_stars_at_deadline": null,
+    "status": "scored",
+    "outcome": "MISS",
+    "actual_stars_at_deadline": 31,
     "direction_correct": null,
-    "scored_at_utc": null
+    "scored_at_utc": "2026-06-21T15:20:03Z"
   },
   {
     "repo": "josislayer/Valex-Exec-v3.4",
@@ -4294,11 +4294,11 @@
     "arrival_archetype": "community_share_spike",
     "authenticity": "LOW",
     "tool_version": "0.1.0",
-    "status": "open",
-    "outcome": null,
-    "actual_stars_at_deadline": null,
+    "status": "scored",
+    "outcome": "MISS",
+    "actual_stars_at_deadline": 31,
     "direction_correct": null,
-    "scored_at_utc": null
+    "scored_at_utc": "2026-06-21T15:20:03Z"
   },
   {
     "repo": "ramon09/Volcano-Exec-v3.8",
@@ -4317,11 +4317,11 @@
     "arrival_archetype": "community_share_spike",
     "authenticity": "LOW",
     "tool_version": "0.1.0",
-    "status": "open",
-    "outcome": null,
-    "actual_stars_at_deadline": null,
+    "status": "scored",
+    "outcome": "MISS",
+    "actual_stars_at_deadline": 31,
     "direction_correct": null,
-    "scored_at_utc": null
+    "scored_at_utc": "2026-06-21T15:20:03Z"
   },
   {
     "repo": "Ratb4g/Luna-Exec-v3.4",
@@ -4340,11 +4340,11 @@
     "arrival_archetype": "community_share_spike",
     "authenticity": "LOW",
     "tool_version": "0.1.0",
-    "status": "open",
-    "outcome": null,
-    "actual_stars_at_deadline": null,
+    "status": "scored",
+    "outcome": "MISS",
+    "actual_stars_at_deadline": 31,
     "direction_correct": null,
-    "scored_at_utc": null
+    "scored_at_utc": "2026-06-21T15:20:03Z"
   },
   {
     "repo": "caponael/Wave-Exec-v4.3",
@@ -4363,11 +4363,11 @@
     "arrival_archetype": "community_share_spike",
     "authenticity": "LOW",
     "tool_version": "0.1.0",
-    "status": "open",
-    "outcome": null,
+    "status": "scored",
+    "outcome": "repo_gone",
     "actual_stars_at_deadline": null,
     "direction_correct": null,
-    "scored_at_utc": null
+    "scored_at_utc": "2026-06-21T15:20:03Z"
   },
   {
     "repo": "MaxashRed/KRNL-Exec-v3.3",
@@ -4386,11 +4386,11 @@
     "arrival_archetype": "community_share_spike",
     "authenticity": "LOW",
     "tool_version": "0.1.0",
-    "status": "open",
-    "outcome": null,
-    "actual_stars_at_deadline": null,
+    "status": "scored",
+    "outcome": "MISS",
+    "actual_stars_at_deadline": 31,
     "direction_correct": null,
-    "scored_at_utc": null
+    "scored_at_utc": "2026-06-21T15:20:03Z"
   },
   {
     "repo": "ertanyuksel/Wave-Exec-v3.2",
@@ -4409,11 +4409,11 @@
     "arrival_archetype": "community_share_spike",
     "authenticity": "LOW",
     "tool_version": "0.1.0",
-    "status": "open",
-    "outcome": null,
-    "actual_stars_at_deadline": null,
+    "status": "scored",
+    "outcome": "MISS",
+    "actual_stars_at_deadline": 31,
     "direction_correct": null,
-    "scored_at_utc": null
+    "scored_at_utc": "2026-06-21T15:20:04Z"
   },
   {
     "repo": "Afridi477/Fluxus-Exec-v3.2",
@@ -4432,11 +4432,11 @@
     "arrival_archetype": "community_share_spike",
     "authenticity": "LOW",
     "tool_version": "0.1.0",
-    "status": "open",
-    "outcome": null,
-    "actual_stars_at_deadline": null,
+    "status": "scored",
+    "outcome": "MISS",
+    "actual_stars_at_deadline": 31,
     "direction_correct": null,
-    "scored_at_utc": null
+    "scored_at_utc": "2026-06-21T15:20:04Z"
   },
   {
     "repo": "Forward-Future/DeployBot",
@@ -4478,11 +4478,11 @@
     "arrival_archetype": "community_share_spike",
     "authenticity": "LOW",
     "tool_version": "0.1.0",
-    "status": "open",
-    "outcome": null,
-    "actual_stars_at_deadline": null,
+    "status": "scored",
+    "outcome": "MISS",
+    "actual_stars_at_deadline": 31,
     "direction_correct": null,
-    "scored_at_utc": null
+    "scored_at_utc": "2026-06-21T15:20:04Z"
   },
   {
     "repo": "realBlackICE/Xeno-Exec-v2.6",
@@ -4501,11 +4501,11 @@
     "arrival_archetype": "community_share_spike",
     "authenticity": "LOW",
     "tool_version": "0.1.0",
-    "status": "open",
-    "outcome": null,
-    "actual_stars_at_deadline": null,
+    "status": "scored",
+    "outcome": "MISS",
+    "actual_stars_at_deadline": 31,
     "direction_correct": null,
-    "scored_at_utc": null
+    "scored_at_utc": "2026-06-21T15:20:04Z"
   },
   {
     "repo": "HMDSimDev/heartmorrow",
@@ -4547,10 +4547,10 @@
     "arrival_archetype": "community_share_spike",
     "authenticity": "LOW",
     "tool_version": "0.1.0",
-    "status": "open",
-    "outcome": null,
-    "actual_stars_at_deadline": null,
+    "status": "scored",
+    "outcome": "MISS",
+    "actual_stars_at_deadline": 31,
     "direction_correct": null,
-    "scored_at_utc": null
+    "scored_at_utc": "2026-06-21T15:20:04Z"
   }
 ]
