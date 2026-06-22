@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-22 06:10 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-22 19:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,28 +8,26 @@ _Last updated: 2026-06-22 06:10 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 120/150 = 80%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+**Direction accuracy: 122/152 = 80%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
 Base rate (share of scored repos that actually reached the target): 20%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 9 | 197 | 177 | 20 |
+| count | 7 | 199 | 179 | 20 |
 
 Accuracy by phase at prediction time:
 
 | phase | directional calls | correct | accuracy |
 |---|---|---|---|
 | 1 launch | 45 | 32 | 71% |
-| 2 accel | 65 | 50 | 77% |
-| 3 trajectory | 39 | 37 | 95% |
+| 2 accel | 66 | 51 | 77% |
+| 3 trajectory | 40 | 38 | 95% |
 | 4 maturity | 1 | 1 | 100% |
 
 ## Open predictions (not yet decided)
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [wangzhezbz/codex-bridge](https://github.com/wangzhezbz/codex-bridge) | 30★ | 100★ | ⛔ MISS_lean | accel | 2026-06-22T18:52:05Z |
-| [kabde/banner-manager-pro](https://github.com/kabde/banner-manager-pro) | 35★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-22T19:04:04Z |
 | [Forward-Future/DeployBot](https://github.com/Forward-Future/DeployBot) | 22★ | 100★ | ➖ BORDERLINE | launch | 2026-06-22T20:22:05Z |
 | [MisterPezz82/Paprium_MegaDrive_MiSTer](https://github.com/MisterPezz82/Paprium_MegaDrive_MiSTer) | 22★ | 100★ | ⛔ MISS_lean | accel | 2026-06-23T00:22:07Z |
 | [Francis1998/nexus-llm-router](https://github.com/Francis1998/nexus-llm-router) | 32★ | 100★ | ⛔ MISS_lean | accel | 2026-06-23T05:46:06Z |
@@ -42,6 +40,8 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [kabde/banner-manager-pro](https://github.com/kabde/banner-manager-pro) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 35★ → 36★ |
+| [wangzhezbz/codex-bridge](https://github.com/wangzhezbz/codex-bridge) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 30★ → 40★ |
 | [HMDSimDev/heartmorrow](https://github.com/HMDSimDev/heartmorrow) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 34★ → 55★ |
 | [ertanyuksel/Wave-Exec-v3.2](https://github.com/ertanyuksel/Wave-Exec-v3.2) | ❔ LOW_CONF | ⛔ MISS | – no-call | 31★ → 31★ |
 | [Afridi477/Fluxus-Exec-v3.2](https://github.com/Afridi477/Fluxus-Exec-v3.2) | ❔ LOW_CONF | ⛔ MISS | – no-call | 31★ → 31★ |
@@ -65,8 +65,6 @@ Accuracy by phase at prediction time:
 | [Try112/cesium-vectortile-gl-plus](https://github.com/Try112/cesium-vectortile-gl-plus) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 22★ → 24★ |
 | [HunterDevops/crosshair-v2-mod](https://github.com/HunterDevops/crosshair-v2-mod) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 28★ → 28★ |
 | [LING71671/open-reverselab](https://github.com/LING71671/open-reverselab) | ✅ HIT_lean | ✅ HIT | ✔ correct | 71★ → 113★ |
-| [paid-tw/einvoice](https://github.com/paid-tw/einvoice) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 47★ → 90★ |
-| [Ar9av/gemini-nano-chrome](https://github.com/Ar9av/gemini-nano-chrome) | ✅ HIT_lean | ✅ HIT | ✔ correct | 51★ → 114★ |
 
 ## Verify it yourself / 自分で検証
 
