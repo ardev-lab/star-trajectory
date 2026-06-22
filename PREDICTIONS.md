@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-22 19:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-22 21:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -9,11 +9,11 @@ _Last updated: 2026-06-22 19:20 UTC · regenerated from the ledger, not hand-edi
 ## Calibration (how good is the track record?)
 
 **Direction accuracy: 122/152 = 80%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
-Base rate (share of scored repos that actually reached the target): 20%.
+Base rate (share of scored repos that actually reached the target): 19%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 7 | 199 | 179 | 20 |
+| count | 6 | 200 | 180 | 20 |
 
 Accuracy by phase at prediction time:
 
@@ -28,7 +28,6 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [Forward-Future/DeployBot](https://github.com/Forward-Future/DeployBot) | 22★ | 100★ | ➖ BORDERLINE | launch | 2026-06-22T20:22:05Z |
 | [MisterPezz82/Paprium_MegaDrive_MiSTer](https://github.com/MisterPezz82/Paprium_MegaDrive_MiSTer) | 22★ | 100★ | ⛔ MISS_lean | accel | 2026-06-23T00:22:07Z |
 | [Francis1998/nexus-llm-router](https://github.com/Francis1998/nexus-llm-router) | 32★ | 100★ | ⛔ MISS_lean | accel | 2026-06-23T05:46:06Z |
 | [ThisIsLittleSky/WaterPaper](https://github.com/ThisIsLittleSky/WaterPaper) | 41★ | 100★ | ➖ BORDERLINE | launch | 2026-06-23T10:52:03Z |
@@ -40,6 +39,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [Forward-Future/DeployBot](https://github.com/Forward-Future/DeployBot) | ➖ BORDERLINE | ⛔ MISS | – no-call | 22★ → 40★ |
 | [kabde/banner-manager-pro](https://github.com/kabde/banner-manager-pro) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 35★ → 36★ |
 | [wangzhezbz/codex-bridge](https://github.com/wangzhezbz/codex-bridge) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 30★ → 40★ |
 | [HMDSimDev/heartmorrow](https://github.com/HMDSimDev/heartmorrow) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 34★ → 55★ |
@@ -64,7 +64,6 @@ Accuracy by phase at prediction time:
 | [weixiao030/poe2_price](https://github.com/weixiao030/poe2_price) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 23★ → 31★ |
 | [Try112/cesium-vectortile-gl-plus](https://github.com/Try112/cesium-vectortile-gl-plus) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 22★ → 24★ |
 | [HunterDevops/crosshair-v2-mod](https://github.com/HunterDevops/crosshair-v2-mod) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 28★ → 28★ |
-| [LING71671/open-reverselab](https://github.com/LING71671/open-reverselab) | ✅ HIT_lean | ✅ HIT | ✔ correct | 71★ → 113★ |
 
 ## Verify it yourself / 自分で検証
 
