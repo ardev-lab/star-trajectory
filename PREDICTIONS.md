@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-23 19:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-23 23:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,18 +8,18 @@ _Last updated: 2026-06-23 19:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 129/159 = 81%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+**Direction accuracy: 129/160 = 81%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
 Base rate (share of scored repos that actually reached the target): 20%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 6 | 208 | 188 | 20 |
+| count | 5 | 209 | 189 | 20 |
 
 Accuracy by phase at prediction time:
 
 | phase | directional calls | correct | accuracy |
 |---|---|---|---|
-| 1 launch | 45 | 32 | 71% |
+| 1 launch | 46 | 32 | 70% |
 | 2 accel | 71 | 56 | 79% |
 | 3 trajectory | 42 | 40 | 95% |
 | 4 maturity | 1 | 1 | 100% |
@@ -28,7 +28,6 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [sanqianzilanyue-commits/claude-p-save-tokens](https://github.com/sanqianzilanyue-commits/claude-p-save-tokens) | 21★ | 100★ | ✅ HIT_lean | launch | 2026-06-23T22:34:08Z |
 | [ccrpRepo/robot_retargeter](https://github.com/ccrpRepo/robot_retargeter) | 58★ | 100★ | ➖ BORDERLINE | launch | 2026-06-24T09:40:04Z |
 | [JayWebtech/autoshorts](https://github.com/JayWebtech/autoshorts) | 41★ | 100★ | ✅ HIT_lean | accel | 2026-06-24T13:10:08Z |
 | [i5ting/learn-ai-practice](https://github.com/i5ting/learn-ai-practice) | 90★ | 100★ | ✅ HIT_lean | accel | 2026-06-24T14:46:03Z |
@@ -39,6 +38,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [sanqianzilanyue-commits/claude-p-save-tokens](https://github.com/sanqianzilanyue-commits/claude-p-save-tokens) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 21★ → 38★ |
 | [ekkoee/thelimitsofmylanguagemeanthelimitsofmyworld](https://github.com/ekkoee/thelimitsofmylanguagemeanthelimitsofmyworld) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 21★ → 21★ |
 | [ladybug-me/caelestia-dots-kde](https://github.com/ladybug-me/caelestia-dots-kde) | ✅ HIT_lean | ✅ HIT | ✔ correct | 49★ → 122★ |
 | [lucid-softworks/browser](https://github.com/lucid-softworks/browser) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 31★ → 45★ |
@@ -63,7 +63,6 @@ Accuracy by phase at prediction time:
 | [MaxashRed/KRNL-Exec-v3.3](https://github.com/MaxashRed/KRNL-Exec-v3.3) | ❔ LOW_CONF | ⛔ MISS | – no-call | 31★ → 31★ |
 | [fisher6610/Argon-Exec-v4.1](https://github.com/fisher6610/Argon-Exec-v4.1) | ❔ LOW_CONF | ⛔ MISS | – no-call | 31★ → 31★ |
 | [jefer0528/Bunni-Exec-v3.5](https://github.com/jefer0528/Bunni-Exec-v3.5) | ❔ LOW_CONF | ⛔ MISS | – no-call | 31★ → 31★ |
-| [Freddibiri/Wave-Exec-v3.8](https://github.com/Freddibiri/Wave-Exec-v3.8) | ❔ LOW_CONF | ⛔ MISS | – no-call | 30★ → 30★ |
 
 ## Verify it yourself / 自分で検証
 
