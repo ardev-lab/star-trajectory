@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-23 13:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-23 16:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,12 +8,12 @@ _Last updated: 2026-06-23 13:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 126/156 = 81%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
-Base rate (share of scored repos that actually reached the target): 20%.
+**Direction accuracy: 127/157 = 81%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+Base rate (share of scored repos that actually reached the target): 19%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 9 | 205 | 185 | 20 |
+| count | 8 | 206 | 186 | 20 |
 
 Accuracy by phase at prediction time:
 
@@ -21,14 +21,13 @@ Accuracy by phase at prediction time:
 |---|---|---|---|
 | 1 launch | 45 | 32 | 71% |
 | 2 accel | 69 | 54 | 78% |
-| 3 trajectory | 41 | 39 | 95% |
+| 3 trajectory | 42 | 40 | 95% |
 | 4 maturity | 1 | 1 | 100% |
 
 ## Open predictions (not yet decided)
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [lucid-softworks/browser](https://github.com/lucid-softworks/browser) | 31★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-23T16:04:07Z |
 | [ladybug-me/caelestia-dots-kde](https://github.com/ladybug-me/caelestia-dots-kde) | 49★ | 100★ | ✅ HIT_lean | accel | 2026-06-23T18:10:08Z |
 | [ekkoee/thelimitsofmylanguagemeanthelimitsofmyworld](https://github.com/ekkoee/thelimitsofmylanguagemeanthelimitsofmyworld) | 21★ | 100★ | ⛔ MISS_lean | accel | 2026-06-23T18:46:06Z |
 | [sanqianzilanyue-commits/claude-p-save-tokens](https://github.com/sanqianzilanyue-commits/claude-p-save-tokens) | 21★ | 100★ | ✅ HIT_lean | launch | 2026-06-23T22:34:08Z |
@@ -42,6 +41,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [lucid-softworks/browser](https://github.com/lucid-softworks/browser) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 31★ → 45★ |
 | [SarkAzia/baiyueguang-learning-skill](https://github.com/SarkAzia/baiyueguang-learning-skill) | ✅ HIT_lean | ✅ HIT | ✔ correct | 30★ → 175★ |
 | [Mirsmog/real-icons.nvim](https://github.com/Mirsmog/real-icons.nvim) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 33★ → 35★ |
 | [ThisIsLittleSky/WaterPaper](https://github.com/ThisIsLittleSky/WaterPaper) | ➖ BORDERLINE | ⛔ MISS | – no-call | 41★ → 63★ |
@@ -66,7 +66,6 @@ Accuracy by phase at prediction time:
 | [Freddibiri/Wave-Exec-v3.8](https://github.com/Freddibiri/Wave-Exec-v3.8) | ❔ LOW_CONF | ⛔ MISS | – no-call | 30★ → 30★ |
 | [felipeAguiarCode/freela-radar](https://github.com/felipeAguiarCode/freela-radar) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 29★ → 36★ |
 | [MADEVAL/MindFluence](https://github.com/MADEVAL/MindFluence) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 30★ → 29★ |
-| [flatkey-ai/awesome-images](https://github.com/flatkey-ai/awesome-images) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 40★ → 81★ |
 
 ## Verify it yourself / 自分で検証
 
