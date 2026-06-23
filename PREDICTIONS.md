@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-22 21:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-23 01:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,19 +8,19 @@ _Last updated: 2026-06-22 21:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 122/152 = 80%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+**Direction accuracy: 123/153 = 80%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
 Base rate (share of scored repos that actually reached the target): 19%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 6 | 200 | 180 | 20 |
+| count | 5 | 201 | 181 | 20 |
 
 Accuracy by phase at prediction time:
 
 | phase | directional calls | correct | accuracy |
 |---|---|---|---|
 | 1 launch | 45 | 32 | 71% |
-| 2 accel | 66 | 51 | 77% |
+| 2 accel | 67 | 52 | 78% |
 | 3 trajectory | 40 | 38 | 95% |
 | 4 maturity | 1 | 1 | 100% |
 
@@ -28,7 +28,6 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [MisterPezz82/Paprium_MegaDrive_MiSTer](https://github.com/MisterPezz82/Paprium_MegaDrive_MiSTer) | 22★ | 100★ | ⛔ MISS_lean | accel | 2026-06-23T00:22:07Z |
 | [Francis1998/nexus-llm-router](https://github.com/Francis1998/nexus-llm-router) | 32★ | 100★ | ⛔ MISS_lean | accel | 2026-06-23T05:46:06Z |
 | [ThisIsLittleSky/WaterPaper](https://github.com/ThisIsLittleSky/WaterPaper) | 41★ | 100★ | ➖ BORDERLINE | launch | 2026-06-23T10:52:03Z |
 | [SarkAzia/baiyueguang-learning-skill](https://github.com/SarkAzia/baiyueguang-learning-skill) | 30★ | 100★ | ✅ HIT_lean | accel | 2026-06-23T12:58:03Z |
@@ -39,6 +38,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [MisterPezz82/Paprium_MegaDrive_MiSTer](https://github.com/MisterPezz82/Paprium_MegaDrive_MiSTer) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 22★ → 26★ |
 | [Forward-Future/DeployBot](https://github.com/Forward-Future/DeployBot) | ➖ BORDERLINE | ⛔ MISS | – no-call | 22★ → 40★ |
 | [kabde/banner-manager-pro](https://github.com/kabde/banner-manager-pro) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 35★ → 36★ |
 | [wangzhezbz/codex-bridge](https://github.com/wangzhezbz/codex-bridge) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 30★ → 40★ |
@@ -63,7 +63,6 @@ Accuracy by phase at prediction time:
 | [0xSero/glm-5.2-sm120](https://github.com/0xSero/glm-5.2-sm120) | ✅ HIT_lean | ✅ HIT | ✔ correct | 79★ → 103★ |
 | [weixiao030/poe2_price](https://github.com/weixiao030/poe2_price) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 23★ → 31★ |
 | [Try112/cesium-vectortile-gl-plus](https://github.com/Try112/cesium-vectortile-gl-plus) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 22★ → 24★ |
-| [HunterDevops/crosshair-v2-mod](https://github.com/HunterDevops/crosshair-v2-mod) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 28★ → 28★ |
 
 ## Verify it yourself / 自分で検証
 
