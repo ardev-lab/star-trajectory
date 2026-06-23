@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-23 01:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-23 06:10 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,19 +8,19 @@ _Last updated: 2026-06-23 01:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 123/153 = 80%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+**Direction accuracy: 124/154 = 80%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
 Base rate (share of scored repos that actually reached the target): 19%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 5 | 201 | 181 | 20 |
+| count | 12 | 202 | 182 | 20 |
 
 Accuracy by phase at prediction time:
 
 | phase | directional calls | correct | accuracy |
 |---|---|---|---|
 | 1 launch | 45 | 32 | 71% |
-| 2 accel | 67 | 52 | 78% |
+| 2 accel | 68 | 53 | 78% |
 | 3 trajectory | 40 | 38 | 95% |
 | 4 maturity | 1 | 1 | 100% |
 
@@ -28,16 +28,24 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [Francis1998/nexus-llm-router](https://github.com/Francis1998/nexus-llm-router) | 32★ | 100★ | ⛔ MISS_lean | accel | 2026-06-23T05:46:06Z |
 | [ThisIsLittleSky/WaterPaper](https://github.com/ThisIsLittleSky/WaterPaper) | 41★ | 100★ | ➖ BORDERLINE | launch | 2026-06-23T10:52:03Z |
+| [Mirsmog/real-icons.nvim](https://github.com/Mirsmog/real-icons.nvim) | 33★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-23T11:40:03Z |
 | [SarkAzia/baiyueguang-learning-skill](https://github.com/SarkAzia/baiyueguang-learning-skill) | 30★ | 100★ | ✅ HIT_lean | accel | 2026-06-23T12:58:03Z |
+| [lucid-softworks/browser](https://github.com/lucid-softworks/browser) | 31★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-23T16:04:07Z |
 | [ladybug-me/caelestia-dots-kde](https://github.com/ladybug-me/caelestia-dots-kde) | 49★ | 100★ | ✅ HIT_lean | accel | 2026-06-23T18:10:08Z |
+| [ekkoee/thelimitsofmylanguagemeanthelimitsofmyworld](https://github.com/ekkoee/thelimitsofmylanguagemeanthelimitsofmyworld) | 21★ | 100★ | ⛔ MISS_lean | accel | 2026-06-23T18:46:06Z |
 | [sanqianzilanyue-commits/claude-p-save-tokens](https://github.com/sanqianzilanyue-commits/claude-p-save-tokens) | 21★ | 100★ | ✅ HIT_lean | launch | 2026-06-23T22:34:08Z |
+| [ccrpRepo/robot_retargeter](https://github.com/ccrpRepo/robot_retargeter) | 58★ | 100★ | ➖ BORDERLINE | launch | 2026-06-24T09:40:04Z |
+| [JayWebtech/autoshorts](https://github.com/JayWebtech/autoshorts) | 41★ | 100★ | ✅ HIT_lean | accel | 2026-06-24T13:10:08Z |
+| [i5ting/learn-ai-practice](https://github.com/i5ting/learn-ai-practice) | 90★ | 100★ | ✅ HIT_lean | accel | 2026-06-24T14:46:03Z |
+| [xenodium/ytr](https://github.com/xenodium/ytr) | 22★ | 100★ | ⛔ MISS_lean | launch | 2026-06-24T17:52:04Z |
+| [Pulsedesrace/Wilonity-exploit](https://github.com/Pulsedesrace/Wilonity-exploit) | 34★ | 100★ | ✅ HIT_lean | launch | 2026-06-25T03:52:06Z |
 
 ## Recently scored
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [Francis1998/nexus-llm-router](https://github.com/Francis1998/nexus-llm-router) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 32★ → 33★ |
 | [MisterPezz82/Paprium_MegaDrive_MiSTer](https://github.com/MisterPezz82/Paprium_MegaDrive_MiSTer) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 22★ → 26★ |
 | [Forward-Future/DeployBot](https://github.com/Forward-Future/DeployBot) | ➖ BORDERLINE | ⛔ MISS | – no-call | 22★ → 40★ |
 | [kabde/banner-manager-pro](https://github.com/kabde/banner-manager-pro) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 35★ → 36★ |
@@ -62,7 +70,6 @@ Accuracy by phase at prediction time:
 | [x666code/windows-fps-optimizer](https://github.com/x666code/windows-fps-optimizer) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 27★ → 27★ |
 | [0xSero/glm-5.2-sm120](https://github.com/0xSero/glm-5.2-sm120) | ✅ HIT_lean | ✅ HIT | ✔ correct | 79★ → 103★ |
 | [weixiao030/poe2_price](https://github.com/weixiao030/poe2_price) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 23★ → 31★ |
-| [Try112/cesium-vectortile-gl-plus](https://github.com/Try112/cesium-vectortile-gl-plus) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 22★ → 24★ |
 
 ## Verify it yourself / 自分で検証
 
