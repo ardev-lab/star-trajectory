@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-24 06:10 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-24 10:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -13,7 +13,7 @@ Base rate (share of scored repos that actually reached the target): 20%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 13 | 209 | 189 | 20 |
+| count | 12 | 210 | 190 | 20 |
 
 Accuracy by phase at prediction time:
 
@@ -28,7 +28,6 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [ccrpRepo/robot_retargeter](https://github.com/ccrpRepo/robot_retargeter) | 58★ | 100★ | ➖ BORDERLINE | launch | 2026-06-24T09:40:04Z |
 | [JayWebtech/autoshorts](https://github.com/JayWebtech/autoshorts) | 41★ | 100★ | ✅ HIT_lean | accel | 2026-06-24T13:10:08Z |
 | [i5ting/learn-ai-practice](https://github.com/i5ting/learn-ai-practice) | 90★ | 100★ | ✅ HIT_lean | accel | 2026-06-24T14:46:03Z |
 | [xenodium/ytr](https://github.com/xenodium/ytr) | 22★ | 100★ | ⛔ MISS_lean | launch | 2026-06-24T17:52:04Z |
@@ -46,6 +45,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [ccrpRepo/robot_retargeter](https://github.com/ccrpRepo/robot_retargeter) | ➖ BORDERLINE | ✅ HIT | – no-call | 58★ → 116★ |
 | [sanqianzilanyue-commits/claude-p-save-tokens](https://github.com/sanqianzilanyue-commits/claude-p-save-tokens) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 21★ → 38★ |
 | [ekkoee/thelimitsofmylanguagemeanthelimitsofmyworld](https://github.com/ekkoee/thelimitsofmylanguagemeanthelimitsofmyworld) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 21★ → 21★ |
 | [ladybug-me/caelestia-dots-kde](https://github.com/ladybug-me/caelestia-dots-kde) | ✅ HIT_lean | ✅ HIT | ✔ correct | 49★ → 122★ |
@@ -70,7 +70,6 @@ Accuracy by phase at prediction time:
 | [Ratb4g/Luna-Exec-v3.4](https://github.com/Ratb4g/Luna-Exec-v3.4) | ❔ LOW_CONF | ⛔ MISS | – no-call | 31★ → 31★ |
 | [MaxashRed/KRNL-Exec-v3.3](https://github.com/MaxashRed/KRNL-Exec-v3.3) | ❔ LOW_CONF | ⛔ MISS | – no-call | 31★ → 31★ |
 | [fisher6610/Argon-Exec-v4.1](https://github.com/fisher6610/Argon-Exec-v4.1) | ❔ LOW_CONF | ⛔ MISS | – no-call | 31★ → 31★ |
-| [jefer0528/Bunni-Exec-v3.5](https://github.com/jefer0528/Bunni-Exec-v3.5) | ❔ LOW_CONF | ⛔ MISS | – no-call | 31★ → 31★ |
 
 ## Verify it yourself / 自分で検証
 
