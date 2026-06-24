@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-23 23:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-24 06:10 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -13,7 +13,7 @@ Base rate (share of scored repos that actually reached the target): 20%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 5 | 209 | 189 | 20 |
+| count | 13 | 209 | 189 | 20 |
 
 Accuracy by phase at prediction time:
 
@@ -32,7 +32,15 @@ Accuracy by phase at prediction time:
 | [JayWebtech/autoshorts](https://github.com/JayWebtech/autoshorts) | 41★ | 100★ | ✅ HIT_lean | accel | 2026-06-24T13:10:08Z |
 | [i5ting/learn-ai-practice](https://github.com/i5ting/learn-ai-practice) | 90★ | 100★ | ✅ HIT_lean | accel | 2026-06-24T14:46:03Z |
 | [xenodium/ytr](https://github.com/xenodium/ytr) | 22★ | 100★ | ⛔ MISS_lean | launch | 2026-06-24T17:52:04Z |
+| [krea-ai/krea-2](https://github.com/krea-ai/krea-2) | 62★ | 100★ | ✅ HIT_lean | accel | 2026-06-24T21:40:06Z |
+| [NVIDIA-BioNeMo/bionemo-agent-toolkit](https://github.com/NVIDIA-BioNeMo/bionemo-agent-toolkit) | 56★ | 100★ | ✅ HIT_lean | accel | 2026-06-25T01:46:07Z |
 | [Pulsedesrace/Wilonity-exploit](https://github.com/Pulsedesrace/Wilonity-exploit) | 34★ | 100★ | ✅ HIT_lean | launch | 2026-06-25T03:52:06Z |
+| [bikini/exploitarium](https://github.com/bikini/exploitarium) | 29★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-25T05:16:04Z |
+| [vancyland/DataClaw0](https://github.com/vancyland/DataClaw0) | 47★ | 100★ | ⛔ MISS_lean | launch | 2026-06-25T07:10:03Z |
+| [y-times-y/y](https://github.com/y-times-y/y) | 41★ | 100★ | ✅ HIT_lean | accel | 2026-06-25T16:04:10Z |
+| [OverlapToucanRattle/Lossless-Scaling-Download-2026](https://github.com/OverlapToucanRattle/Lossless-Scaling-Download-2026) | 24★ | 100★ | ⛔ MISS_lean | launch | 2026-06-25T18:04:05Z |
+| [GenseeAI/gensee-crate](https://github.com/GenseeAI/gensee-crate) | 27★ | 100★ | ➖ BORDERLINE | launch | 2026-06-25T18:28:06Z |
+| [QwenLM/Qwen-AgentWorld](https://github.com/QwenLM/Qwen-AgentWorld) | 49★ | 100★ | ✅ HIT_lean | accel | 2026-06-26T03:22:09Z |
 
 ## Recently scored
 
