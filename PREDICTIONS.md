@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-25 16:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-25 18:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -13,7 +13,7 @@ Base rate (share of scored repos that actually reached the target): 20%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 10 | 220 | 200 | 20 |
+| count | 9 | 221 | 200 | 21 |
 
 Accuracy by phase at prediction time:
 
@@ -28,7 +28,6 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [OverlapToucanRattle/Lossless-Scaling-Download-2026](https://github.com/OverlapToucanRattle/Lossless-Scaling-Download-2026) | 24★ | 100★ | ⛔ MISS_lean | launch | 2026-06-25T18:04:05Z |
 | [GenseeAI/gensee-crate](https://github.com/GenseeAI/gensee-crate) | 27★ | 100★ | ➖ BORDERLINE | launch | 2026-06-25T18:28:06Z |
 | [QwenLM/Qwen-AgentWorld](https://github.com/QwenLM/Qwen-AgentWorld) | 49★ | 100★ | ✅ HIT_lean | accel | 2026-06-26T03:22:09Z |
 | [tutusagi/ai-fishing-game](https://github.com/tutusagi/ai-fishing-game) | 24★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-26T04:34:06Z |
