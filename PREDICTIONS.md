@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-25 05:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-25 06:10 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -13,7 +13,7 @@ Base rate (share of scored repos that actually reached the target): 20%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 5 | 217 | 197 | 20 |
+| count | 13 | 217 | 197 | 20 |
 
 Accuracy by phase at prediction time:
 
@@ -29,10 +29,18 @@ Accuracy by phase at prediction time:
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
 | [vancyland/DataClaw0](https://github.com/vancyland/DataClaw0) | 47★ | 100★ | ⛔ MISS_lean | launch | 2026-06-25T07:10:03Z |
+| [Kuddev/SMRmanager](https://github.com/Kuddev/SMRmanager) | 27★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-25T15:16:08Z |
 | [y-times-y/y](https://github.com/y-times-y/y) | 41★ | 100★ | ✅ HIT_lean | accel | 2026-06-25T16:04:10Z |
 | [OverlapToucanRattle/Lossless-Scaling-Download-2026](https://github.com/OverlapToucanRattle/Lossless-Scaling-Download-2026) | 24★ | 100★ | ⛔ MISS_lean | launch | 2026-06-25T18:04:05Z |
 | [GenseeAI/gensee-crate](https://github.com/GenseeAI/gensee-crate) | 27★ | 100★ | ➖ BORDERLINE | launch | 2026-06-25T18:28:06Z |
 | [QwenLM/Qwen-AgentWorld](https://github.com/QwenLM/Qwen-AgentWorld) | 49★ | 100★ | ✅ HIT_lean | accel | 2026-06-26T03:22:09Z |
+| [tutusagi/ai-fishing-game](https://github.com/tutusagi/ai-fishing-game) | 24★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-26T04:34:06Z |
+| [JotaDev66/WaCalls](https://github.com/JotaDev66/WaCalls) | 49★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-26T05:34:08Z |
+| [HKUST-C4G/DomainShuttle](https://github.com/HKUST-C4G/DomainShuttle) | 52★ | 100★ | ✅ HIT_lean | accel | 2026-06-26T06:04:09Z |
+| [Neilooo/md-reader](https://github.com/Neilooo/md-reader) | 45★ | 100★ | ✅ HIT_lean | accel | 2026-06-26T07:10:04Z |
+| [amplifthq/opentag](https://github.com/amplifthq/opentag) | 36★ | 100★ | ⛔ MISS_lean | launch | 2026-06-26T08:04:03Z |
+| [JimLiu/decode-codex](https://github.com/JimLiu/decode-codex) | 24★ | 100★ | ✅ HIT_lean | accel | 2026-06-27T02:22:03Z |
+| [DrizzleWalker/Lossless-Scaling-Download-2026](https://github.com/DrizzleWalker/Lossless-Scaling-Download-2026) | 38★ | 100★ | ❔ LOW_CONF | launch | 2026-06-27T05:22:07Z |
 
 ## Recently scored
 
