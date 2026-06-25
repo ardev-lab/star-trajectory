@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-24 22:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-25 02:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,19 +8,19 @@ _Last updated: 2026-06-24 22:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 132/164 = 80%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
-Base rate (share of scored repos that actually reached the target): 21%.
+**Direction accuracy: 132/165 = 80%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+Base rate (share of scored repos that actually reached the target): 20%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 8 | 214 | 194 | 20 |
+| count | 7 | 215 | 195 | 20 |
 
 Accuracy by phase at prediction time:
 
 | phase | directional calls | correct | accuracy |
 |---|---|---|---|
 | 1 launch | 47 | 33 | 70% |
-| 2 accel | 74 | 58 | 78% |
+| 2 accel | 75 | 58 | 77% |
 | 3 trajectory | 42 | 40 | 95% |
 | 4 maturity | 1 | 1 | 100% |
 
@@ -28,7 +28,6 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [NVIDIA-BioNeMo/bionemo-agent-toolkit](https://github.com/NVIDIA-BioNeMo/bionemo-agent-toolkit) | 56★ | 100★ | ✅ HIT_lean | accel | 2026-06-25T01:46:07Z |
 | [Pulsedesrace/Wilonity-exploit](https://github.com/Pulsedesrace/Wilonity-exploit) | 34★ | 100★ | ✅ HIT_lean | launch | 2026-06-25T03:52:06Z |
 | [bikini/exploitarium](https://github.com/bikini/exploitarium) | 29★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-25T05:16:04Z |
 | [vancyland/DataClaw0](https://github.com/vancyland/DataClaw0) | 47★ | 100★ | ⛔ MISS_lean | launch | 2026-06-25T07:10:03Z |
@@ -41,6 +40,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [NVIDIA-BioNeMo/bionemo-agent-toolkit](https://github.com/NVIDIA-BioNeMo/bionemo-agent-toolkit) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 56★ → 99★ |
 | [krea-ai/krea-2](https://github.com/krea-ai/krea-2) | ✅ HIT_lean | ✅ HIT | ✔ correct | 62★ → 171★ |
 | [xenodium/ytr](https://github.com/xenodium/ytr) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 22★ → 49★ |
 | [i5ting/learn-ai-practice](https://github.com/i5ting/learn-ai-practice) | ✅ HIT_lean | ✅ HIT | ✔ correct | 90★ → 160★ |
@@ -65,7 +65,6 @@ Accuracy by phase at prediction time:
 | [realBlackICE/Xeno-Exec-v2.6](https://github.com/realBlackICE/Xeno-Exec-v2.6) | ❔ LOW_CONF | ⛔ MISS | – no-call | 31★ → 31★ |
 | [Martorix/Delta-Exec-v3.3](https://github.com/Martorix/Delta-Exec-v3.3) | ❔ LOW_CONF | ⛔ MISS | – no-call | 31★ → 31★ |
 | [WareingK/KRNL-Exec-v3.0](https://github.com/WareingK/KRNL-Exec-v3.0) | ❔ LOW_CONF | ⛔ MISS | – no-call | 31★ → 31★ |
-| [josislayer/Valex-Exec-v3.4](https://github.com/josislayer/Valex-Exec-v3.4) | ❔ LOW_CONF | ⛔ MISS | – no-call | 31★ → 31★ |
 
 ## Verify it yourself / 自分で検証
 
