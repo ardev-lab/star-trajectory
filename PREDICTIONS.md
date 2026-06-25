@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-25 04:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-25 05:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,12 +8,12 @@ _Last updated: 2026-06-25 04:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 132/166 = 80%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+**Direction accuracy: 133/167 = 80%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
 Base rate (share of scored repos that actually reached the target): 20%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 6 | 216 | 196 | 20 |
+| count | 5 | 217 | 197 | 20 |
 
 Accuracy by phase at prediction time:
 
@@ -21,14 +21,13 @@ Accuracy by phase at prediction time:
 |---|---|---|---|
 | 1 launch | 48 | 33 | 69% |
 | 2 accel | 75 | 58 | 77% |
-| 3 trajectory | 42 | 40 | 95% |
+| 3 trajectory | 43 | 41 | 95% |
 | 4 maturity | 1 | 1 | 100% |
 
 ## Open predictions (not yet decided)
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [bikini/exploitarium](https://github.com/bikini/exploitarium) | 29★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-25T05:16:04Z |
 | [vancyland/DataClaw0](https://github.com/vancyland/DataClaw0) | 47★ | 100★ | ⛔ MISS_lean | launch | 2026-06-25T07:10:03Z |
 | [y-times-y/y](https://github.com/y-times-y/y) | 41★ | 100★ | ✅ HIT_lean | accel | 2026-06-25T16:04:10Z |
 | [OverlapToucanRattle/Lossless-Scaling-Download-2026](https://github.com/OverlapToucanRattle/Lossless-Scaling-Download-2026) | 24★ | 100★ | ⛔ MISS_lean | launch | 2026-06-25T18:04:05Z |
@@ -39,6 +38,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [bikini/exploitarium](https://github.com/bikini/exploitarium) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 29★ → 43★ |
 | [Pulsedesrace/Wilonity-exploit](https://github.com/Pulsedesrace/Wilonity-exploit) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 34★ → 34★ |
 | [NVIDIA-BioNeMo/bionemo-agent-toolkit](https://github.com/NVIDIA-BioNeMo/bionemo-agent-toolkit) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 56★ → 99★ |
 | [krea-ai/krea-2](https://github.com/krea-ai/krea-2) | ✅ HIT_lean | ✅ HIT | ✔ correct | 62★ → 171★ |
@@ -63,7 +63,6 @@ Accuracy by phase at prediction time:
 | [Afridi477/Fluxus-Exec-v3.2](https://github.com/Afridi477/Fluxus-Exec-v3.2) | ❔ LOW_CONF | ⛔ MISS | – no-call | 31★ → 31★ |
 | [ertanyuksel/Argon-Exec-v2.4](https://github.com/ertanyuksel/Argon-Exec-v2.4) | ❔ LOW_CONF | ⛔ MISS | – no-call | 31★ → 31★ |
 | [realBlackICE/Xeno-Exec-v2.6](https://github.com/realBlackICE/Xeno-Exec-v2.6) | ❔ LOW_CONF | ⛔ MISS | – no-call | 31★ → 31★ |
-| [Martorix/Delta-Exec-v3.3](https://github.com/Martorix/Delta-Exec-v3.3) | ❔ LOW_CONF | ⛔ MISS | – no-call | 31★ → 31★ |
 
 ## Verify it yourself / 自分で検証
 
