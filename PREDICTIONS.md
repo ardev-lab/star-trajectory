@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-25 15:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-25 16:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,19 +8,19 @@ _Last updated: 2026-06-25 15:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 135/169 = 80%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+**Direction accuracy: 135/170 = 79%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
 Base rate (share of scored repos that actually reached the target): 20%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 11 | 219 | 199 | 20 |
+| count | 10 | 220 | 200 | 20 |
 
 Accuracy by phase at prediction time:
 
 | phase | directional calls | correct | accuracy |
 |---|---|---|---|
 | 1 launch | 49 | 34 | 69% |
-| 2 accel | 75 | 58 | 77% |
+| 2 accel | 76 | 58 | 76% |
 | 3 trajectory | 44 | 42 | 96% |
 | 4 maturity | 1 | 1 | 100% |
 
@@ -28,7 +28,6 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [y-times-y/y](https://github.com/y-times-y/y) | 41★ | 100★ | ✅ HIT_lean | accel | 2026-06-25T16:04:10Z |
 | [OverlapToucanRattle/Lossless-Scaling-Download-2026](https://github.com/OverlapToucanRattle/Lossless-Scaling-Download-2026) | 24★ | 100★ | ⛔ MISS_lean | launch | 2026-06-25T18:04:05Z |
 | [GenseeAI/gensee-crate](https://github.com/GenseeAI/gensee-crate) | 27★ | 100★ | ➖ BORDERLINE | launch | 2026-06-25T18:28:06Z |
 | [QwenLM/Qwen-AgentWorld](https://github.com/QwenLM/Qwen-AgentWorld) | 49★ | 100★ | ✅ HIT_lean | accel | 2026-06-26T03:22:09Z |
@@ -44,6 +43,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [y-times-y/y](https://github.com/y-times-y/y) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 41★ → 70★ |
 | [Kuddev/SMRmanager](https://github.com/Kuddev/SMRmanager) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 27★ → 27★ |
 | [vancyland/DataClaw0](https://github.com/vancyland/DataClaw0) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 47★ → 72★ |
 | [bikini/exploitarium](https://github.com/bikini/exploitarium) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 29★ → 43★ |
@@ -68,7 +68,6 @@ Accuracy by phase at prediction time:
 | [wangzhezbz/codex-bridge](https://github.com/wangzhezbz/codex-bridge) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 30★ → 40★ |
 | [HMDSimDev/heartmorrow](https://github.com/HMDSimDev/heartmorrow) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 34★ → 55★ |
 | [ertanyuksel/Wave-Exec-v3.2](https://github.com/ertanyuksel/Wave-Exec-v3.2) | ❔ LOW_CONF | ⛔ MISS | – no-call | 31★ → 31★ |
-| [Afridi477/Fluxus-Exec-v3.2](https://github.com/Afridi477/Fluxus-Exec-v3.2) | ❔ LOW_CONF | ⛔ MISS | – no-call | 31★ → 31★ |
 
 ## Verify it yourself / 自分で検証
 
