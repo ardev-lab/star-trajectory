@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-25 18:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-25 19:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -13,7 +13,7 @@ Base rate (share of scored repos that actually reached the target): 20%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 9 | 221 | 200 | 21 |
+| count | 8 | 222 | 201 | 21 |
 
 Accuracy by phase at prediction time:
 
@@ -28,7 +28,6 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [GenseeAI/gensee-crate](https://github.com/GenseeAI/gensee-crate) | 27★ | 100★ | ➖ BORDERLINE | launch | 2026-06-25T18:28:06Z |
 | [QwenLM/Qwen-AgentWorld](https://github.com/QwenLM/Qwen-AgentWorld) | 49★ | 100★ | ✅ HIT_lean | accel | 2026-06-26T03:22:09Z |
 | [tutusagi/ai-fishing-game](https://github.com/tutusagi/ai-fishing-game) | 24★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-26T04:34:06Z |
 | [JotaDev66/WaCalls](https://github.com/JotaDev66/WaCalls) | 49★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-26T05:34:08Z |
@@ -42,6 +41,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [GenseeAI/gensee-crate](https://github.com/GenseeAI/gensee-crate) | ➖ BORDERLINE | ⛔ MISS | – no-call | 27★ → 57★ |
 | [y-times-y/y](https://github.com/y-times-y/y) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 41★ → 70★ |
 | [Kuddev/SMRmanager](https://github.com/Kuddev/SMRmanager) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 27★ → 27★ |
 | [vancyland/DataClaw0](https://github.com/vancyland/DataClaw0) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 47★ → 72★ |
@@ -66,7 +66,6 @@ Accuracy by phase at prediction time:
 | [kabde/banner-manager-pro](https://github.com/kabde/banner-manager-pro) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 35★ → 36★ |
 | [wangzhezbz/codex-bridge](https://github.com/wangzhezbz/codex-bridge) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 30★ → 40★ |
 | [HMDSimDev/heartmorrow](https://github.com/HMDSimDev/heartmorrow) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 34★ → 55★ |
-| [ertanyuksel/Wave-Exec-v3.2](https://github.com/ertanyuksel/Wave-Exec-v3.2) | ❔ LOW_CONF | ⛔ MISS | – no-call | 31★ → 31★ |
 
 ## Verify it yourself / 自分で検証
 
