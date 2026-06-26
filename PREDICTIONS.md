@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-26 05:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-26 06:10 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,37 +8,45 @@ _Last updated: 2026-06-26 05:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 137/172 = 80%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+**Direction accuracy: 138/174 = 79%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
 Base rate (share of scored repos that actually reached the target): 20%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 6 | 224 | 203 | 21 |
+| count | 12 | 226 | 205 | 21 |
 
 Accuracy by phase at prediction time:
 
 | phase | directional calls | correct | accuracy |
 |---|---|---|---|
 | 1 launch | 49 | 34 | 69% |
-| 2 accel | 77 | 59 | 77% |
-| 3 trajectory | 45 | 43 | 96% |
+| 2 accel | 78 | 59 | 76% |
+| 3 trajectory | 46 | 44 | 96% |
 | 4 maturity | 1 | 1 | 100% |
 
 ## Open predictions (not yet decided)
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [JotaDev66/WaCalls](https://github.com/JotaDev66/WaCalls) | 49★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-26T05:34:08Z |
-| [HKUST-C4G/DomainShuttle](https://github.com/HKUST-C4G/DomainShuttle) | 52★ | 100★ | ✅ HIT_lean | accel | 2026-06-26T06:04:09Z |
 | [Neilooo/md-reader](https://github.com/Neilooo/md-reader) | 45★ | 100★ | ✅ HIT_lean | accel | 2026-06-26T07:10:04Z |
 | [amplifthq/opentag](https://github.com/amplifthq/opentag) | 36★ | 100★ | ⛔ MISS_lean | launch | 2026-06-26T08:04:03Z |
+| [ZeKaiNie/universal-examprep-skill](https://github.com/ZeKaiNie/universal-examprep-skill) | 83★ | 100★ | ➖ BORDERLINE | trajectory (sustain) | 2026-06-26T15:22:04Z |
+| [martinkoutecky/tine](https://github.com/martinkoutecky/tine) | 23★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-26T21:58:04Z |
 | [JimLiu/decode-codex](https://github.com/JimLiu/decode-codex) | 24★ | 100★ | ✅ HIT_lean | accel | 2026-06-27T02:22:03Z |
 | [DrizzleWalker/Lossless-Scaling-Download-2026](https://github.com/DrizzleWalker/Lossless-Scaling-Download-2026) | 38★ | 100★ | ❔ LOW_CONF | launch | 2026-06-27T05:22:07Z |
+| [PenghaoJiang/auto-paper-collecter](https://github.com/PenghaoJiang/auto-paper-collecter) | 28★ | 100★ | ⛔ MISS_lean | launch | 2026-06-27T06:10:03Z |
+| [angelicazabala121/Phoenix-Execut](https://github.com/angelicazabala121/Phoenix-Execut) | 79★ | 100★ | ❔ LOW_CONF | launch | 2026-06-27T18:52:05Z |
+| [Blacklem0nwater/Electron-Execut](https://github.com/Blacklem0nwater/Electron-Execut) | 79★ | 100★ | ❔ LOW_CONF | launch | 2026-06-27T18:52:06Z |
+| [SterlingTK74/Arcadia-Execut](https://github.com/SterlingTK74/Arcadia-Execut) | 79★ | 100★ | ❔ LOW_CONF | launch | 2026-06-27T18:52:06Z |
+| [TokataGh/Nihon-Execut](https://github.com/TokataGh/Nihon-Execut) | 79★ | 100★ | ❔ LOW_CONF | launch | 2026-06-27T18:52:07Z |
+| [SytanizedMain/Nihon-Execut](https://github.com/SytanizedMain/Nihon-Execut) | 79★ | 100★ | ❔ LOW_CONF | launch | 2026-06-27T18:52:08Z |
 
 ## Recently scored
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [HKUST-C4G/DomainShuttle](https://github.com/HKUST-C4G/DomainShuttle) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 52★ → 74★ |
+| [JotaDev66/WaCalls](https://github.com/JotaDev66/WaCalls) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 49★ → 61★ |
 | [tutusagi/ai-fishing-game](https://github.com/tutusagi/ai-fishing-game) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 24★ → 58★ |
 | [QwenLM/Qwen-AgentWorld](https://github.com/QwenLM/Qwen-AgentWorld) | ✅ HIT_lean | ✅ HIT | ✔ correct | 49★ → 506★ |
 | [GenseeAI/gensee-crate](https://github.com/GenseeAI/gensee-crate) | ➖ BORDERLINE | ⛔ MISS | – no-call | 27★ → 57★ |
@@ -62,8 +70,6 @@ Accuracy by phase at prediction time:
 | [ThisIsLittleSky/WaterPaper](https://github.com/ThisIsLittleSky/WaterPaper) | ➖ BORDERLINE | ⛔ MISS | – no-call | 41★ → 63★ |
 | [Francis1998/nexus-llm-router](https://github.com/Francis1998/nexus-llm-router) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 32★ → 33★ |
 | [MisterPezz82/Paprium_MegaDrive_MiSTer](https://github.com/MisterPezz82/Paprium_MegaDrive_MiSTer) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 22★ → 26★ |
-| [Forward-Future/DeployBot](https://github.com/Forward-Future/DeployBot) | ➖ BORDERLINE | ⛔ MISS | – no-call | 22★ → 40★ |
-| [kabde/banner-manager-pro](https://github.com/kabde/banner-manager-pro) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 35★ → 36★ |
 
 ## Verify it yourself / 自分で検証
 
