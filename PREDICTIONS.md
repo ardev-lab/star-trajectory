@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-26 16:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-26 22:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,12 +8,12 @@ _Last updated: 2026-06-26 16:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 138/176 = 78%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+**Direction accuracy: 139/177 = 78%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
 Base rate (share of scored repos that actually reached the target): 20%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 9 | 229 | 208 | 21 |
+| count | 8 | 230 | 209 | 21 |
 
 Accuracy by phase at prediction time:
 
@@ -21,14 +21,13 @@ Accuracy by phase at prediction time:
 |---|---|---|---|
 | 1 launch | 50 | 34 | 68% |
 | 2 accel | 79 | 59 | 75% |
-| 3 trajectory | 46 | 44 | 96% |
+| 3 trajectory | 47 | 45 | 96% |
 | 4 maturity | 1 | 1 | 100% |
 
 ## Open predictions (not yet decided)
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [martinkoutecky/tine](https://github.com/martinkoutecky/tine) | 23★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-26T21:58:04Z |
 | [JimLiu/decode-codex](https://github.com/JimLiu/decode-codex) | 24★ | 100★ | ✅ HIT_lean | accel | 2026-06-27T02:22:03Z |
 | [DrizzleWalker/Lossless-Scaling-Download-2026](https://github.com/DrizzleWalker/Lossless-Scaling-Download-2026) | 38★ | 100★ | ❔ LOW_CONF | launch | 2026-06-27T05:22:07Z |
 | [PenghaoJiang/auto-paper-collecter](https://github.com/PenghaoJiang/auto-paper-collecter) | 28★ | 100★ | ⛔ MISS_lean | launch | 2026-06-27T06:10:03Z |
@@ -42,6 +41,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [martinkoutecky/tine](https://github.com/martinkoutecky/tine) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 23★ → 35★ |
 | [ZeKaiNie/universal-examprep-skill](https://github.com/ZeKaiNie/universal-examprep-skill) | ➖ BORDERLINE | ⛔ MISS | – no-call | 83★ → 96★ |
 | [amplifthq/opentag](https://github.com/amplifthq/opentag) | ⛔ MISS_lean | ✅ HIT | ✗ WRONG | 36★ → 224★ |
 | [Neilooo/md-reader](https://github.com/Neilooo/md-reader) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 45★ → 58★ |
@@ -66,7 +66,6 @@ Accuracy by phase at prediction time:
 | [ladybug-me/caelestia-dots-kde](https://github.com/ladybug-me/caelestia-dots-kde) | ✅ HIT_lean | ✅ HIT | ✔ correct | 49★ → 122★ |
 | [lucid-softworks/browser](https://github.com/lucid-softworks/browser) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 31★ → 45★ |
 | [SarkAzia/baiyueguang-learning-skill](https://github.com/SarkAzia/baiyueguang-learning-skill) | ✅ HIT_lean | ✅ HIT | ✔ correct | 30★ → 175★ |
-| [Mirsmog/real-icons.nvim](https://github.com/Mirsmog/real-icons.nvim) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 33★ → 35★ |
 
 ## Verify it yourself / 自分で検証
 
