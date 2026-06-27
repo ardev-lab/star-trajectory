@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-27 12:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-27 19:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,19 +8,19 @@ _Last updated: 2026-06-27 12:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 141/180 = 78%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
-Base rate (share of scored repos that actually reached the target): 20%.
+**Direction accuracy: 142/181 = 78%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+Base rate (share of scored repos that actually reached the target): 19%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 12 | 234 | 212 | 22 |
+| count | 6 | 240 | 217 | 23 |
 
 Accuracy by phase at prediction time:
 
 | phase | directional calls | correct | accuracy |
 |---|---|---|---|
 | 1 launch | 51 | 35 | 69% |
-| 2 accel | 80 | 59 | 74% |
+| 2 accel | 81 | 60 | 74% |
 | 3 trajectory | 48 | 46 | 96% |
 | 4 maturity | 1 | 1 | 100% |
 
@@ -28,12 +28,6 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [angelicazabala121/Phoenix-Execut](https://github.com/angelicazabala121/Phoenix-Execut) | 79★ | 100★ | ❔ LOW_CONF | launch | 2026-06-27T18:52:05Z |
-| [Blacklem0nwater/Electron-Execut](https://github.com/Blacklem0nwater/Electron-Execut) | 79★ | 100★ | ❔ LOW_CONF | launch | 2026-06-27T18:52:06Z |
-| [SterlingTK74/Arcadia-Execut](https://github.com/SterlingTK74/Arcadia-Execut) | 79★ | 100★ | ❔ LOW_CONF | launch | 2026-06-27T18:52:06Z |
-| [TokataGh/Nihon-Execut](https://github.com/TokataGh/Nihon-Execut) | 79★ | 100★ | ❔ LOW_CONF | launch | 2026-06-27T18:52:07Z |
-| [SytanizedMain/Nihon-Execut](https://github.com/SytanizedMain/Nihon-Execut) | 79★ | 100★ | ❔ LOW_CONF | launch | 2026-06-27T18:52:08Z |
-| [just-be-dev/effect-typed-id](https://github.com/just-be-dev/effect-typed-id) | 24★ | 100★ | ⛔ MISS_lean | accel | 2026-06-27T18:58:07Z |
 | [crafter-station/build4venezuela](https://github.com/crafter-station/build4venezuela) | 26★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-28T05:58:07Z |
 | [arya51-ai/obsidian-vault-sync](https://github.com/arya51-ai/obsidian-vault-sync) | 35★ | 100★ | ⛔ MISS_lean | launch | 2026-06-28T10:52:04Z |
 | [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec) | 72★ | 100★ | ✅ HIT_lean | accel | 2026-06-28T12:34:05Z |
@@ -45,6 +39,11 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [SytanizedMain/Nihon-Execut](https://github.com/SytanizedMain/Nihon-Execut) | ❔ LOW_CONF | ⛔ MISS | – no-call | 79★ → 8★ |
+| [just-be-dev/effect-typed-id](https://github.com/just-be-dev/effect-typed-id) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 24★ → 26★ |
+| [SterlingTK74/Arcadia-Execut](https://github.com/SterlingTK74/Arcadia-Execut) | ❔ LOW_CONF | ⛔ MISS | – no-call | 79★ → 8★ |
+| [angelicazabala121/Phoenix-Execut](https://github.com/angelicazabala121/Phoenix-Execut) | ❔ LOW_CONF | ⛔ MISS | – no-call | 79★ → 8★ |
+| [Blacklem0nwater/Electron-Execut](https://github.com/Blacklem0nwater/Electron-Execut) | ❔ LOW_CONF | ⛔ MISS | – no-call | 79★ → 8★ |
 | [codertesla/ai-coding-deals](https://github.com/codertesla/ai-coding-deals) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 28★ → 33★ |
 | [PenghaoJiang/auto-paper-collecter](https://github.com/PenghaoJiang/auto-paper-collecter) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 28★ → 31★ |
 | [JimLiu/decode-codex](https://github.com/JimLiu/decode-codex) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 24★ → 75★ |
@@ -65,11 +64,6 @@ Accuracy by phase at prediction time:
 | [NVIDIA-BioNeMo/bionemo-agent-toolkit](https://github.com/NVIDIA-BioNeMo/bionemo-agent-toolkit) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 56★ → 99★ |
 | [krea-ai/krea-2](https://github.com/krea-ai/krea-2) | ✅ HIT_lean | ✅ HIT | ✔ correct | 62★ → 171★ |
 | [xenodium/ytr](https://github.com/xenodium/ytr) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 22★ → 49★ |
-| [i5ting/learn-ai-practice](https://github.com/i5ting/learn-ai-practice) | ✅ HIT_lean | ✅ HIT | ✔ correct | 90★ → 160★ |
-| [JayWebtech/autoshorts](https://github.com/JayWebtech/autoshorts) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 41★ → 80★ |
-| [ccrpRepo/robot_retargeter](https://github.com/ccrpRepo/robot_retargeter) | ➖ BORDERLINE | ✅ HIT | – no-call | 58★ → 116★ |
-| [sanqianzilanyue-commits/claude-p-save-tokens](https://github.com/sanqianzilanyue-commits/claude-p-save-tokens) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 21★ → 38★ |
-| [ekkoee/thelimitsofmylanguagemeanthelimitsofmyworld](https://github.com/ekkoee/thelimitsofmylanguagemeanthelimitsofmyworld) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 21★ → 21★ |
 
 ## Verify it yourself / 自分で検証
 
