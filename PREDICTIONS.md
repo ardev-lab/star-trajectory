@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-27 03:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-27 06:10 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,18 +8,18 @@ _Last updated: 2026-06-27 03:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 139/178 = 78%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+**Direction accuracy: 140/179 = 78%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
 Base rate (share of scored repos that actually reached the target): 20%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 7 | 231 | 210 | 21 |
+| count | 13 | 233 | 211 | 22 |
 
 Accuracy by phase at prediction time:
 
 | phase | directional calls | correct | accuracy |
 |---|---|---|---|
-| 1 launch | 50 | 34 | 68% |
+| 1 launch | 51 | 35 | 69% |
 | 2 accel | 80 | 59 | 74% |
 | 3 trajectory | 47 | 45 | 96% |
 | 4 maturity | 1 | 1 | 100% |
@@ -28,18 +28,25 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [DrizzleWalker/Lossless-Scaling-Download-2026](https://github.com/DrizzleWalker/Lossless-Scaling-Download-2026) | 38★ | 100★ | ❔ LOW_CONF | launch | 2026-06-27T05:22:07Z |
-| [PenghaoJiang/auto-paper-collecter](https://github.com/PenghaoJiang/auto-paper-collecter) | 28★ | 100★ | ⛔ MISS_lean | launch | 2026-06-27T06:10:03Z |
+| [codertesla/ai-coding-deals](https://github.com/codertesla/ai-coding-deals) | 28★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-27T11:22:03Z |
 | [angelicazabala121/Phoenix-Execut](https://github.com/angelicazabala121/Phoenix-Execut) | 79★ | 100★ | ❔ LOW_CONF | launch | 2026-06-27T18:52:05Z |
 | [Blacklem0nwater/Electron-Execut](https://github.com/Blacklem0nwater/Electron-Execut) | 79★ | 100★ | ❔ LOW_CONF | launch | 2026-06-27T18:52:06Z |
 | [SterlingTK74/Arcadia-Execut](https://github.com/SterlingTK74/Arcadia-Execut) | 79★ | 100★ | ❔ LOW_CONF | launch | 2026-06-27T18:52:06Z |
 | [TokataGh/Nihon-Execut](https://github.com/TokataGh/Nihon-Execut) | 79★ | 100★ | ❔ LOW_CONF | launch | 2026-06-27T18:52:07Z |
 | [SytanizedMain/Nihon-Execut](https://github.com/SytanizedMain/Nihon-Execut) | 79★ | 100★ | ❔ LOW_CONF | launch | 2026-06-27T18:52:08Z |
+| [just-be-dev/effect-typed-id](https://github.com/just-be-dev/effect-typed-id) | 24★ | 100★ | ⛔ MISS_lean | accel | 2026-06-27T18:58:07Z |
+| [crafter-station/build4venezuela](https://github.com/crafter-station/build4venezuela) | 26★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-28T05:58:07Z |
+| [arya51-ai/obsidian-vault-sync](https://github.com/arya51-ai/obsidian-vault-sync) | 35★ | 100★ | ⛔ MISS_lean | launch | 2026-06-28T10:52:04Z |
+| [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec) | 72★ | 100★ | ✅ HIT_lean | accel | 2026-06-28T12:34:05Z |
+| [Kiya682/meccha-chameleon-ecore-plus](https://github.com/Kiya682/meccha-chameleon-ecore-plus) | 46★ | 100★ | ❔ LOW_CONF | accel | 2026-06-28T14:28:06Z |
+| [Josipaka2000/Flash-USDT-Tool](https://github.com/Josipaka2000/Flash-USDT-Tool) | 93★ | 100★ | ✅ HIT_lean | launch | 2026-06-28T23:22:08Z |
+| [tdeverx/contained-app](https://github.com/tdeverx/contained-app) | 21★ | 100★ | ✅ HIT_lean | accel | 2026-06-29T01:34:04Z |
 
 ## Recently scored
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [PenghaoJiang/auto-paper-collecter](https://github.com/PenghaoJiang/auto-paper-collecter) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 28★ → 31★ |
 | [JimLiu/decode-codex](https://github.com/JimLiu/decode-codex) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 24★ → 75★ |
 | [martinkoutecky/tine](https://github.com/martinkoutecky/tine) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 23★ → 35★ |
 | [ZeKaiNie/universal-examprep-skill](https://github.com/ZeKaiNie/universal-examprep-skill) | ➖ BORDERLINE | ⛔ MISS | – no-call | 83★ → 96★ |
@@ -64,7 +71,6 @@ Accuracy by phase at prediction time:
 | [sanqianzilanyue-commits/claude-p-save-tokens](https://github.com/sanqianzilanyue-commits/claude-p-save-tokens) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 21★ → 38★ |
 | [ekkoee/thelimitsofmylanguagemeanthelimitsofmyworld](https://github.com/ekkoee/thelimitsofmylanguagemeanthelimitsofmyworld) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 21★ → 21★ |
 | [ladybug-me/caelestia-dots-kde](https://github.com/ladybug-me/caelestia-dots-kde) | ✅ HIT_lean | ✅ HIT | ✔ correct | 49★ → 122★ |
-| [lucid-softworks/browser](https://github.com/lucid-softworks/browser) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 31★ → 45★ |
 
 ## Verify it yourself / 自分で検証
 
