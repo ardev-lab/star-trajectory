@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-28 06:10 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-28 09:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,19 +8,19 @@ _Last updated: 2026-06-28 06:10 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 143/182 = 79%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+**Direction accuracy: 143/183 = 78%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
 Base rate (share of scored repos that actually reached the target): 19%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 13 | 241 | 218 | 23 |
+| count | 12 | 242 | 219 | 23 |
 
 Accuracy by phase at prediction time:
 
 | phase | directional calls | correct | accuracy |
 |---|---|---|---|
 | 1 launch | 51 | 35 | 69% |
-| 2 accel | 81 | 60 | 74% |
+| 2 accel | 82 | 60 | 73% |
 | 3 trajectory | 49 | 47 | 96% |
 | 4 maturity | 1 | 1 | 100% |
 
@@ -28,7 +28,6 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [donoaccestag/forex-mt5-trading-bot](https://github.com/donoaccestag/forex-mt5-trading-bot) | 55★ | 100★ | ✅ HIT_lean | accel | 2026-06-28T08:46:07Z |
 | [ggangix/localizados-venezuela](https://github.com/ggangix/localizados-venezuela) | 26★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-28T10:46:06Z |
 | [arya51-ai/obsidian-vault-sync](https://github.com/arya51-ai/obsidian-vault-sync) | 35★ | 100★ | ⛔ MISS_lean | launch | 2026-06-28T10:52:04Z |
 | [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec) | 72★ | 100★ | ✅ HIT_lean | accel | 2026-06-28T12:34:05Z |
@@ -46,6 +45,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [donoaccestag/forex-mt5-trading-bot](https://github.com/donoaccestag/forex-mt5-trading-bot) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 55★ → 55★ |
 | [crafter-station/build4venezuela](https://github.com/crafter-station/build4venezuela) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 26★ → 38★ |
 | [SytanizedMain/Nihon-Execut](https://github.com/SytanizedMain/Nihon-Execut) | ❔ LOW_CONF | ⛔ MISS | – no-call | 79★ → 8★ |
 | [just-be-dev/effect-typed-id](https://github.com/just-be-dev/effect-typed-id) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 24★ → 26★ |
@@ -70,7 +70,6 @@ Accuracy by phase at prediction time:
 | [bikini/exploitarium](https://github.com/bikini/exploitarium) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 29★ → 43★ |
 | [Pulsedesrace/Wilonity-exploit](https://github.com/Pulsedesrace/Wilonity-exploit) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 34★ → 34★ |
 | [NVIDIA-BioNeMo/bionemo-agent-toolkit](https://github.com/NVIDIA-BioNeMo/bionemo-agent-toolkit) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 56★ → 99★ |
-| [krea-ai/krea-2](https://github.com/krea-ai/krea-2) | ✅ HIT_lean | ✅ HIT | ✔ correct | 62★ → 171★ |
 
 ## Verify it yourself / 自分で検証
 
