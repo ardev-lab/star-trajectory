@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-27 19:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-28 06:10 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,12 +8,12 @@ _Last updated: 2026-06-27 19:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 142/181 = 78%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+**Direction accuracy: 143/182 = 79%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
 Base rate (share of scored repos that actually reached the target): 19%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 6 | 240 | 217 | 23 |
+| count | 13 | 241 | 218 | 23 |
 
 Accuracy by phase at prediction time:
 
@@ -21,24 +21,32 @@ Accuracy by phase at prediction time:
 |---|---|---|---|
 | 1 launch | 51 | 35 | 69% |
 | 2 accel | 81 | 60 | 74% |
-| 3 trajectory | 48 | 46 | 96% |
+| 3 trajectory | 49 | 47 | 96% |
 | 4 maturity | 1 | 1 | 100% |
 
 ## Open predictions (not yet decided)
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [crafter-station/build4venezuela](https://github.com/crafter-station/build4venezuela) | 26★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-28T05:58:07Z |
+| [donoaccestag/forex-mt5-trading-bot](https://github.com/donoaccestag/forex-mt5-trading-bot) | 55★ | 100★ | ✅ HIT_lean | accel | 2026-06-28T08:46:07Z |
+| [ggangix/localizados-venezuela](https://github.com/ggangix/localizados-venezuela) | 26★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-28T10:46:06Z |
 | [arya51-ai/obsidian-vault-sync](https://github.com/arya51-ai/obsidian-vault-sync) | 35★ | 100★ | ⛔ MISS_lean | launch | 2026-06-28T10:52:04Z |
 | [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec) | 72★ | 100★ | ✅ HIT_lean | accel | 2026-06-28T12:34:05Z |
+| [lucianodiisouza/semaphore](https://github.com/lucianodiisouza/semaphore) | 29★ | 100★ | ⛔ MISS_lean | accel | 2026-06-28T13:10:08Z |
 | [Kiya682/meccha-chameleon-ecore-plus](https://github.com/Kiya682/meccha-chameleon-ecore-plus) | 46★ | 100★ | ❔ LOW_CONF | accel | 2026-06-28T14:28:06Z |
+| [mayank953/Live-Class-2026](https://github.com/mayank953/Live-Class-2026) | 22★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-28T20:22:04Z |
 | [Josipaka2000/Flash-USDT-Tool](https://github.com/Josipaka2000/Flash-USDT-Tool) | 93★ | 100★ | ✅ HIT_lean | launch | 2026-06-28T23:22:08Z |
 | [tdeverx/contained-app](https://github.com/tdeverx/contained-app) | 21★ | 100★ | ✅ HIT_lean | accel | 2026-06-29T01:34:04Z |
+| [SPLYASHKA/lampy.nvim](https://github.com/SPLYASHKA/lampy.nvim) | 20★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-29T05:46:07Z |
+| [wundercorp/awesome-components](https://github.com/wundercorp/awesome-components) | 65★ | 100★ | ✅ HIT_lean | launch | 2026-06-29T10:28:06Z |
+| [hikariming/github-roast](https://github.com/hikariming/github-roast) | 22★ | 100★ | ⛔ MISS_lean | accel | 2026-06-29T14:58:04Z |
+| [nutdnuy/quant-investment-papers](https://github.com/nutdnuy/quant-investment-papers) | 29★ | 100★ | ✅ HIT_lean | accel | 2026-06-30T01:22:03Z |
 
 ## Recently scored
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [crafter-station/build4venezuela](https://github.com/crafter-station/build4venezuela) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 26★ → 38★ |
 | [SytanizedMain/Nihon-Execut](https://github.com/SytanizedMain/Nihon-Execut) | ❔ LOW_CONF | ⛔ MISS | – no-call | 79★ → 8★ |
 | [just-be-dev/effect-typed-id](https://github.com/just-be-dev/effect-typed-id) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 24★ → 26★ |
 | [SterlingTK74/Arcadia-Execut](https://github.com/SterlingTK74/Arcadia-Execut) | ❔ LOW_CONF | ⛔ MISS | – no-call | 79★ → 8★ |
@@ -63,7 +71,6 @@ Accuracy by phase at prediction time:
 | [Pulsedesrace/Wilonity-exploit](https://github.com/Pulsedesrace/Wilonity-exploit) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 34★ → 34★ |
 | [NVIDIA-BioNeMo/bionemo-agent-toolkit](https://github.com/NVIDIA-BioNeMo/bionemo-agent-toolkit) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 56★ → 99★ |
 | [krea-ai/krea-2](https://github.com/krea-ai/krea-2) | ✅ HIT_lean | ✅ HIT | ✔ correct | 62★ → 171★ |
-| [xenodium/ytr](https://github.com/xenodium/ytr) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 22★ → 49★ |
 
 ## Verify it yourself / 自分で検証
 
