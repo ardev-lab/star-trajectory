@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-28 11:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-28 13:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,19 +8,19 @@ _Last updated: 2026-06-28 11:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 145/185 = 78%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+**Direction accuracy: 147/187 = 79%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
 Base rate (share of scored repos that actually reached the target): 19%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 10 | 244 | 221 | 23 |
+| count | 8 | 246 | 223 | 23 |
 
 Accuracy by phase at prediction time:
 
 | phase | directional calls | correct | accuracy |
 |---|---|---|---|
 | 1 launch | 52 | 36 | 69% |
-| 2 accel | 82 | 60 | 73% |
+| 2 accel | 84 | 62 | 74% |
 | 3 trajectory | 50 | 48 | 96% |
 | 4 maturity | 1 | 1 | 100% |
 
@@ -28,8 +28,6 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec) | 72★ | 100★ | ✅ HIT_lean | accel | 2026-06-28T12:34:05Z |
-| [lucianodiisouza/semaphore](https://github.com/lucianodiisouza/semaphore) | 29★ | 100★ | ⛔ MISS_lean | accel | 2026-06-28T13:10:08Z |
 | [Kiya682/meccha-chameleon-ecore-plus](https://github.com/Kiya682/meccha-chameleon-ecore-plus) | 46★ | 100★ | ❔ LOW_CONF | accel | 2026-06-28T14:28:06Z |
 | [mayank953/Live-Class-2026](https://github.com/mayank953/Live-Class-2026) | 22★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-28T20:22:04Z |
 | [Josipaka2000/Flash-USDT-Tool](https://github.com/Josipaka2000/Flash-USDT-Tool) | 93★ | 100★ | ✅ HIT_lean | launch | 2026-06-28T23:22:08Z |
@@ -43,6 +41,8 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec) | ✅ HIT_lean | ✅ HIT | ✔ correct | 72★ → 1813★ |
+| [lucianodiisouza/semaphore](https://github.com/lucianodiisouza/semaphore) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 29★ → 29★ |
 | [arya51-ai/obsidian-vault-sync](https://github.com/arya51-ai/obsidian-vault-sync) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 35★ → 48★ |
 | [ggangix/localizados-venezuela](https://github.com/ggangix/localizados-venezuela) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 26★ → 26★ |
 | [donoaccestag/forex-mt5-trading-bot](https://github.com/donoaccestag/forex-mt5-trading-bot) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 55★ → 55★ |
@@ -66,8 +66,6 @@ Accuracy by phase at prediction time:
 | [GenseeAI/gensee-crate](https://github.com/GenseeAI/gensee-crate) | ➖ BORDERLINE | ⛔ MISS | – no-call | 27★ → 57★ |
 | [y-times-y/y](https://github.com/y-times-y/y) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 41★ → 70★ |
 | [Kuddev/SMRmanager](https://github.com/Kuddev/SMRmanager) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 27★ → 27★ |
-| [vancyland/DataClaw0](https://github.com/vancyland/DataClaw0) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 47★ → 72★ |
-| [bikini/exploitarium](https://github.com/bikini/exploitarium) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 29★ → 43★ |
 
 ## Verify it yourself / 自分で検証
 
