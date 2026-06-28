@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-28 09:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-28 11:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,28 +8,26 @@ _Last updated: 2026-06-28 09:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 143/183 = 78%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+**Direction accuracy: 145/185 = 78%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
 Base rate (share of scored repos that actually reached the target): 19%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 12 | 242 | 219 | 23 |
+| count | 10 | 244 | 221 | 23 |
 
 Accuracy by phase at prediction time:
 
 | phase | directional calls | correct | accuracy |
 |---|---|---|---|
-| 1 launch | 51 | 35 | 69% |
+| 1 launch | 52 | 36 | 69% |
 | 2 accel | 82 | 60 | 73% |
-| 3 trajectory | 49 | 47 | 96% |
+| 3 trajectory | 50 | 48 | 96% |
 | 4 maturity | 1 | 1 | 100% |
 
 ## Open predictions (not yet decided)
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [ggangix/localizados-venezuela](https://github.com/ggangix/localizados-venezuela) | 26★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-28T10:46:06Z |
-| [arya51-ai/obsidian-vault-sync](https://github.com/arya51-ai/obsidian-vault-sync) | 35★ | 100★ | ⛔ MISS_lean | launch | 2026-06-28T10:52:04Z |
 | [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec) | 72★ | 100★ | ✅ HIT_lean | accel | 2026-06-28T12:34:05Z |
 | [lucianodiisouza/semaphore](https://github.com/lucianodiisouza/semaphore) | 29★ | 100★ | ⛔ MISS_lean | accel | 2026-06-28T13:10:08Z |
 | [Kiya682/meccha-chameleon-ecore-plus](https://github.com/Kiya682/meccha-chameleon-ecore-plus) | 46★ | 100★ | ❔ LOW_CONF | accel | 2026-06-28T14:28:06Z |
@@ -45,6 +43,8 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [arya51-ai/obsidian-vault-sync](https://github.com/arya51-ai/obsidian-vault-sync) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 35★ → 48★ |
+| [ggangix/localizados-venezuela](https://github.com/ggangix/localizados-venezuela) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 26★ → 26★ |
 | [donoaccestag/forex-mt5-trading-bot](https://github.com/donoaccestag/forex-mt5-trading-bot) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 55★ → 55★ |
 | [crafter-station/build4venezuela](https://github.com/crafter-station/build4venezuela) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 26★ → 38★ |
 | [SytanizedMain/Nihon-Execut](https://github.com/SytanizedMain/Nihon-Execut) | ❔ LOW_CONF | ⛔ MISS | – no-call | 79★ → 8★ |
@@ -68,8 +68,6 @@ Accuracy by phase at prediction time:
 | [Kuddev/SMRmanager](https://github.com/Kuddev/SMRmanager) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 27★ → 27★ |
 | [vancyland/DataClaw0](https://github.com/vancyland/DataClaw0) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 47★ → 72★ |
 | [bikini/exploitarium](https://github.com/bikini/exploitarium) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 29★ → 43★ |
-| [Pulsedesrace/Wilonity-exploit](https://github.com/Pulsedesrace/Wilonity-exploit) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 34★ → 34★ |
-| [NVIDIA-BioNeMo/bionemo-agent-toolkit](https://github.com/NVIDIA-BioNeMo/bionemo-agent-toolkit) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 56★ → 99★ |
 
 ## Verify it yourself / 自分で検証
 
