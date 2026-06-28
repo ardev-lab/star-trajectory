@@ -5697,11 +5697,11 @@
     "arrival_archetype": "community_share_spike",
     "authenticity": "MEDIUM",
     "tool_version": "0.1.0",
-    "status": "open",
-    "outcome": null,
-    "actual_stars_at_deadline": null,
-    "direction_correct": null,
-    "scored_at_utc": null
+    "status": "scored",
+    "outcome": "MISS",
+    "actual_stars_at_deadline": 25,
+    "direction_correct": true,
+    "scored_at_utc": "2026-06-28T21:20:02Z"
   },
   {
     "repo": "hikariming/github-roast",

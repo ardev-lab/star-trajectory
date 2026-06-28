@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-28 15:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-28 21:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,12 +8,12 @@ _Last updated: 2026-06-28 15:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 147/187 = 79%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+**Direction accuracy: 148/188 = 79%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
 Base rate (share of scored repos that actually reached the target): 19%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 7 | 247 | 224 | 23 |
+| count | 6 | 248 | 225 | 23 |
 
 Accuracy by phase at prediction time:
 
@@ -21,14 +21,13 @@ Accuracy by phase at prediction time:
 |---|---|---|---|
 | 1 launch | 52 | 36 | 69% |
 | 2 accel | 84 | 62 | 74% |
-| 3 trajectory | 50 | 48 | 96% |
+| 3 trajectory | 51 | 49 | 96% |
 | 4 maturity | 1 | 1 | 100% |
 
 ## Open predictions (not yet decided)
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [mayank953/Live-Class-2026](https://github.com/mayank953/Live-Class-2026) | 22★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-28T20:22:04Z |
 | [Josipaka2000/Flash-USDT-Tool](https://github.com/Josipaka2000/Flash-USDT-Tool) | 93★ | 100★ | ✅ HIT_lean | launch | 2026-06-28T23:22:08Z |
 | [tdeverx/contained-app](https://github.com/tdeverx/contained-app) | 21★ | 100★ | ✅ HIT_lean | accel | 2026-06-29T01:34:04Z |
 | [SPLYASHKA/lampy.nvim](https://github.com/SPLYASHKA/lampy.nvim) | 20★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-29T05:46:07Z |
@@ -40,6 +39,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [mayank953/Live-Class-2026](https://github.com/mayank953/Live-Class-2026) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 22★ → 25★ |
 | [Kiya682/meccha-chameleon-ecore-plus](https://github.com/Kiya682/meccha-chameleon-ecore-plus) | ❔ LOW_CONF | ⛔ MISS | – no-call | 46★ → 73★ |
 | [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec) | ✅ HIT_lean | ✅ HIT | ✔ correct | 72★ → 1813★ |
 | [lucianodiisouza/semaphore](https://github.com/lucianodiisouza/semaphore) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 29★ → 29★ |
@@ -64,7 +64,6 @@ Accuracy by phase at prediction time:
 | [tutusagi/ai-fishing-game](https://github.com/tutusagi/ai-fishing-game) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 24★ → 58★ |
 | [QwenLM/Qwen-AgentWorld](https://github.com/QwenLM/Qwen-AgentWorld) | ✅ HIT_lean | ✅ HIT | ✔ correct | 49★ → 506★ |
 | [GenseeAI/gensee-crate](https://github.com/GenseeAI/gensee-crate) | ➖ BORDERLINE | ⛔ MISS | – no-call | 27★ → 57★ |
-| [y-times-y/y](https://github.com/y-times-y/y) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 41★ → 70★ |
 
 ## Verify it yourself / 自分で検証
 
