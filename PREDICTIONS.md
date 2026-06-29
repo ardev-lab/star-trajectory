@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-29 02:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-29 06:10 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,12 +8,12 @@ _Last updated: 2026-06-29 02:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 149/190 = 78%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+**Direction accuracy: 150/191 = 78%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
 Base rate (share of scored repos that actually reached the target): 19%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 4 | 250 | 227 | 23 |
+| count | 11 | 251 | 228 | 23 |
 
 Accuracy by phase at prediction time:
 
@@ -21,22 +21,30 @@ Accuracy by phase at prediction time:
 |---|---|---|---|
 | 1 launch | 53 | 36 | 68% |
 | 2 accel | 85 | 63 | 74% |
-| 3 trajectory | 51 | 49 | 96% |
+| 3 trajectory | 52 | 50 | 96% |
 | 4 maturity | 1 | 1 | 100% |
 
 ## Open predictions (not yet decided)
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [SPLYASHKA/lampy.nvim](https://github.com/SPLYASHKA/lampy.nvim) | 20★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-06-29T05:46:07Z |
 | [wundercorp/awesome-components](https://github.com/wundercorp/awesome-components) | 65★ | 100★ | ✅ HIT_lean | launch | 2026-06-29T10:28:06Z |
 | [hikariming/github-roast](https://github.com/hikariming/github-roast) | 22★ | 100★ | ⛔ MISS_lean | accel | 2026-06-29T14:58:04Z |
 | [nutdnuy/quant-investment-papers](https://github.com/nutdnuy/quant-investment-papers) | 29★ | 100★ | ✅ HIT_lean | accel | 2026-06-30T01:22:03Z |
+| [Doctxing/aSuspect](https://github.com/Doctxing/aSuspect) | 23★ | 100★ | ⛔ MISS_lean | launch | 2026-06-30T06:22:06Z |
+| [Nofgalsta/Fluxus-Execut-Update](https://github.com/Nofgalsta/Fluxus-Execut-Update) | 35★ | 100★ | ❔ LOW_CONF | launch | 2026-06-30T19:22:04Z |
+| [Arzhik/Swift-Execut-Update](https://github.com/Arzhik/Swift-Execut-Update) | 35★ | 100★ | ❔ LOW_CONF | launch | 2026-06-30T19:22:05Z |
+| [Donut2468/Seliware-Execut-Update](https://github.com/Donut2468/Seliware-Execut-Update) | 35★ | 100★ | ❔ LOW_CONF | launch | 2026-06-30T19:22:05Z |
+| [FrankOspina/Thunder-Execut-Update](https://github.com/FrankOspina/Thunder-Execut-Update) | 35★ | 100★ | ❔ LOW_CONF | launch | 2026-06-30T19:22:06Z |
+| [ruiperez-star/Celery-Execut-Update](https://github.com/ruiperez-star/Celery-Execut-Update) | 35★ | 100★ | ❔ LOW_CONF | launch | 2026-06-30T19:22:07Z |
+| [lojadodesmanche50-ai/Celery-Execut-Update](https://github.com/lojadodesmanche50-ai/Celery-Execut-Update) | 35★ | 100★ | ❔ LOW_CONF | launch | 2026-06-30T19:22:08Z |
+| [kokoknut564/Seliware-Execut-Update](https://github.com/kokoknut564/Seliware-Execut-Update) | 35★ | 100★ | ❔ LOW_CONF | launch | 2026-06-30T19:22:08Z |
 
 ## Recently scored
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [SPLYASHKA/lampy.nvim](https://github.com/SPLYASHKA/lampy.nvim) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 20★ → 22★ |
 | [tdeverx/contained-app](https://github.com/tdeverx/contained-app) | ✅ HIT_lean | ✅ HIT | ✔ correct | 21★ → 174★ |
 | [Josipaka2000/Flash-USDT-Tool](https://github.com/Josipaka2000/Flash-USDT-Tool) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 93★ → 93★ |
 | [mayank953/Live-Class-2026](https://github.com/mayank953/Live-Class-2026) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 22★ → 25★ |
@@ -61,7 +69,6 @@ Accuracy by phase at prediction time:
 | [Neilooo/md-reader](https://github.com/Neilooo/md-reader) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 45★ → 58★ |
 | [HKUST-C4G/DomainShuttle](https://github.com/HKUST-C4G/DomainShuttle) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 52★ → 74★ |
 | [JotaDev66/WaCalls](https://github.com/JotaDev66/WaCalls) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 49★ → 61★ |
-| [tutusagi/ai-fishing-game](https://github.com/tutusagi/ai-fishing-game) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 24★ → 58★ |
 
 ## Verify it yourself / 自分で検証
 
