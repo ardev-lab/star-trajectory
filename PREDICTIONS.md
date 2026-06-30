@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-30 02:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-30 06:10 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -13,7 +13,7 @@ Base rate (share of scored repos that actually reached the target): 19%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 8 | 254 | 231 | 23 |
+| count | 16 | 254 | 231 | 23 |
 
 Accuracy by phase at prediction time:
 
@@ -29,13 +29,21 @@ Accuracy by phase at prediction time:
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
 | [Doctxing/aSuspect](https://github.com/Doctxing/aSuspect) | 23★ | 100★ | ⛔ MISS_lean | launch | 2026-06-30T06:22:06Z |
+| [dripgang0707/Synapse-Execut-Update](https://github.com/dripgang0707/Synapse-Execut-Update) | 35★ | 100★ | ❔ LOW_CONF | accel | 2026-06-30T19:22:03Z |
 | [Nofgalsta/Fluxus-Execut-Update](https://github.com/Nofgalsta/Fluxus-Execut-Update) | 35★ | 100★ | ❔ LOW_CONF | launch | 2026-06-30T19:22:04Z |
+| [ceferpe98/Phoenix-Execut-Update](https://github.com/ceferpe98/Phoenix-Execut-Update) | 35★ | 100★ | ❔ LOW_CONF | accel | 2026-06-30T19:22:04Z |
 | [Arzhik/Swift-Execut-Update](https://github.com/Arzhik/Swift-Execut-Update) | 35★ | 100★ | ❔ LOW_CONF | launch | 2026-06-30T19:22:05Z |
 | [Donut2468/Seliware-Execut-Update](https://github.com/Donut2468/Seliware-Execut-Update) | 35★ | 100★ | ❔ LOW_CONF | launch | 2026-06-30T19:22:05Z |
+| [collinmac1/Wave-Execut-Update](https://github.com/collinmac1/Wave-Execut-Update) | 35★ | 100★ | ❔ LOW_CONF | accel | 2026-06-30T19:22:05Z |
+| [nikhil-Rajpoot20/Solara-Execut-Update](https://github.com/nikhil-Rajpoot20/Solara-Execut-Update) | 35★ | 100★ | ❔ LOW_CONF | accel | 2026-06-30T19:22:05Z |
 | [FrankOspina/Thunder-Execut-Update](https://github.com/FrankOspina/Thunder-Execut-Update) | 35★ | 100★ | ❔ LOW_CONF | launch | 2026-06-30T19:22:06Z |
 | [ruiperez-star/Celery-Execut-Update](https://github.com/ruiperez-star/Celery-Execut-Update) | 35★ | 100★ | ❔ LOW_CONF | launch | 2026-06-30T19:22:07Z |
+| [aztechofficial0-ops/Seliware-Execut-Update](https://github.com/aztechofficial0-ops/Seliware-Execut-Update) | 35★ | 100★ | ❔ LOW_CONF | accel | 2026-06-30T19:22:07Z |
 | [lojadodesmanche50-ai/Celery-Execut-Update](https://github.com/lojadodesmanche50-ai/Celery-Execut-Update) | 35★ | 100★ | ❔ LOW_CONF | launch | 2026-06-30T19:22:08Z |
 | [kokoknut564/Seliware-Execut-Update](https://github.com/kokoknut564/Seliware-Execut-Update) | 35★ | 100★ | ❔ LOW_CONF | launch | 2026-06-30T19:22:08Z |
+| [sino352/Wave-Execut-Update](https://github.com/sino352/Wave-Execut-Update) | 35★ | 100★ | ❔ LOW_CONF | accel | 2026-06-30T19:22:08Z |
+| [tonyd2wild/DeepSeek-v4-Flash-DSpark-1M-NVFP4-KV-2x-DGX-Spark](https://github.com/tonyd2wild/DeepSeek-v4-Flash-DSpark-1M-NVFP4-KV-2x-DGX-Spark) | 43★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-07-01T02:52:06Z |
+| [Sophomoresty/gemini-search-mcp](https://github.com/Sophomoresty/gemini-search-mcp) | 66★ | 100★ | ✅ HIT_lean | accel | 2026-07-01T13:16:06Z |
 
 ## Recently scored
 
