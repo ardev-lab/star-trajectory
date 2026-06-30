@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-30 07:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-06-30 20:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -9,11 +9,11 @@ _Last updated: 2026-06-30 07:20 UTC · regenerated from the ledger, not hand-edi
 ## Calibration (how good is the track record?)
 
 **Direction accuracy: 152/195 = 78%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
-Base rate (share of scored repos that actually reached the target): 19%.
+Base rate (share of scored repos that actually reached the target): 18%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 15 | 255 | 232 | 23 |
+| count | 2 | 268 | 245 | 23 |
 
 Accuracy by phase at prediction time:
 
@@ -28,19 +28,6 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [dripgang0707/Synapse-Execut-Update](https://github.com/dripgang0707/Synapse-Execut-Update) | 35★ | 100★ | ❔ LOW_CONF | accel | 2026-06-30T19:22:03Z |
-| [Nofgalsta/Fluxus-Execut-Update](https://github.com/Nofgalsta/Fluxus-Execut-Update) | 35★ | 100★ | ❔ LOW_CONF | launch | 2026-06-30T19:22:04Z |
-| [ceferpe98/Phoenix-Execut-Update](https://github.com/ceferpe98/Phoenix-Execut-Update) | 35★ | 100★ | ❔ LOW_CONF | accel | 2026-06-30T19:22:04Z |
-| [Arzhik/Swift-Execut-Update](https://github.com/Arzhik/Swift-Execut-Update) | 35★ | 100★ | ❔ LOW_CONF | launch | 2026-06-30T19:22:05Z |
-| [Donut2468/Seliware-Execut-Update](https://github.com/Donut2468/Seliware-Execut-Update) | 35★ | 100★ | ❔ LOW_CONF | launch | 2026-06-30T19:22:05Z |
-| [collinmac1/Wave-Execut-Update](https://github.com/collinmac1/Wave-Execut-Update) | 35★ | 100★ | ❔ LOW_CONF | accel | 2026-06-30T19:22:05Z |
-| [nikhil-Rajpoot20/Solara-Execut-Update](https://github.com/nikhil-Rajpoot20/Solara-Execut-Update) | 35★ | 100★ | ❔ LOW_CONF | accel | 2026-06-30T19:22:05Z |
-| [FrankOspina/Thunder-Execut-Update](https://github.com/FrankOspina/Thunder-Execut-Update) | 35★ | 100★ | ❔ LOW_CONF | launch | 2026-06-30T19:22:06Z |
-| [ruiperez-star/Celery-Execut-Update](https://github.com/ruiperez-star/Celery-Execut-Update) | 35★ | 100★ | ❔ LOW_CONF | launch | 2026-06-30T19:22:07Z |
-| [aztechofficial0-ops/Seliware-Execut-Update](https://github.com/aztechofficial0-ops/Seliware-Execut-Update) | 35★ | 100★ | ❔ LOW_CONF | accel | 2026-06-30T19:22:07Z |
-| [lojadodesmanche50-ai/Celery-Execut-Update](https://github.com/lojadodesmanche50-ai/Celery-Execut-Update) | 35★ | 100★ | ❔ LOW_CONF | launch | 2026-06-30T19:22:08Z |
-| [kokoknut564/Seliware-Execut-Update](https://github.com/kokoknut564/Seliware-Execut-Update) | 35★ | 100★ | ❔ LOW_CONF | launch | 2026-06-30T19:22:08Z |
-| [sino352/Wave-Execut-Update](https://github.com/sino352/Wave-Execut-Update) | 35★ | 100★ | ❔ LOW_CONF | accel | 2026-06-30T19:22:08Z |
 | [tonyd2wild/DeepSeek-v4-Flash-DSpark-1M-NVFP4-KV-2x-DGX-Spark](https://github.com/tonyd2wild/DeepSeek-v4-Flash-DSpark-1M-NVFP4-KV-2x-DGX-Spark) | 43★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-07-01T02:52:06Z |
 | [Sophomoresty/gemini-search-mcp](https://github.com/Sophomoresty/gemini-search-mcp) | 66★ | 100★ | ✅ HIT_lean | accel | 2026-07-01T13:16:06Z |
 
@@ -48,6 +35,19 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [nikhil-Rajpoot20/Solara-Execut-Update](https://github.com/nikhil-Rajpoot20/Solara-Execut-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 35★ → 35★ |
+| [aztechofficial0-ops/Seliware-Execut-Update](https://github.com/aztechofficial0-ops/Seliware-Execut-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 35★ → 35★ |
+| [sino352/Wave-Execut-Update](https://github.com/sino352/Wave-Execut-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 35★ → 35★ |
+| [kokoknut564/Seliware-Execut-Update](https://github.com/kokoknut564/Seliware-Execut-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 35★ → 35★ |
+| [dripgang0707/Synapse-Execut-Update](https://github.com/dripgang0707/Synapse-Execut-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 35★ → 35★ |
+| [ceferpe98/Phoenix-Execut-Update](https://github.com/ceferpe98/Phoenix-Execut-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 35★ → 35★ |
+| [collinmac1/Wave-Execut-Update](https://github.com/collinmac1/Wave-Execut-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 35★ → 35★ |
+| [Arzhik/Swift-Execut-Update](https://github.com/Arzhik/Swift-Execut-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 35★ → 35★ |
+| [Donut2468/Seliware-Execut-Update](https://github.com/Donut2468/Seliware-Execut-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 35★ → 35★ |
+| [FrankOspina/Thunder-Execut-Update](https://github.com/FrankOspina/Thunder-Execut-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 35★ → 35★ |
+| [ruiperez-star/Celery-Execut-Update](https://github.com/ruiperez-star/Celery-Execut-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 35★ → 35★ |
+| [lojadodesmanche50-ai/Celery-Execut-Update](https://github.com/lojadodesmanche50-ai/Celery-Execut-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 35★ → 35★ |
+| [Nofgalsta/Fluxus-Execut-Update](https://github.com/Nofgalsta/Fluxus-Execut-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 35★ → 35★ |
 | [Doctxing/aSuspect](https://github.com/Doctxing/aSuspect) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 23★ → 24★ |
 | [nutdnuy/quant-investment-papers](https://github.com/nutdnuy/quant-investment-papers) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 29★ → 58★ |
 | [hikariming/github-roast](https://github.com/hikariming/github-roast) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 22★ → 72★ |
@@ -60,19 +60,6 @@ Accuracy by phase at prediction time:
 | [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec) | ✅ HIT_lean | ✅ HIT | ✔ correct | 72★ → 1813★ |
 | [lucianodiisouza/semaphore](https://github.com/lucianodiisouza/semaphore) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 29★ → 29★ |
 | [arya51-ai/obsidian-vault-sync](https://github.com/arya51-ai/obsidian-vault-sync) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 35★ → 48★ |
-| [ggangix/localizados-venezuela](https://github.com/ggangix/localizados-venezuela) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 26★ → 26★ |
-| [donoaccestag/forex-mt5-trading-bot](https://github.com/donoaccestag/forex-mt5-trading-bot) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 55★ → 55★ |
-| [crafter-station/build4venezuela](https://github.com/crafter-station/build4venezuela) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 26★ → 38★ |
-| [SytanizedMain/Nihon-Execut](https://github.com/SytanizedMain/Nihon-Execut) | ❔ LOW_CONF | ⛔ MISS | – no-call | 79★ → 8★ |
-| [just-be-dev/effect-typed-id](https://github.com/just-be-dev/effect-typed-id) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 24★ → 26★ |
-| [SterlingTK74/Arcadia-Execut](https://github.com/SterlingTK74/Arcadia-Execut) | ❔ LOW_CONF | ⛔ MISS | – no-call | 79★ → 8★ |
-| [angelicazabala121/Phoenix-Execut](https://github.com/angelicazabala121/Phoenix-Execut) | ❔ LOW_CONF | ⛔ MISS | – no-call | 79★ → 8★ |
-| [Blacklem0nwater/Electron-Execut](https://github.com/Blacklem0nwater/Electron-Execut) | ❔ LOW_CONF | ⛔ MISS | – no-call | 79★ → 8★ |
-| [codertesla/ai-coding-deals](https://github.com/codertesla/ai-coding-deals) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 28★ → 33★ |
-| [PenghaoJiang/auto-paper-collecter](https://github.com/PenghaoJiang/auto-paper-collecter) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 28★ → 31★ |
-| [JimLiu/decode-codex](https://github.com/JimLiu/decode-codex) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 24★ → 75★ |
-| [martinkoutecky/tine](https://github.com/martinkoutecky/tine) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 23★ → 35★ |
-| [ZeKaiNie/universal-examprep-skill](https://github.com/ZeKaiNie/universal-examprep-skill) | ➖ BORDERLINE | ⛔ MISS | – no-call | 83★ → 96★ |
 
 ## Verify it yourself / 自分で検証
 
