@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-06-30 20:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-07-01 03:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,12 +8,12 @@ _Last updated: 2026-06-30 20:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 152/195 = 78%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+**Direction accuracy: 153/196 = 78%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
 Base rate (share of scored repos that actually reached the target): 18%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 2 | 268 | 245 | 23 |
+| count | 1 | 269 | 246 | 23 |
 
 Accuracy by phase at prediction time:
 
@@ -21,20 +21,20 @@ Accuracy by phase at prediction time:
 |---|---|---|---|
 | 1 launch | 55 | 37 | 67% |
 | 2 accel | 87 | 64 | 74% |
-| 3 trajectory | 52 | 50 | 96% |
+| 3 trajectory | 53 | 51 | 96% |
 | 4 maturity | 1 | 1 | 100% |
 
 ## Open predictions (not yet decided)
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [tonyd2wild/DeepSeek-v4-Flash-DSpark-1M-NVFP4-KV-2x-DGX-Spark](https://github.com/tonyd2wild/DeepSeek-v4-Flash-DSpark-1M-NVFP4-KV-2x-DGX-Spark) | 43★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-07-01T02:52:06Z |
 | [Sophomoresty/gemini-search-mcp](https://github.com/Sophomoresty/gemini-search-mcp) | 66★ | 100★ | ✅ HIT_lean | accel | 2026-07-01T13:16:06Z |
 
 ## Recently scored
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [tonyd2wild/DeepSeek-v4-Flash-DSpark-1M-NVFP4-KV-2x-DGX-Spark](https://github.com/tonyd2wild/DeepSeek-v4-Flash-DSpark-1M-NVFP4-KV-2x-DGX-Spark) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 43★ → 49★ |
 | [nikhil-Rajpoot20/Solara-Execut-Update](https://github.com/nikhil-Rajpoot20/Solara-Execut-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 35★ → 35★ |
 | [aztechofficial0-ops/Seliware-Execut-Update](https://github.com/aztechofficial0-ops/Seliware-Execut-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 35★ → 35★ |
 | [sino352/Wave-Execut-Update](https://github.com/sino352/Wave-Execut-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 35★ → 35★ |
@@ -59,7 +59,6 @@ Accuracy by phase at prediction time:
 | [Kiya682/meccha-chameleon-ecore-plus](https://github.com/Kiya682/meccha-chameleon-ecore-plus) | ❔ LOW_CONF | ⛔ MISS | – no-call | 46★ → 73★ |
 | [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec) | ✅ HIT_lean | ✅ HIT | ✔ correct | 72★ → 1813★ |
 | [lucianodiisouza/semaphore](https://github.com/lucianodiisouza/semaphore) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 29★ → 29★ |
-| [arya51-ai/obsidian-vault-sync](https://github.com/arya51-ai/obsidian-vault-sync) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 35★ → 48★ |
 
 ## Verify it yourself / 自分で検証
 
