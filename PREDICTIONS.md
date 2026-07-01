@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-07-01 03:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-07-01 06:10 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -13,7 +13,7 @@ Base rate (share of scored repos that actually reached the target): 18%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 1 | 269 | 246 | 23 |
+| count | 9 | 269 | 246 | 23 |
 
 Accuracy by phase at prediction time:
 
@@ -29,6 +29,14 @@ Accuracy by phase at prediction time:
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
 | [Sophomoresty/gemini-search-mcp](https://github.com/Sophomoresty/gemini-search-mcp) | 66★ | 100★ | ✅ HIT_lean | accel | 2026-07-01T13:16:06Z |
+| [isas1/forever-ai-components](https://github.com/isas1/forever-ai-components) | 56★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-07-01T18:16:04Z |
+| [salman426/Synapse-Execute-New-Update](https://github.com/salman426/Synapse-Execute-New-Update) | 89★ | 100★ | ❔ LOW_CONF | accel | 2026-07-02T11:40:05Z |
+| [Curcio09/Phoenix-Execute-New-Update](https://github.com/Curcio09/Phoenix-Execute-New-Update) | 89★ | 100★ | ❔ LOW_CONF | accel | 2026-07-02T11:40:05Z |
+| [kentang-gs/KRNL-Execute-New-Update](https://github.com/kentang-gs/KRNL-Execute-New-Update) | 89★ | 100★ | ❔ LOW_CONF | accel | 2026-07-02T11:40:06Z |
+| [Translumina/Nezur-Execute-New-Update](https://github.com/Translumina/Nezur-Execute-New-Update) | 89★ | 100★ | ❔ LOW_CONF | accel | 2026-07-02T11:40:07Z |
+| [Mysterybox64/KRNL-Execute-New-Update](https://github.com/Mysterybox64/KRNL-Execute-New-Update) | 85★ | 100★ | ❔ LOW_CONF | accel | 2026-07-02T11:40:07Z |
+| [marlonjim280792/Ronix-Execute-New-Update](https://github.com/marlonjim280792/Ronix-Execute-New-Update) | 88★ | 100★ | ❔ LOW_CONF | accel | 2026-07-02T11:40:08Z |
+| [brandonb82/Fluxus-Execute-New-Update](https://github.com/brandonb82/Fluxus-Execute-New-Update) | 89★ | 100★ | ❔ LOW_CONF | accel | 2026-07-02T11:40:09Z |
 
 ## Recently scored
 
