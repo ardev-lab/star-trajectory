@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-07-02 06:10 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-07-02 12:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -9,11 +9,11 @@ _Last updated: 2026-07-02 06:10 UTC · regenerated from the ledger, not hand-edi
 ## Calibration (how good is the track record?)
 
 **Direction accuracy: 155/198 = 78%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
-Base rate (share of scored repos that actually reached the target): 18%.
+Base rate (share of scored repos that actually reached the target): 17%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 15 | 271 | 248 | 23 |
+| count | 0 | 286 | 263 | 23 |
 
 Accuracy by phase at prediction time:
 
@@ -26,28 +26,28 @@ Accuracy by phase at prediction time:
 
 ## Open predictions (not yet decided)
 
-| repo | stars @ prediction | → target | call | phase | deadline (UTC) |
-|---|---|---|---|---|---|
-| [erkwng/Luna-Execute-New-Update](https://github.com/erkwng/Luna-Execute-New-Update) | 89★ | 100★ | ❔ LOW_CONF | accel | 2026-07-02T11:40:04Z |
-| [salman426/Synapse-Execute-New-Update](https://github.com/salman426/Synapse-Execute-New-Update) | 89★ | 100★ | ❔ LOW_CONF | accel | 2026-07-02T11:40:05Z |
-| [Curcio09/Phoenix-Execute-New-Update](https://github.com/Curcio09/Phoenix-Execute-New-Update) | 89★ | 100★ | ❔ LOW_CONF | accel | 2026-07-02T11:40:05Z |
-| [natanael0909/Luna-Execute-New-Update](https://github.com/natanael0909/Luna-Execute-New-Update) | 89★ | 100★ | ❔ LOW_CONF | accel | 2026-07-02T11:40:05Z |
-| [kentang-gs/KRNL-Execute-New-Update](https://github.com/kentang-gs/KRNL-Execute-New-Update) | 89★ | 100★ | ❔ LOW_CONF | accel | 2026-07-02T11:40:06Z |
-| [Translumina/Swift-Execute-New-Update](https://github.com/Translumina/Swift-Execute-New-Update) | 89★ | 100★ | ❔ LOW_CONF | accel | 2026-07-02T11:40:06Z |
-| [LuciferTVBe/Celery-Execute-New-Update](https://github.com/LuciferTVBe/Celery-Execute-New-Update) | 88★ | 100★ | ❔ LOW_CONF | accel | 2026-07-02T11:40:06Z |
-| [Translumina/Nezur-Execute-New-Update](https://github.com/Translumina/Nezur-Execute-New-Update) | 89★ | 100★ | ❔ LOW_CONF | accel | 2026-07-02T11:40:07Z |
-| [Mysterybox64/KRNL-Execute-New-Update](https://github.com/Mysterybox64/KRNL-Execute-New-Update) | 85★ | 100★ | ❔ LOW_CONF | accel | 2026-07-02T11:40:07Z |
-| [kwaxyn/Celery-Execute-New-Update](https://github.com/kwaxyn/Celery-Execute-New-Update) | 89★ | 100★ | ❔ LOW_CONF | accel | 2026-07-02T11:40:07Z |
-| [marlonjim280792/Ronix-Execute-New-Update](https://github.com/marlonjim280792/Ronix-Execute-New-Update) | 88★ | 100★ | ❔ LOW_CONF | accel | 2026-07-02T11:40:08Z |
-| [takcsadam01/Thunder-Execute-New-Update](https://github.com/takcsadam01/Thunder-Execute-New-Update) | 89★ | 100★ | ❔ LOW_CONF | accel | 2026-07-02T11:40:08Z |
-| [solosergio238/Thunder-Execute-New-Update](https://github.com/solosergio238/Thunder-Execute-New-Update) | 89★ | 100★ | ❔ LOW_CONF | accel | 2026-07-02T11:40:08Z |
-| [brandonb82/Fluxus-Execute-New-Update](https://github.com/brandonb82/Fluxus-Execute-New-Update) | 89★ | 100★ | ❔ LOW_CONF | accel | 2026-07-02T11:40:09Z |
-| [lojavitrineeconomica/Delta-Execute-New-Update](https://github.com/lojavitrineeconomica/Delta-Execute-New-Update) | 89★ | 100★ | ❔ LOW_CONF | accel | 2026-07-02T11:40:09Z |
+_No open predictions right now._
+
 
 ## Recently scored
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [lojavitrineeconomica/Delta-Execute-New-Update](https://github.com/lojavitrineeconomica/Delta-Execute-New-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 89★ → 89★ |
+| [Translumina/Swift-Execute-New-Update](https://github.com/Translumina/Swift-Execute-New-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 89★ → 89★ |
+| [LuciferTVBe/Celery-Execute-New-Update](https://github.com/LuciferTVBe/Celery-Execute-New-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 88★ → 88★ |
+| [kwaxyn/Celery-Execute-New-Update](https://github.com/kwaxyn/Celery-Execute-New-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 89★ → 89★ |
+| [takcsadam01/Thunder-Execute-New-Update](https://github.com/takcsadam01/Thunder-Execute-New-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 89★ → 89★ |
+| [solosergio238/Thunder-Execute-New-Update](https://github.com/solosergio238/Thunder-Execute-New-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 89★ → 89★ |
+| [marlonjim280792/Ronix-Execute-New-Update](https://github.com/marlonjim280792/Ronix-Execute-New-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 88★ → 88★ |
+| [brandonb82/Fluxus-Execute-New-Update](https://github.com/brandonb82/Fluxus-Execute-New-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 89★ → 89★ |
+| [erkwng/Luna-Execute-New-Update](https://github.com/erkwng/Luna-Execute-New-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 89★ → 89★ |
+| [natanael0909/Luna-Execute-New-Update](https://github.com/natanael0909/Luna-Execute-New-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 89★ → 89★ |
+| [Curcio09/Phoenix-Execute-New-Update](https://github.com/Curcio09/Phoenix-Execute-New-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 89★ → 89★ |
+| [kentang-gs/KRNL-Execute-New-Update](https://github.com/kentang-gs/KRNL-Execute-New-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 89★ → 89★ |
+| [Translumina/Nezur-Execute-New-Update](https://github.com/Translumina/Nezur-Execute-New-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 89★ → 89★ |
+| [Mysterybox64/KRNL-Execute-New-Update](https://github.com/Mysterybox64/KRNL-Execute-New-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 85★ → 85★ |
+| [salman426/Synapse-Execute-New-Update](https://github.com/salman426/Synapse-Execute-New-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 89★ → 89★ |
 | [isas1/forever-ai-components](https://github.com/isas1/forever-ai-components) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 56★ → 63★ |
 | [Sophomoresty/gemini-search-mcp](https://github.com/Sophomoresty/gemini-search-mcp) | ✅ HIT_lean | ✅ HIT | ✔ correct | 66★ → 119★ |
 | [tonyd2wild/DeepSeek-v4-Flash-DSpark-1M-NVFP4-KV-2x-DGX-Spark](https://github.com/tonyd2wild/DeepSeek-v4-Flash-DSpark-1M-NVFP4-KV-2x-DGX-Spark) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 43★ → 49★ |
@@ -58,21 +58,6 @@ Accuracy by phase at prediction time:
 | [dripgang0707/Synapse-Execut-Update](https://github.com/dripgang0707/Synapse-Execut-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 35★ → 35★ |
 | [ceferpe98/Phoenix-Execut-Update](https://github.com/ceferpe98/Phoenix-Execut-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 35★ → 35★ |
 | [collinmac1/Wave-Execut-Update](https://github.com/collinmac1/Wave-Execut-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 35★ → 35★ |
-| [Arzhik/Swift-Execut-Update](https://github.com/Arzhik/Swift-Execut-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 35★ → 35★ |
-| [Donut2468/Seliware-Execut-Update](https://github.com/Donut2468/Seliware-Execut-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 35★ → 35★ |
-| [FrankOspina/Thunder-Execut-Update](https://github.com/FrankOspina/Thunder-Execut-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 35★ → 35★ |
-| [ruiperez-star/Celery-Execut-Update](https://github.com/ruiperez-star/Celery-Execut-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 35★ → 35★ |
-| [lojadodesmanche50-ai/Celery-Execut-Update](https://github.com/lojadodesmanche50-ai/Celery-Execut-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 35★ → 35★ |
-| [Nofgalsta/Fluxus-Execut-Update](https://github.com/Nofgalsta/Fluxus-Execut-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 35★ → 35★ |
-| [Doctxing/aSuspect](https://github.com/Doctxing/aSuspect) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 23★ → 24★ |
-| [nutdnuy/quant-investment-papers](https://github.com/nutdnuy/quant-investment-papers) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 29★ → 58★ |
-| [hikariming/github-roast](https://github.com/hikariming/github-roast) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 22★ → 72★ |
-| [wundercorp/awesome-components](https://github.com/wundercorp/awesome-components) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 65★ → 69★ |
-| [SPLYASHKA/lampy.nvim](https://github.com/SPLYASHKA/lampy.nvim) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 20★ → 22★ |
-| [tdeverx/contained-app](https://github.com/tdeverx/contained-app) | ✅ HIT_lean | ✅ HIT | ✔ correct | 21★ → 174★ |
-| [Josipaka2000/Flash-USDT-Tool](https://github.com/Josipaka2000/Flash-USDT-Tool) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 93★ → 93★ |
-| [mayank953/Live-Class-2026](https://github.com/mayank953/Live-Class-2026) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 22★ → 25★ |
-| [Kiya682/meccha-chameleon-ecore-plus](https://github.com/Kiya682/meccha-chameleon-ecore-plus) | ❔ LOW_CONF | ⛔ MISS | – no-call | 46★ → 73★ |
 
 ## Verify it yourself / 自分で検証
 

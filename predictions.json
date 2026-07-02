@@ -6249,11 +6249,11 @@
     "arrival_archetype": "community_share_spike",
     "authenticity": "MEDIUM",
     "tool_version": "0.1.0",
-    "status": "open",
-    "outcome": null,
-    "actual_stars_at_deadline": null,
+    "status": "scored",
+    "outcome": "MISS",
+    "actual_stars_at_deadline": 89,
     "direction_correct": null,
-    "scored_at_utc": null
+    "scored_at_utc": "2026-07-02T12:20:01Z"
   },
   {
     "repo": "Curcio09/Phoenix-Execute-New-Update",
@@ -6272,11 +6272,11 @@
     "arrival_archetype": "community_share_spike",
     "authenticity": "MEDIUM",
     "tool_version": "0.1.0",
-    "status": "open",
-    "outcome": null,
-    "actual_stars_at_deadline": null,
+    "status": "scored",
+    "outcome": "MISS",
+    "actual_stars_at_deadline": 89,
     "direction_correct": null,
-    "scored_at_utc": null
+    "scored_at_utc": "2026-07-02T12:20:02Z"
   },
   {
     "repo": "kentang-gs/KRNL-Execute-New-Update",
@@ -6295,11 +6295,11 @@
     "arrival_archetype": "community_share_spike",
     "authenticity": "MEDIUM",
     "tool_version": "0.1.0",
-    "status": "open",
-    "outcome": null,
-    "actual_stars_at_deadline": null,
+    "status": "scored",
+    "outcome": "MISS",
+    "actual_stars_at_deadline": 89,
     "direction_correct": null,
-    "scored_at_utc": null
+    "scored_at_utc": "2026-07-02T12:20:02Z"
   },
   {
     "repo": "Translumina/Nezur-Execute-New-Update",
@@ -6318,11 +6318,11 @@
     "arrival_archetype": "community_share_spike",
     "authenticity": "MEDIUM",
     "tool_version": "0.1.0",
-    "status": "open",
-    "outcome": null,
-    "actual_stars_at_deadline": null,
+    "status": "scored",
+    "outcome": "MISS",
+    "actual_stars_at_deadline": 89,
     "direction_correct": null,
-    "scored_at_utc": null
+    "scored_at_utc": "2026-07-02T12:20:02Z"
   },
   {
     "repo": "Mysterybox64/KRNL-Execute-New-Update",
@@ -6341,11 +6341,11 @@
     "arrival_archetype": "community_share_spike",
     "authenticity": "MEDIUM",
     "tool_version": "0.1.0",
-    "status": "open",
-    "outcome": null,
-    "actual_stars_at_deadline": null,
+    "status": "scored",
+    "outcome": "MISS",
+    "actual_stars_at_deadline": 85,
     "direction_correct": null,
-    "scored_at_utc": null
+    "scored_at_utc": "2026-07-02T12:20:02Z"
   },
   {
     "repo": "marlonjim280792/Ronix-Execute-New-Update",
@@ -6364,11 +6364,11 @@
     "arrival_archetype": "community_share_spike",
     "authenticity": "MEDIUM",
     "tool_version": "0.1.0",
-    "status": "open",
-    "outcome": null,
-    "actual_stars_at_deadline": null,
+    "status": "scored",
+    "outcome": "MISS",
+    "actual_stars_at_deadline": 88,
     "direction_correct": null,
-    "scored_at_utc": null
+    "scored_at_utc": "2026-07-02T12:20:03Z"
   },
   {
     "repo": "brandonb82/Fluxus-Execute-New-Update",
@@ -6387,11 +6387,11 @@
     "arrival_archetype": "community_share_spike",
     "authenticity": "MEDIUM",
     "tool_version": "0.1.0",
-    "status": "open",
-    "outcome": null,
-    "actual_stars_at_deadline": null,
+    "status": "scored",
+    "outcome": "MISS",
+    "actual_stars_at_deadline": 89,
     "direction_correct": null,
-    "scored_at_utc": null
+    "scored_at_utc": "2026-07-02T12:20:03Z"
   },
   {
     "repo": "erkwng/Luna-Execute-New-Update",
@@ -6410,11 +6410,11 @@
     "arrival_archetype": "community_share_spike",
     "authenticity": "MEDIUM",
     "tool_version": "0.1.0",
-    "status": "open",
-    "outcome": null,
-    "actual_stars_at_deadline": null,
+    "status": "scored",
+    "outcome": "MISS",
+    "actual_stars_at_deadline": 89,
     "direction_correct": null,
-    "scored_at_utc": null
+    "scored_at_utc": "2026-07-02T12:20:03Z"
   },
   {
     "repo": "natanael0909/Luna-Execute-New-Update",
@@ -6433,11 +6433,11 @@
     "arrival_archetype": "community_share_spike",
     "authenticity": "MEDIUM",
     "tool_version": "0.1.0",
-    "status": "open",
-    "outcome": null,
-    "actual_stars_at_deadline": null,
+    "status": "scored",
+    "outcome": "MISS",
+    "actual_stars_at_deadline": 89,
     "direction_correct": null,
-    "scored_at_utc": null
+    "scored_at_utc": "2026-07-02T12:20:03Z"
   },
   {
     "repo": "Translumina/Swift-Execute-New-Update",
@@ -6456,11 +6456,11 @@
     "arrival_archetype": "community_share_spike",
     "authenticity": "MEDIUM",
     "tool_version": "0.1.0",
-    "status": "open",
-    "outcome": null,
-    "actual_stars_at_deadline": null,
+    "status": "scored",
+    "outcome": "MISS",
+    "actual_stars_at_deadline": 89,
     "direction_correct": null,
-    "scored_at_utc": null
+    "scored_at_utc": "2026-07-02T12:20:04Z"
   },
   {
     "repo": "LuciferTVBe/Celery-Execute-New-Update",
@@ -6479,11 +6479,11 @@
     "arrival_archetype": "community_share_spike",
     "authenticity": "MEDIUM",
     "tool_version": "0.1.0",
-    "status": "open",
-    "outcome": null,
-    "actual_stars_at_deadline": null,
+    "status": "scored",
+    "outcome": "MISS",
+    "actual_stars_at_deadline": 88,
     "direction_correct": null,
-    "scored_at_utc": null
+    "scored_at_utc": "2026-07-02T12:20:04Z"
   },
   {
     "repo": "kwaxyn/Celery-Execute-New-Update",
@@ -6502,11 +6502,11 @@
     "arrival_archetype": "community_share_spike",
     "authenticity": "MEDIUM",
     "tool_version": "0.1.0",
-    "status": "open",
-    "outcome": null,
-    "actual_stars_at_deadline": null,
+    "status": "scored",
+    "outcome": "MISS",
+    "actual_stars_at_deadline": 89,
     "direction_correct": null,
-    "scored_at_utc": null
+    "scored_at_utc": "2026-07-02T12:20:04Z"
   },
   {
     "repo": "takcsadam01/Thunder-Execute-New-Update",
@@ -6525,11 +6525,11 @@
     "arrival_archetype": "community_share_spike",
     "authenticity": "MEDIUM",
     "tool_version": "0.1.0",
-    "status": "open",
-    "outcome": null,
-    "actual_stars_at_deadline": null,
+    "status": "scored",
+    "outcome": "MISS",
+    "actual_stars_at_deadline": 89,
     "direction_correct": null,
-    "scored_at_utc": null
+    "scored_at_utc": "2026-07-02T12:20:04Z"
   },
   {
     "repo": "solosergio238/Thunder-Execute-New-Update",
@@ -6548,11 +6548,11 @@
     "arrival_archetype": "community_share_spike",
     "authenticity": "MEDIUM",
     "tool_version": "0.1.0",
-    "status": "open",
-    "outcome": null,
-    "actual_stars_at_deadline": null,
+    "status": "scored",
+    "outcome": "MISS",
+    "actual_stars_at_deadline": 89,
     "direction_correct": null,
-    "scored_at_utc": null
+    "scored_at_utc": "2026-07-02T12:20:04Z"
   },
   {
     "repo": "lojavitrineeconomica/Delta-Execute-New-Update",
@@ -6571,10 +6571,10 @@
     "arrival_archetype": "community_share_spike",
     "authenticity": "MEDIUM",
     "tool_version": "0.1.0",
-    "status": "open",
-    "outcome": null,
-    "actual_stars_at_deadline": null,
+    "status": "scored",
+    "outcome": "MISS",
+    "actual_stars_at_deadline": 89,
     "direction_correct": null,
-    "scored_at_utc": null
+    "scored_at_utc": "2026-07-02T12:20:05Z"
   }
 ]
