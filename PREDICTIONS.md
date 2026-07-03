@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-07-03 09:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-07-03 12:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,12 +8,12 @@ _Last updated: 2026-07-03 09:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 156/199 = 78%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+**Direction accuracy: 157/200 = 78%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
 Base rate (share of scored repos that actually reached the target): 17%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 7 | 287 | 264 | 23 |
+| count | 6 | 288 | 265 | 23 |
 
 Accuracy by phase at prediction time:
 
@@ -21,14 +21,13 @@ Accuracy by phase at prediction time:
 |---|---|---|---|
 | 1 launch | 55 | 37 | 67% |
 | 2 accel | 89 | 66 | 74% |
-| 3 trajectory | 54 | 52 | 96% |
+| 3 trajectory | 55 | 53 | 96% |
 | 4 maturity | 1 | 1 | 100% |
 
 ## Open predictions (not yet decided)
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [StanleyNull/AutoHunter](https://github.com/StanleyNull/AutoHunter) | 23★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-07-03T12:16:07Z |
 | [Tokeii0/LovelyMiscLab](https://github.com/Tokeii0/LovelyMiscLab) | 35★ | 100★ | ⛔ MISS_lean | accel | 2026-07-03T12:28:06Z |
 | [rafael-fu2025/synapse_ag](https://github.com/rafael-fu2025/synapse_ag) | 27★ | 100★ | ✅ HIT_lean | accel | 2026-07-04T01:58:09Z |
 | [oomol-lab/CloseUp](https://github.com/oomol-lab/CloseUp) | 22★ | 100★ | ⛔ MISS_lean | accel | 2026-07-04T03:34:08Z |
@@ -40,6 +39,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [StanleyNull/AutoHunter](https://github.com/StanleyNull/AutoHunter) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 23★ → 27★ |
 | [NebuSec/CyberMeowfia](https://github.com/NebuSec/CyberMeowfia) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 27★ → 30★ |
 | [lojavitrineeconomica/Delta-Execute-New-Update](https://github.com/lojavitrineeconomica/Delta-Execute-New-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 89★ → 89★ |
 | [Translumina/Swift-Execute-New-Update](https://github.com/Translumina/Swift-Execute-New-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 89★ → 89★ |
@@ -64,7 +64,6 @@ Accuracy by phase at prediction time:
 | [sino352/Wave-Execut-Update](https://github.com/sino352/Wave-Execut-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 35★ → 35★ |
 | [kokoknut564/Seliware-Execut-Update](https://github.com/kokoknut564/Seliware-Execut-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 35★ → 35★ |
 | [dripgang0707/Synapse-Execut-Update](https://github.com/dripgang0707/Synapse-Execut-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 35★ → 35★ |
-| [ceferpe98/Phoenix-Execut-Update](https://github.com/ceferpe98/Phoenix-Execut-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 35★ → 35★ |
 
 ## Verify it yourself / 自分で検証
 
