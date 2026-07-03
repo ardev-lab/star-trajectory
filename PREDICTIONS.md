@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-07-02 12:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-07-03 06:10 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -13,7 +13,7 @@ Base rate (share of scored repos that actually reached the target): 17%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 0 | 286 | 263 | 23 |
+| count | 8 | 286 | 263 | 23 |
 
 Accuracy by phase at prediction time:
 
@@ -26,8 +26,16 @@ Accuracy by phase at prediction time:
 
 ## Open predictions (not yet decided)
 
-_No open predictions right now._
-
+| repo | stars @ prediction | → target | call | phase | deadline (UTC) |
+|---|---|---|---|---|---|
+| [NebuSec/CyberMeowfia](https://github.com/NebuSec/CyberMeowfia) | 27★ | 100★ | ⛔ MISS_lean | accel | 2026-07-03T08:58:07Z |
+| [StanleyNull/AutoHunter](https://github.com/StanleyNull/AutoHunter) | 23★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-07-03T12:16:07Z |
+| [Tokeii0/LovelyMiscLab](https://github.com/Tokeii0/LovelyMiscLab) | 35★ | 100★ | ⛔ MISS_lean | accel | 2026-07-03T12:28:06Z |
+| [rafael-fu2025/synapse_ag](https://github.com/rafael-fu2025/synapse_ag) | 27★ | 100★ | ✅ HIT_lean | accel | 2026-07-04T01:58:09Z |
+| [oomol-lab/CloseUp](https://github.com/oomol-lab/CloseUp) | 22★ | 100★ | ⛔ MISS_lean | accel | 2026-07-04T03:34:08Z |
+| [AmbroseX/larksnap](https://github.com/AmbroseX/larksnap) | 33★ | 100★ | ⛔ MISS_lean | accel | 2026-07-04T12:46:05Z |
+| [aipoch/open-science](https://github.com/aipoch/open-science) | 28★ | 100★ | ✅ HIT_lean | launch | 2026-07-05T02:52:04Z |
+| [xuchonglang/xiaoyinsi-wiki](https://github.com/xuchonglang/xiaoyinsi-wiki) | 25★ | 100★ | ✅ HIT_lean | launch | 2026-07-05T03:58:04Z |
 
 ## Recently scored
 
