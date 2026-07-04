@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-07-04 04:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-07-04 06:10 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -13,7 +13,7 @@ Base rate (share of scored repos that actually reached the target): 17%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 3 | 291 | 268 | 23 |
+| count | 11 | 291 | 268 | 23 |
 
 Accuracy by phase at prediction time:
 
@@ -29,8 +29,16 @@ Accuracy by phase at prediction time:
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
 | [AmbroseX/larksnap](https://github.com/AmbroseX/larksnap) | 33★ | 100★ | ⛔ MISS_lean | accel | 2026-07-04T12:46:05Z |
+| [koul777/VHLookup](https://github.com/koul777/VHLookup) | 24★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-07-04T12:52:04Z |
+| [crgimenes/kutta](https://github.com/crgimenes/kutta) | 49★ | 100★ | ⛔ MISS_lean | accel | 2026-07-04T12:52:06Z |
+| [can1357/pon](https://github.com/can1357/pon) | 28★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-07-04T16:46:04Z |
+| [tiliondev/fortress](https://github.com/tiliondev/fortress) | 22★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-07-04T21:40:05Z |
+| [7-e1even/learn-agent](https://github.com/7-e1even/learn-agent) | 56★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-07-05T01:22:07Z |
 | [aipoch/open-science](https://github.com/aipoch/open-science) | 28★ | 100★ | ✅ HIT_lean | launch | 2026-07-05T02:52:04Z |
 | [xuchonglang/xiaoyinsi-wiki](https://github.com/xuchonglang/xiaoyinsi-wiki) | 25★ | 100★ | ✅ HIT_lean | launch | 2026-07-05T03:58:04Z |
+| [maclifevn/MClean](https://github.com/maclifevn/MClean) | 20★ | 100★ | ⛔ MISS_lean | launch | 2026-07-05T06:46:06Z |
+| [loyal-studio/Honami-Animation-System](https://github.com/loyal-studio/Honami-Animation-System) | 59★ | 100★ | ✅ HIT_lean | launch | 2026-07-05T13:58:08Z |
+| [lxh77721/k12-reg](https://github.com/lxh77721/k12-reg) | 34★ | 100★ | ✅ HIT_lean | launch | 2026-07-06T01:46:03Z |
 
 ## Recently scored
 
