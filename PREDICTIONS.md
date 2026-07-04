@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-07-04 02:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-07-04 04:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,19 +8,19 @@ _Last updated: 2026-07-04 02:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 158/202 = 78%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+**Direction accuracy: 159/203 = 78%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
 Base rate (share of scored repos that actually reached the target): 17%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 4 | 290 | 267 | 23 |
+| count | 3 | 291 | 268 | 23 |
 
 Accuracy by phase at prediction time:
 
 | phase | directional calls | correct | accuracy |
 |---|---|---|---|
 | 1 launch | 55 | 37 | 67% |
-| 2 accel | 91 | 67 | 74% |
+| 2 accel | 92 | 68 | 74% |
 | 3 trajectory | 55 | 53 | 96% |
 | 4 maturity | 1 | 1 | 100% |
 
@@ -28,7 +28,6 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [oomol-lab/CloseUp](https://github.com/oomol-lab/CloseUp) | 22★ | 100★ | ⛔ MISS_lean | accel | 2026-07-04T03:34:08Z |
 | [AmbroseX/larksnap](https://github.com/AmbroseX/larksnap) | 33★ | 100★ | ⛔ MISS_lean | accel | 2026-07-04T12:46:05Z |
 | [aipoch/open-science](https://github.com/aipoch/open-science) | 28★ | 100★ | ✅ HIT_lean | launch | 2026-07-05T02:52:04Z |
 | [xuchonglang/xiaoyinsi-wiki](https://github.com/xuchonglang/xiaoyinsi-wiki) | 25★ | 100★ | ✅ HIT_lean | launch | 2026-07-05T03:58:04Z |
@@ -37,6 +36,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [oomol-lab/CloseUp](https://github.com/oomol-lab/CloseUp) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 22★ → 27★ |
 | [rafael-fu2025/synapse_ag](https://github.com/rafael-fu2025/synapse_ag) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 27★ → 27★ |
 | [Tokeii0/LovelyMiscLab](https://github.com/Tokeii0/LovelyMiscLab) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 35★ → 39★ |
 | [StanleyNull/AutoHunter](https://github.com/StanleyNull/AutoHunter) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 23★ → 27★ |
@@ -61,7 +61,6 @@ Accuracy by phase at prediction time:
 | [tonyd2wild/DeepSeek-v4-Flash-DSpark-1M-NVFP4-KV-2x-DGX-Spark](https://github.com/tonyd2wild/DeepSeek-v4-Flash-DSpark-1M-NVFP4-KV-2x-DGX-Spark) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 43★ → 49★ |
 | [nikhil-Rajpoot20/Solara-Execut-Update](https://github.com/nikhil-Rajpoot20/Solara-Execut-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 35★ → 35★ |
 | [aztechofficial0-ops/Seliware-Execut-Update](https://github.com/aztechofficial0-ops/Seliware-Execut-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 35★ → 35★ |
-| [sino352/Wave-Execut-Update](https://github.com/sino352/Wave-Execut-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 35★ → 35★ |
 
 ## Verify it yourself / 自分で検証
 
