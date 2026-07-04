@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-07-04 13:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-07-04 17:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,12 +8,12 @@ _Last updated: 2026-07-04 13:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 162/206 = 79%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
-Base rate (share of scored repos that actually reached the target): 17%.
+**Direction accuracy: 163/207 = 79%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+Base rate (share of scored repos that actually reached the target): 16%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 8 | 294 | 271 | 23 |
+| count | 7 | 295 | 272 | 23 |
 
 Accuracy by phase at prediction time:
 
@@ -21,14 +21,13 @@ Accuracy by phase at prediction time:
 |---|---|---|---|
 | 1 launch | 55 | 37 | 67% |
 | 2 accel | 94 | 70 | 74% |
-| 3 trajectory | 56 | 54 | 96% |
+| 3 trajectory | 57 | 55 | 96% |
 | 4 maturity | 1 | 1 | 100% |
 
 ## Open predictions (not yet decided)
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [can1357/pon](https://github.com/can1357/pon) | 28★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-07-04T16:46:04Z |
 | [tiliondev/fortress](https://github.com/tiliondev/fortress) | 22★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-07-04T21:40:05Z |
 | [7-e1even/learn-agent](https://github.com/7-e1even/learn-agent) | 56★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-07-05T01:22:07Z |
 | [aipoch/open-science](https://github.com/aipoch/open-science) | 28★ | 100★ | ✅ HIT_lean | launch | 2026-07-05T02:52:04Z |
@@ -41,6 +40,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [can1357/pon](https://github.com/can1357/pon) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 28★ → 32★ |
 | [AmbroseX/larksnap](https://github.com/AmbroseX/larksnap) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 33★ → 48★ |
 | [koul777/VHLookup](https://github.com/koul777/VHLookup) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 24★ → 28★ |
 | [crgimenes/kutta](https://github.com/crgimenes/kutta) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 49★ → 50★ |
@@ -65,7 +65,6 @@ Accuracy by phase at prediction time:
 | [Mysterybox64/KRNL-Execute-New-Update](https://github.com/Mysterybox64/KRNL-Execute-New-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 85★ → 85★ |
 | [salman426/Synapse-Execute-New-Update](https://github.com/salman426/Synapse-Execute-New-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 89★ → 89★ |
 | [isas1/forever-ai-components](https://github.com/isas1/forever-ai-components) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 56★ → 63★ |
-| [Sophomoresty/gemini-search-mcp](https://github.com/Sophomoresty/gemini-search-mcp) | ✅ HIT_lean | ✅ HIT | ✔ correct | 66★ → 119★ |
 
 ## Verify it yourself / 自分で検証
 
