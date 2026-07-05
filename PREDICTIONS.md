@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-07-05 13:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-07-05 14:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,29 +8,26 @@ _Last updated: 2026-07-05 13:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 168/213 = 79%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+**Direction accuracy: 171/216 = 79%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
 Base rate (share of scored repos that actually reached the target): 17%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 8 | 302 | 279 | 23 |
+| count | 5 | 305 | 282 | 23 |
 
 Accuracy by phase at prediction time:
 
 | phase | directional calls | correct | accuracy |
 |---|---|---|---|
-| 1 launch | 58 | 39 | 67% |
-| 2 accel | 94 | 70 | 74% |
-| 3 trajectory | 60 | 58 | 97% |
+| 1 launch | 59 | 40 | 68% |
+| 2 accel | 95 | 71 | 75% |
+| 3 trajectory | 61 | 59 | 97% |
 | 4 maturity | 1 | 1 | 100% |
 
 ## Open predictions (not yet decided)
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [danleetw/ai_usage_dashboard](https://github.com/danleetw/ai_usage_dashboard) | 33★ | 100★ | ⛔ MISS_lean | accel | 2026-07-05T13:40:08Z |
-| [loyal-studio/Honami-Animation-System](https://github.com/loyal-studio/Honami-Animation-System) | 59★ | 100★ | ✅ HIT_lean | launch | 2026-07-05T13:58:08Z |
-| [It-is-Sean/macOS-Window-Styler](https://github.com/It-is-Sean/macOS-Window-Styler) | 37★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-07-05T14:16:07Z |
 | [mana-am/matrix-swift](https://github.com/mana-am/matrix-swift) | 68★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-07-05T14:46:07Z |
 | [adamraudonis/splats4D](https://github.com/adamraudonis/splats4D) | 38★ | 100★ | ⛔ MISS_lean | accel | 2026-07-05T19:16:05Z |
 | [Spotui/Spotui](https://github.com/Spotui/Spotui) | 76★ | 100★ | ➖ BORDERLINE | trajectory (sustain) | 2026-07-05T20:52:09Z |
@@ -41,6 +38,9 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [It-is-Sean/macOS-Window-Styler](https://github.com/It-is-Sean/macOS-Window-Styler) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 37★ → 43★ |
+| [danleetw/ai_usage_dashboard](https://github.com/danleetw/ai_usage_dashboard) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 33★ → 40★ |
+| [loyal-studio/Honami-Animation-System](https://github.com/loyal-studio/Honami-Animation-System) | ✅ HIT_lean | ✅ HIT | ✔ correct | 59★ → 136★ |
 | [andreanocalvin/autoclaw-autologin](https://github.com/andreanocalvin/autoclaw-autologin) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 44★ → 46★ |
 | [ai4s-research/open-science](https://github.com/ai4s-research/open-science) | ➖ BORDERLINE | ✅ HIT | – no-call | 89★ → 109★ |
 | [maclifevn/MClean](https://github.com/maclifevn/MClean) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 20★ → 25★ |
@@ -63,9 +63,6 @@ Accuracy by phase at prediction time:
 | [kwaxyn/Celery-Execute-New-Update](https://github.com/kwaxyn/Celery-Execute-New-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 89★ → 89★ |
 | [takcsadam01/Thunder-Execute-New-Update](https://github.com/takcsadam01/Thunder-Execute-New-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 89★ → 89★ |
 | [solosergio238/Thunder-Execute-New-Update](https://github.com/solosergio238/Thunder-Execute-New-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 89★ → 89★ |
-| [marlonjim280792/Ronix-Execute-New-Update](https://github.com/marlonjim280792/Ronix-Execute-New-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 88★ → 88★ |
-| [brandonb82/Fluxus-Execute-New-Update](https://github.com/brandonb82/Fluxus-Execute-New-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 89★ → 89★ |
-| [erkwng/Luna-Execute-New-Update](https://github.com/erkwng/Luna-Execute-New-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 89★ → 89★ |
 
 ## Verify it yourself / 自分で検証
 
