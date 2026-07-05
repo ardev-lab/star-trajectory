@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-07-05 06:10 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-07-05 07:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,18 +8,18 @@ _Last updated: 2026-07-05 06:10 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 166/211 = 79%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+**Direction accuracy: 167/212 = 79%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
 Base rate (share of scored repos that actually reached the target): 17%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 11 | 299 | 276 | 23 |
+| count | 10 | 300 | 277 | 23 |
 
 Accuracy by phase at prediction time:
 
 | phase | directional calls | correct | accuracy |
 |---|---|---|---|
-| 1 launch | 57 | 38 | 67% |
+| 1 launch | 58 | 39 | 67% |
 | 2 accel | 94 | 70 | 74% |
 | 3 trajectory | 59 | 57 | 97% |
 | 4 maturity | 1 | 1 | 100% |
@@ -28,7 +28,6 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [maclifevn/MClean](https://github.com/maclifevn/MClean) | 20★ | 100★ | ⛔ MISS_lean | launch | 2026-07-05T06:46:06Z |
 | [ai4s-research/open-science](https://github.com/ai4s-research/open-science) | 89★ | 100★ | ➖ BORDERLINE | trajectory (sustain) | 2026-07-05T09:22:04Z |
 | [andreanocalvin/autoclaw-autologin](https://github.com/andreanocalvin/autoclaw-autologin) | 44★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-07-05T12:46:04Z |
 | [danleetw/ai_usage_dashboard](https://github.com/danleetw/ai_usage_dashboard) | 33★ | 100★ | ⛔ MISS_lean | accel | 2026-07-05T13:40:08Z |
@@ -44,6 +43,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [maclifevn/MClean](https://github.com/maclifevn/MClean) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 20★ → 25★ |
 | [xuchonglang/xiaoyinsi-wiki](https://github.com/xuchonglang/xiaoyinsi-wiki) | ✅ HIT_lean | ✅ HIT | ✔ correct | 25★ → 663★ |
 | [aipoch/open-science](https://github.com/aipoch/open-science) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 28★ → 33★ |
 | [7-e1even/learn-agent](https://github.com/7-e1even/learn-agent) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 56★ → 69★ |
@@ -68,7 +68,6 @@ Accuracy by phase at prediction time:
 | [erkwng/Luna-Execute-New-Update](https://github.com/erkwng/Luna-Execute-New-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 89★ → 89★ |
 | [natanael0909/Luna-Execute-New-Update](https://github.com/natanael0909/Luna-Execute-New-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 89★ → 89★ |
 | [Curcio09/Phoenix-Execute-New-Update](https://github.com/Curcio09/Phoenix-Execute-New-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 89★ → 89★ |
-| [kentang-gs/KRNL-Execute-New-Update](https://github.com/kentang-gs/KRNL-Execute-New-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 89★ → 89★ |
 
 ## Verify it yourself / 自分で検証
 
