@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-07-04 22:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-07-05 02:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,12 +8,12 @@ _Last updated: 2026-07-04 22:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 164/208 = 79%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+**Direction accuracy: 165/209 = 79%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
 Base rate (share of scored repos that actually reached the target): 16%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 6 | 296 | 273 | 23 |
+| count | 5 | 297 | 274 | 23 |
 
 Accuracy by phase at prediction time:
 
@@ -21,14 +21,13 @@ Accuracy by phase at prediction time:
 |---|---|---|---|
 | 1 launch | 55 | 37 | 67% |
 | 2 accel | 94 | 70 | 74% |
-| 3 trajectory | 58 | 56 | 97% |
+| 3 trajectory | 59 | 57 | 97% |
 | 4 maturity | 1 | 1 | 100% |
 
 ## Open predictions (not yet decided)
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [7-e1even/learn-agent](https://github.com/7-e1even/learn-agent) | 56★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-07-05T01:22:07Z |
 | [aipoch/open-science](https://github.com/aipoch/open-science) | 28★ | 100★ | ✅ HIT_lean | launch | 2026-07-05T02:52:04Z |
 | [xuchonglang/xiaoyinsi-wiki](https://github.com/xuchonglang/xiaoyinsi-wiki) | 25★ | 100★ | ✅ HIT_lean | launch | 2026-07-05T03:58:04Z |
 | [maclifevn/MClean](https://github.com/maclifevn/MClean) | 20★ | 100★ | ⛔ MISS_lean | launch | 2026-07-05T06:46:06Z |
@@ -39,6 +38,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [7-e1even/learn-agent](https://github.com/7-e1even/learn-agent) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 56★ → 69★ |
 | [tiliondev/fortress](https://github.com/tiliondev/fortress) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 22★ → 34★ |
 | [can1357/pon](https://github.com/can1357/pon) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 28★ → 32★ |
 | [AmbroseX/larksnap](https://github.com/AmbroseX/larksnap) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 33★ → 48★ |
@@ -63,7 +63,6 @@ Accuracy by phase at prediction time:
 | [kentang-gs/KRNL-Execute-New-Update](https://github.com/kentang-gs/KRNL-Execute-New-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 89★ → 89★ |
 | [Translumina/Nezur-Execute-New-Update](https://github.com/Translumina/Nezur-Execute-New-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 89★ → 89★ |
 | [Mysterybox64/KRNL-Execute-New-Update](https://github.com/Mysterybox64/KRNL-Execute-New-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 85★ → 85★ |
-| [salman426/Synapse-Execute-New-Update](https://github.com/salman426/Synapse-Execute-New-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 89★ → 89★ |
 
 ## Verify it yourself / 自分で検証
 
