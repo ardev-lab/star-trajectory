@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-07-05 04:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-07-05 06:10 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -13,7 +13,7 @@ Base rate (share of scored repos that actually reached the target): 17%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 3 | 299 | 276 | 23 |
+| count | 11 | 299 | 276 | 23 |
 
 Accuracy by phase at prediction time:
 
@@ -29,8 +29,16 @@ Accuracy by phase at prediction time:
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
 | [maclifevn/MClean](https://github.com/maclifevn/MClean) | 20★ | 100★ | ⛔ MISS_lean | launch | 2026-07-05T06:46:06Z |
+| [ai4s-research/open-science](https://github.com/ai4s-research/open-science) | 89★ | 100★ | ➖ BORDERLINE | trajectory (sustain) | 2026-07-05T09:22:04Z |
+| [andreanocalvin/autoclaw-autologin](https://github.com/andreanocalvin/autoclaw-autologin) | 44★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-07-05T12:46:04Z |
+| [danleetw/ai_usage_dashboard](https://github.com/danleetw/ai_usage_dashboard) | 33★ | 100★ | ⛔ MISS_lean | accel | 2026-07-05T13:40:08Z |
 | [loyal-studio/Honami-Animation-System](https://github.com/loyal-studio/Honami-Animation-System) | 59★ | 100★ | ✅ HIT_lean | launch | 2026-07-05T13:58:08Z |
+| [It-is-Sean/macOS-Window-Styler](https://github.com/It-is-Sean/macOS-Window-Styler) | 37★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-07-05T14:16:07Z |
+| [mana-am/matrix-swift](https://github.com/mana-am/matrix-swift) | 68★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-07-05T14:46:07Z |
+| [adamraudonis/splats4D](https://github.com/adamraudonis/splats4D) | 38★ | 100★ | ⛔ MISS_lean | accel | 2026-07-05T19:16:05Z |
+| [Spotui/Spotui](https://github.com/Spotui/Spotui) | 76★ | 100★ | ➖ BORDERLINE | trajectory (sustain) | 2026-07-05T20:52:09Z |
 | [lxh77721/k12-reg](https://github.com/lxh77721/k12-reg) | 34★ | 100★ | ✅ HIT_lean | launch | 2026-07-06T01:46:03Z |
+| [programmersd21/flow](https://github.com/programmersd21/flow) | 62★ | 100★ | ➖ BORDERLINE | launch | 2026-07-06T10:10:06Z |
 
 ## Recently scored
 
