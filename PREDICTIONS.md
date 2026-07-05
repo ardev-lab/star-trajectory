@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-07-05 14:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-07-05 15:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,12 +8,12 @@ _Last updated: 2026-07-05 14:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 171/216 = 79%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+**Direction accuracy: 172/217 = 79%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
 Base rate (share of scored repos that actually reached the target): 17%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 5 | 305 | 282 | 23 |
+| count | 4 | 306 | 283 | 23 |
 
 Accuracy by phase at prediction time:
 
@@ -21,14 +21,13 @@ Accuracy by phase at prediction time:
 |---|---|---|---|
 | 1 launch | 59 | 40 | 68% |
 | 2 accel | 95 | 71 | 75% |
-| 3 trajectory | 61 | 59 | 97% |
+| 3 trajectory | 62 | 60 | 97% |
 | 4 maturity | 1 | 1 | 100% |
 
 ## Open predictions (not yet decided)
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [mana-am/matrix-swift](https://github.com/mana-am/matrix-swift) | 68★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-07-05T14:46:07Z |
 | [adamraudonis/splats4D](https://github.com/adamraudonis/splats4D) | 38★ | 100★ | ⛔ MISS_lean | accel | 2026-07-05T19:16:05Z |
 | [Spotui/Spotui](https://github.com/Spotui/Spotui) | 76★ | 100★ | ➖ BORDERLINE | trajectory (sustain) | 2026-07-05T20:52:09Z |
 | [lxh77721/k12-reg](https://github.com/lxh77721/k12-reg) | 34★ | 100★ | ✅ HIT_lean | launch | 2026-07-06T01:46:03Z |
@@ -38,6 +37,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [mana-am/matrix-swift](https://github.com/mana-am/matrix-swift) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 68★ → 86★ |
 | [It-is-Sean/macOS-Window-Styler](https://github.com/It-is-Sean/macOS-Window-Styler) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 37★ → 43★ |
 | [danleetw/ai_usage_dashboard](https://github.com/danleetw/ai_usage_dashboard) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 33★ → 40★ |
 | [loyal-studio/Honami-Animation-System](https://github.com/loyal-studio/Honami-Animation-System) | ✅ HIT_lean | ✅ HIT | ✔ correct | 59★ → 136★ |
@@ -62,7 +62,6 @@ Accuracy by phase at prediction time:
 | [LuciferTVBe/Celery-Execute-New-Update](https://github.com/LuciferTVBe/Celery-Execute-New-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 88★ → 88★ |
 | [kwaxyn/Celery-Execute-New-Update](https://github.com/kwaxyn/Celery-Execute-New-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 89★ → 89★ |
 | [takcsadam01/Thunder-Execute-New-Update](https://github.com/takcsadam01/Thunder-Execute-New-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 89★ → 89★ |
-| [solosergio238/Thunder-Execute-New-Update](https://github.com/solosergio238/Thunder-Execute-New-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 89★ → 89★ |
 
 ## Verify it yourself / 自分で検証
 
