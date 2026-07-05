@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-07-05 07:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-07-05 10:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -13,7 +13,7 @@ Base rate (share of scored repos that actually reached the target): 17%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 10 | 300 | 277 | 23 |
+| count | 9 | 301 | 278 | 23 |
 
 Accuracy by phase at prediction time:
 
@@ -28,7 +28,6 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [ai4s-research/open-science](https://github.com/ai4s-research/open-science) | 89★ | 100★ | ➖ BORDERLINE | trajectory (sustain) | 2026-07-05T09:22:04Z |
 | [andreanocalvin/autoclaw-autologin](https://github.com/andreanocalvin/autoclaw-autologin) | 44★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-07-05T12:46:04Z |
 | [danleetw/ai_usage_dashboard](https://github.com/danleetw/ai_usage_dashboard) | 33★ | 100★ | ⛔ MISS_lean | accel | 2026-07-05T13:40:08Z |
 | [loyal-studio/Honami-Animation-System](https://github.com/loyal-studio/Honami-Animation-System) | 59★ | 100★ | ✅ HIT_lean | launch | 2026-07-05T13:58:08Z |
@@ -43,6 +42,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [ai4s-research/open-science](https://github.com/ai4s-research/open-science) | ➖ BORDERLINE | ✅ HIT | – no-call | 89★ → 109★ |
 | [maclifevn/MClean](https://github.com/maclifevn/MClean) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 20★ → 25★ |
 | [xuchonglang/xiaoyinsi-wiki](https://github.com/xuchonglang/xiaoyinsi-wiki) | ✅ HIT_lean | ✅ HIT | ✔ correct | 25★ → 663★ |
 | [aipoch/open-science](https://github.com/aipoch/open-science) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 28★ → 33★ |
@@ -67,7 +67,6 @@ Accuracy by phase at prediction time:
 | [brandonb82/Fluxus-Execute-New-Update](https://github.com/brandonb82/Fluxus-Execute-New-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 89★ → 89★ |
 | [erkwng/Luna-Execute-New-Update](https://github.com/erkwng/Luna-Execute-New-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 89★ → 89★ |
 | [natanael0909/Luna-Execute-New-Update](https://github.com/natanael0909/Luna-Execute-New-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 89★ → 89★ |
-| [Curcio09/Phoenix-Execute-New-Update](https://github.com/Curcio09/Phoenix-Execute-New-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 89★ → 89★ |
 
 ## Verify it yourself / 自分で検証
 
