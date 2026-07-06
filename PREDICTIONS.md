@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-07-06 02:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-07-06 06:10 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -13,7 +13,7 @@ Base rate (share of scored repos that actually reached the target): 18%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 1 | 309 | 286 | 23 |
+| count | 9 | 309 | 286 | 23 |
 
 Accuracy by phase at prediction time:
 
@@ -29,6 +29,14 @@ Accuracy by phase at prediction time:
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
 | [programmersd21/flow](https://github.com/programmersd21/flow) | 62★ | 100★ | ➖ BORDERLINE | launch | 2026-07-06T10:10:06Z |
+| [SirBlondieDK/HADocs](https://github.com/SirBlondieDK/HADocs) | 32★ | 100★ | ⛔ MISS_lean | accel | 2026-07-06T21:34:04Z |
+| [u8mypizza22-code/singleplayer-wow](https://github.com/u8mypizza22-code/singleplayer-wow) | 21★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-07-06T23:52:03Z |
+| [feb-frmn/itlg-claim](https://github.com/feb-frmn/itlg-claim) | 25★ | 100★ | ⛔ MISS_lean | launch | 2026-07-07T10:34:06Z |
+| [TGDash/HashPay](https://github.com/TGDash/HashPay) | 52★ | 100★ | ➖ BORDERLINE | accel | 2026-07-07T12:04:05Z |
+| [liu-ethan/golem](https://github.com/liu-ethan/golem) | 21★ | 100★ | ⛔ MISS_lean | accel | 2026-07-07T14:28:07Z |
+| [sanketsahu/tinbase](https://github.com/sanketsahu/tinbase) | 52★ | 100★ | ✅ HIT_lean | accel | 2026-07-07T14:46:08Z |
+| [Bike4Mind/bike4mind](https://github.com/Bike4Mind/bike4mind) | 24★ | 100★ | ⛔ MISS_lean | launch | 2026-07-07T15:46:05Z |
+| [starmiaoa/chatgpt-register-sub2api](https://github.com/starmiaoa/chatgpt-register-sub2api) | 47★ | 100★ | ✅ HIT_lean | launch | 2026-07-08T02:10:07Z |
 
 ## Recently scored
 
