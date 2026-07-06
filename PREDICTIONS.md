@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-07-05 21:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-07-06 02:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,18 +8,18 @@ _Last updated: 2026-07-05 21:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 173/218 = 79%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
-Base rate (share of scored repos that actually reached the target): 17%.
+**Direction accuracy: 174/219 = 80%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+Base rate (share of scored repos that actually reached the target): 18%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 2 | 308 | 285 | 23 |
+| count | 1 | 309 | 286 | 23 |
 
 Accuracy by phase at prediction time:
 
 | phase | directional calls | correct | accuracy |
 |---|---|---|---|
-| 1 launch | 59 | 40 | 68% |
+| 1 launch | 60 | 41 | 68% |
 | 2 accel | 96 | 72 | 75% |
 | 3 trajectory | 62 | 60 | 97% |
 | 4 maturity | 1 | 1 | 100% |
@@ -28,13 +28,13 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [lxh77721/k12-reg](https://github.com/lxh77721/k12-reg) | 34★ | 100★ | ✅ HIT_lean | launch | 2026-07-06T01:46:03Z |
 | [programmersd21/flow](https://github.com/programmersd21/flow) | 62★ | 100★ | ➖ BORDERLINE | launch | 2026-07-06T10:10:06Z |
 
 ## Recently scored
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [lxh77721/k12-reg](https://github.com/lxh77721/k12-reg) | ✅ HIT_lean | ✅ HIT | ✔ correct | 34★ → 190★ |
 | [Spotui/Spotui](https://github.com/Spotui/Spotui) | ➖ BORDERLINE | ✅ HIT | – no-call | 76★ → 118★ |
 | [adamraudonis/splats4D](https://github.com/adamraudonis/splats4D) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 38★ → 41★ |
 | [mana-am/matrix-swift](https://github.com/mana-am/matrix-swift) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 68★ → 86★ |
@@ -59,7 +59,6 @@ Accuracy by phase at prediction time:
 | [NebuSec/CyberMeowfia](https://github.com/NebuSec/CyberMeowfia) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 27★ → 30★ |
 | [lojavitrineeconomica/Delta-Execute-New-Update](https://github.com/lojavitrineeconomica/Delta-Execute-New-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 89★ → 89★ |
 | [Translumina/Swift-Execute-New-Update](https://github.com/Translumina/Swift-Execute-New-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 89★ → 89★ |
-| [LuciferTVBe/Celery-Execute-New-Update](https://github.com/LuciferTVBe/Celery-Execute-New-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 88★ → 88★ |
 
 ## Verify it yourself / 自分で検証
 
