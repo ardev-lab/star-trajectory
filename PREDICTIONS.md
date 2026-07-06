@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-07-06 06:10 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-07-06 10:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -13,7 +13,7 @@ Base rate (share of scored repos that actually reached the target): 18%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 9 | 309 | 286 | 23 |
+| count | 8 | 310 | 287 | 23 |
 
 Accuracy by phase at prediction time:
 
@@ -28,7 +28,6 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [programmersd21/flow](https://github.com/programmersd21/flow) | 62★ | 100★ | ➖ BORDERLINE | launch | 2026-07-06T10:10:06Z |
 | [SirBlondieDK/HADocs](https://github.com/SirBlondieDK/HADocs) | 32★ | 100★ | ⛔ MISS_lean | accel | 2026-07-06T21:34:04Z |
 | [u8mypizza22-code/singleplayer-wow](https://github.com/u8mypizza22-code/singleplayer-wow) | 21★ | 100★ | ⛔ MISS_lean | trajectory (sustain) | 2026-07-06T23:52:03Z |
 | [feb-frmn/itlg-claim](https://github.com/feb-frmn/itlg-claim) | 25★ | 100★ | ⛔ MISS_lean | launch | 2026-07-07T10:34:06Z |
@@ -42,6 +41,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [programmersd21/flow](https://github.com/programmersd21/flow) | ➖ BORDERLINE | ✅ HIT | – no-call | 62★ → 104★ |
 | [lxh77721/k12-reg](https://github.com/lxh77721/k12-reg) | ✅ HIT_lean | ✅ HIT | ✔ correct | 34★ → 190★ |
 | [Spotui/Spotui](https://github.com/Spotui/Spotui) | ➖ BORDERLINE | ✅ HIT | – no-call | 76★ → 118★ |
 | [adamraudonis/splats4D](https://github.com/adamraudonis/splats4D) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 38★ → 41★ |
@@ -66,7 +66,6 @@ Accuracy by phase at prediction time:
 | [StanleyNull/AutoHunter](https://github.com/StanleyNull/AutoHunter) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 23★ → 27★ |
 | [NebuSec/CyberMeowfia](https://github.com/NebuSec/CyberMeowfia) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 27★ → 30★ |
 | [lojavitrineeconomica/Delta-Execute-New-Update](https://github.com/lojavitrineeconomica/Delta-Execute-New-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 89★ → 89★ |
-| [Translumina/Swift-Execute-New-Update](https://github.com/Translumina/Swift-Execute-New-Update) | ❔ LOW_CONF | ⛔ MISS | – no-call | 89★ → 89★ |
 
 ## Verify it yourself / 自分で検証
 
