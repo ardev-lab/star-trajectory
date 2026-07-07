@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-07-07 15:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-07-07 16:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,18 +8,18 @@ _Last updated: 2026-07-07 15:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 177/223 = 79%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
-Base rate (share of scored repos that actually reached the target): 18%.
+**Direction accuracy: 178/224 = 80%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+Base rate (share of scored repos that actually reached the target): 17%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 2 | 316 | 292 | 24 |
+| count | 1 | 317 | 293 | 24 |
 
 Accuracy by phase at prediction time:
 
 | phase | directional calls | correct | accuracy |
 |---|---|---|---|
-| 1 launch | 61 | 42 | 69% |
+| 1 launch | 62 | 43 | 69% |
 | 2 accel | 99 | 74 | 75% |
 | 3 trajectory | 62 | 60 | 97% |
 | 4 maturity | 1 | 1 | 100% |
@@ -28,13 +28,13 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [Bike4Mind/bike4mind](https://github.com/Bike4Mind/bike4mind) | 24★ | 100★ | ⛔ MISS_lean | launch | 2026-07-07T15:46:05Z |
 | [starmiaoa/chatgpt-register-sub2api](https://github.com/starmiaoa/chatgpt-register-sub2api) | 47★ | 100★ | ✅ HIT_lean | launch | 2026-07-08T02:10:07Z |
 
 ## Recently scored
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [Bike4Mind/bike4mind](https://github.com/Bike4Mind/bike4mind) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 24★ → 43★ |
 | [liu-ethan/golem](https://github.com/liu-ethan/golem) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 21★ → 22★ |
 | [sanketsahu/tinbase](https://github.com/sanketsahu/tinbase) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 52★ → 83★ |
 | [TGDash/HashPay](https://github.com/TGDash/HashPay) | ➖ BORDERLINE | ⛔ MISS | – no-call | 52★ → 64★ |
@@ -59,7 +59,6 @@ Accuracy by phase at prediction time:
 | [AmbroseX/larksnap](https://github.com/AmbroseX/larksnap) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 33★ → 48★ |
 | [koul777/VHLookup](https://github.com/koul777/VHLookup) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 24★ → 28★ |
 | [crgimenes/kutta](https://github.com/crgimenes/kutta) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 49★ → 50★ |
-| [oomol-lab/CloseUp](https://github.com/oomol-lab/CloseUp) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 22★ → 27★ |
 
 ## Verify it yourself / 自分で検証
 
