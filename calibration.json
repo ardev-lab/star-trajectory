@@ -1,10 +1,10 @@
 {
-  "generated_utc": "2026-07-07T11:20:02Z",
+  "generated_utc": "2026-07-07T12:20:02Z",
   "totals": {
     "predictions": 318,
-    "open": 5,
-    "scored": 313,
-    "graded": 289,
+    "open": 4,
+    "scored": 314,
+    "graded": 290,
     "repo_gone": 24
   },
   "direction_accuracy": {
@@ -21,9 +21,9 @@
       "actual_miss": 39
     },
     "BORDERLINE": {
-      "n": 21,
+      "n": 22,
       "actual_hit": 4,
-      "actual_miss": 17
+      "actual_miss": 18
     },
     "MISS_lean": {
       "n": 141,

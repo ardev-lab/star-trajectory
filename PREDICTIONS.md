@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-07-07 11:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-07-07 12:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -13,7 +13,7 @@ Base rate (share of scored repos that actually reached the target): 18%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 5 | 313 | 289 | 24 |
+| count | 4 | 314 | 290 | 24 |
 
 Accuracy by phase at prediction time:
 
@@ -28,7 +28,6 @@ Accuracy by phase at prediction time:
 
 | repo | stars @ prediction | → target | call | phase | deadline (UTC) |
 |---|---|---|---|---|---|
-| [TGDash/HashPay](https://github.com/TGDash/HashPay) | 52★ | 100★ | ➖ BORDERLINE | accel | 2026-07-07T12:04:05Z |
 | [liu-ethan/golem](https://github.com/liu-ethan/golem) | 21★ | 100★ | ⛔ MISS_lean | accel | 2026-07-07T14:28:07Z |
 | [sanketsahu/tinbase](https://github.com/sanketsahu/tinbase) | 52★ | 100★ | ✅ HIT_lean | accel | 2026-07-07T14:46:08Z |
 | [Bike4Mind/bike4mind](https://github.com/Bike4Mind/bike4mind) | 24★ | 100★ | ⛔ MISS_lean | launch | 2026-07-07T15:46:05Z |
@@ -38,6 +37,7 @@ Accuracy by phase at prediction time:
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [TGDash/HashPay](https://github.com/TGDash/HashPay) | ➖ BORDERLINE | ⛔ MISS | – no-call | 52★ → 64★ |
 | [feb-frmn/itlg-claim](https://github.com/feb-frmn/itlg-claim) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 25★ → 27★ |
 | [SirBlondieDK/HADocs](https://github.com/SirBlondieDK/HADocs) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 32★ → 36★ |
 | [programmersd21/flow](https://github.com/programmersd21/flow) | ➖ BORDERLINE | ✅ HIT | – no-call | 62★ → 104★ |
@@ -62,7 +62,6 @@ Accuracy by phase at prediction time:
 | [oomol-lab/CloseUp](https://github.com/oomol-lab/CloseUp) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 22★ → 27★ |
 | [rafael-fu2025/synapse_ag](https://github.com/rafael-fu2025/synapse_ag) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 27★ → 27★ |
 | [Tokeii0/LovelyMiscLab](https://github.com/Tokeii0/LovelyMiscLab) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 35★ → 39★ |
-| [StanleyNull/AutoHunter](https://github.com/StanleyNull/AutoHunter) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 23★ → 27★ |
 
 ## Verify it yourself / 自分で検証
 
