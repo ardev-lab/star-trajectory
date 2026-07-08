@@ -1,6 +1,6 @@
 # star-trajectory — public prediction track record
 
-_Last updated: 2026-07-07 16:20 UTC · regenerated from the ledger, not hand-edited._
+_Last updated: 2026-07-08 02:20 UTC · regenerated from the ledger, not hand-edited._
 
 **EN** — Each entry below is a dated, falsifiable prediction: *will this young GitHub repo reach 100★ within 48h of launch?* We classify the repo's growth phase and project the outcome **before** it is known, then grade ourselves once the deadline passes. The point is not any single call — it is the **measured track record**. Projection direction is robust; projection magnitude is noisy (±~30%), so calls are 3-level (HIT / BORDERLINE / MISS), never a fake-precise probability.
 
@@ -8,32 +8,32 @@ _Last updated: 2026-07-07 16:20 UTC · regenerated from the ledger, not hand-edi
 
 ## Calibration (how good is the track record?)
 
-**Direction accuracy: 178/224 = 80%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
-Base rate (share of scored repos that actually reached the target): 17%.
+**Direction accuracy: 179/225 = 80%** (HIT_lean / MISS_lean calls; BORDERLINE & LOW_CONFIDENCE make no claim and are excluded).
+Base rate (share of scored repos that actually reached the target): 18%.
 
 | | open | scored | graded HIT/MISS | repo gone |
 |---|---|---|---|---|
-| count | 1 | 317 | 293 | 24 |
+| count | 0 | 318 | 294 | 24 |
 
 Accuracy by phase at prediction time:
 
 | phase | directional calls | correct | accuracy |
 |---|---|---|---|
-| 1 launch | 62 | 43 | 69% |
+| 1 launch | 63 | 44 | 70% |
 | 2 accel | 99 | 74 | 75% |
 | 3 trajectory | 62 | 60 | 97% |
 | 4 maturity | 1 | 1 | 100% |
 
 ## Open predictions (not yet decided)
 
-| repo | stars @ prediction | → target | call | phase | deadline (UTC) |
-|---|---|---|---|---|---|
-| [starmiaoa/chatgpt-register-sub2api](https://github.com/starmiaoa/chatgpt-register-sub2api) | 47★ | 100★ | ✅ HIT_lean | launch | 2026-07-08T02:10:07Z |
+_No open predictions right now._
+
 
 ## Recently scored
 
 | repo | call | outcome | result | stars @ prediction → deadline |
 |---|---|---|---|---|
+| [starmiaoa/chatgpt-register-sub2api](https://github.com/starmiaoa/chatgpt-register-sub2api) | ✅ HIT_lean | ✅ HIT | ✔ correct | 47★ → 160★ |
 | [Bike4Mind/bike4mind](https://github.com/Bike4Mind/bike4mind) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 24★ → 43★ |
 | [liu-ethan/golem](https://github.com/liu-ethan/golem) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 21★ → 22★ |
 | [sanketsahu/tinbase](https://github.com/sanketsahu/tinbase) | ✅ HIT_lean | ⛔ MISS | ✗ WRONG | 52★ → 83★ |
@@ -58,7 +58,6 @@ Accuracy by phase at prediction time:
 | [can1357/pon](https://github.com/can1357/pon) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 28★ → 32★ |
 | [AmbroseX/larksnap](https://github.com/AmbroseX/larksnap) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 33★ → 48★ |
 | [koul777/VHLookup](https://github.com/koul777/VHLookup) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 24★ → 28★ |
-| [crgimenes/kutta](https://github.com/crgimenes/kutta) | ⛔ MISS_lean | ⛔ MISS | ✔ correct | 49★ → 50★ |
 
 ## Verify it yourself / 自分で検証
 
